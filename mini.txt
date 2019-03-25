@@ -1064,7 +1064,7 @@ same species). Black wallaroos <b>kabirri</b>-murlbardme 'they hop (of rock kang
 \xe Women's internal reproductive organs.
 \se baybaywi
 \de Inside, internally, within oneself.
-\xe Ngalengman baybaywi djahdjalburrbuni.
+\xv Ngalengman baybaywi djahdjalburrbuni.
 \xe She knew within herself, was convinced of it.
 \so Nawirridj, Grace & Rowe, Meryl (eds), 'Karriburlume God: Kunwinjku Song Book', Gunbalanya, 1985, p. 7.
 \id DK, entered into master file 06/09/2016

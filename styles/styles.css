@@ -1,0 +1,304 @@
+:root {
+    --main-app-color: brown;
+    --secondary-app-color: #ece2de; 
+    --display-font: 'Special Elite';
+}
+
+
+body {
+    font-family: 'Merriweather', serif;
+    line-height: 1.4;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    background-color: white;
+}
+.entry-list-wrapper {
+    padding-top: 100px;
+    width: 65%;
+    margin: auto;
+}
+article {
+    background: white;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+p {
+    margin: 0;
+}
+.ps {
+    font-style: italic;
+    margin-left: 10px;
+    color: brown;
+}
+.sn {
+    font-weight: 700;
+    margin-right: 10px;
+}
+.lx {
+    font-weight: 900;
+    font-size: 1.3em;
+}
+.also {
+    font-style: italic
+}
+.xv {
+    font-style: italic
+}
+ul li {
+    margin-bottom: 10px;
+}
+.se {
+    font-weight: 700;
+    font-style: italic;
+    margin-bottom: 5px;
+}
+.se-de {
+    margin-bottom: 10px;
+}
+.grammar {
+    font-style: italic;
+}
+.ng {
+    margin-top: 10px;
+}
+.header {
+    margin-bottom: 10px;
+}
+.headword {
+    margin-bottom: 5px;
+}
+.subentry-text {
+    margin-left: 1.2em;
+    margin-bottom: 5px;
+}
+.se-info {
+    background: #DDD;
+    border: 1px solid #BBB;
+    border-radius: 5px;
+    text-transform: uppercase;
+    color: #666;
+    font-size: 0.75em;
+    margin-right: 10px;
+    padding: 2px;
+    font-family: 'Open Sans', sans-serif;
+}
+.subentry-text.end {
+    margin-left: 0px;
+}
+/* Need to give this a top margin because padding messes with animation */
+
+.de-box {
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+.de {
+    color: var(--main-app-color);
+}
+article {
+    box-shadow: 2px 2px 3px -2px #CCCCCC;
+    /*
+    margin-bottom: 50px;
+    margin-top: 50px;
+*/
+}
+/*        Otherwise italics inside italics don't show up*/
+
+.xv i {
+    font-weight: 700;
+}
+.subentry-header {
+    background: #ece2de;
+    color: #954943;
+    border-color: #954943;
+}
+/*
+margint {
+    margin-top: 20px;
+}
+*/
+
+.subentries {
+    /*
+    background-color: #ece2de;
+    border: 1px solid #954943;
+    width: 500px;
+    border-radius: 5px;
+    padding: 15px;
+*/
+    margin-top: 20px;
+}
+/*
+ul li {
+
+    list-style-position: outside;
+
+    margin-left: 1em;
+}
+*/
+/*COLLAPSIBLE*/
+/*https://www.w3schools.com/howto/howto_js_collapsible.asp*/
+
+.collapsible {
+    background-color: var(--secondary-app-color);
+    color: #222;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-family: 'Open Sans', sans-serif;
+}
+.active,
+.collapsible:hover {
+    background-color: var(--main-app-color);
+    color: white;
+}
+.content {
+    padding: 0px 20px 20px 20px;
+    display: none;
+    overflow: hidden;
+    background-color: white;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 1px solid #AAA;
+    height: auto;
+    max-height: 1000px;
+    animation-duration: 0.8s;
+    animation-name: growDown;
+    animation-fill-mode: forwards;
+}
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 80px;
+    margin-bottom: 20px;
+    display: grid;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    background-color: var(--main-app-color);
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: 50px 200px 1fr 200px 50px;
+    grid-template-rows: 100%;
+}
+
+#search-area {
+    display: grid;
+    grid-template-columns: 50px 30px 1fr;
+}
+
+#app-title {
+    font-family: var(--display-font), cursive;
+    font-weight: 500;
+    font-size: 1.2em;
+/*    text-align: center;*/
+/*    border: 1px solid white;*/
+}
+
+#subtitle {
+    margin-left: 20px;
+    font-family: 'Merriweather', serif;
+    font-style: italic;
+}
+#myInput {
+    width: 100%;
+    height: 50px;
+    border-radius: 15px;
+    margin-left: -1px;
+    border: none;
+    font-size: 1em;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 10px;
+    margin-right: 20px;
+}
+input:focus {
+    outline: none;
+}
+.fade-in {
+    animation-duration: var(--interval);
+    animation-name: fadeIn;
+    animation-fill-mode: forwards;
+}
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+/* We have to transition max-height, not height. https://css-tricks.com/using-css-transitions-auto-dimensions/*/
+
+@keyframes growDown {
+    from {
+        max-height: 0px;
+    }
+    to {
+        max-height: 1000px;
+    }
+}
+/* We have to transition max-height, not height. https://css-tricks.com/using-css-transitions-auto-dimensions/*/
+
+@keyframes shrinkUp {
+    from {
+        max-height: 1000px;
+    }
+    to {
+        max-height: 0px;
+    }
+}
+.svg-clipped {
+    -webkit-clip-path: url(#svgPath);
+    clip-path: url(#svgPath);
+}
+.speech-bubble {
+    position: relative;
+    background: #00aabb;
+    border-radius: .4em;
+}
+.speech-bubble:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 0;
+    height: 0;
+    border: 42px solid transparent;
+    border-right-color: #00aabb;
+    border-left: 0;
+    margin-top: -42px;
+    margin-left: -42px;
+}
+#mimih-box {
+    display: flex;
+    justify-content: flex-end
+}
+#mimih-img {
+    margin-bottom: 3px;
+}
+#bubblepoint-svg {
+    background-color: var(--main-app-color);
+}
+
+/*@MEDIA*/
+
+/*TABLET VIEW*/
+@media (max-width: 1000px) {
+
+    
+}
+    
+/*MOBILE VIEW*/
+@media (max-width: 650px) {
+    
+
+}
+

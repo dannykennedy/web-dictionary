@@ -310,8 +310,8 @@ with open(myfile,'r') as f:
 
 
 # ADD CSS HEADER TO FILE
-with open("header.html") as f:
-    with open("dict.html", "w") as f1:
+with open("web-header-bubble.html") as f:
+    with open("dict-for-web4.html", "w") as f1:
         for line in f:
             f1.write(line)
     f1.close()
@@ -328,22 +328,11 @@ for entry in entries:
 sorted_entries = sorted(clean_entries, key=itemgetter('sorting-headword'))
 
 
-# ADD CSS HEADER TO FILE
-with open("web-header.html") as f:
-    with open("dict-for-web3.html", "w") as f1:
-        for line in f:
-            f1.write(line)
-    f1.close()
-f.close()
+with open("dict-for-web4.html", 'a') as f:
 
 
-with open("dict-for-web3.html", 'a') as f:
-    f.write('<body>')
-    # header and subheader
-    f.write('<header><p id="title">Bininj Kunwok dictionary</p><p id="subtitle">kunwok dja mankarre kadberre—our language, our culture<br>DRAFT ONLY &copy;2019 Bininj Kunwok Regional Language Centre</p></header>')
     f.write('<div class="entry-list-wrapper">')
-    # input search box
-    f.write('<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search | Yiwokyawa" title="Type in a name">')
+
 
     # print("all entries " + str(i - 1))
 
@@ -356,7 +345,7 @@ with open("dict-for-web3.html", 'a') as f:
             k = k + 1
             continue
         k = k+1
-        if k == 10:
+        if k == 50:
             print('end')
             break
 
@@ -383,10 +372,10 @@ with open("dict-for-web3.html", 'a') as f:
             # If there are actually variations
             if not len(entry["va"]) == 0:
 
-                f.write('<p class="va"><span class="variant">also: </span>')
+                f.write('<p class="variant"><span class="also">also: </span>')
                 i = 0
                 while i < len(entry["va"]):
-                    f.write(entry["va"][i])
+                    f.write('<span class="va">' + entry["va"][i] + '</span>')
                     if not i == len(entry["va"])-1:
                         f.write(", ")
                     i=i+1
@@ -545,8 +534,8 @@ with open("dict-for-web3.html", 'a') as f:
     f.close()
 
 # ADD JS TO FILE
-with open("script.js") as f:
-    with open("dict-for-web3.html", "a") as f1:
+with open("script-bubble.js") as f:
+    with open("dict-for-web4.html", "a") as f1:
         f1.write('<script>')
         for line in f:
             f1.write(line)
