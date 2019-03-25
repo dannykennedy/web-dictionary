@@ -347,7 +347,7 @@ with open("dict-for-web4.html", 'a') as f:
         k = k+1
         if k == 50:
             print('end')
-            break
+            # break
 
         # Semantic tag for each entry
         f.write('<article>')
@@ -403,10 +403,12 @@ with open("dict-for-web4.html", 'a') as f:
                             f.write(", ")
                         else:
                             f.write(" ")
-
-
-                        # print("got a reverse")
             f.write("</p>")
+
+        if 'ur' in entry:
+            f.write('<p class="ur subentry-text end"><span class="se-info end">Other languages</span><span>')
+            f.write(entry["ur"])
+            f.write('</span></p>')
 
 
         # End of headword/POS section
@@ -481,11 +483,6 @@ with open("dict-for-web4.html", 'a') as f:
         if 'uv' in entry:
             f.write('<p class="uv subentry-text end"><span class="se-info end">Language</span><span>')
             f.write(entry["uv"])
-            f.write('</span></p>')
-
-        if 'ur' in entry:
-            f.write('<p class="ur subentry-text end"><span class="se-info end">Other languages</span><span>')
-            f.write(entry["ur"])
             f.write('</span></p>')
 
         if 'bw' in entry:

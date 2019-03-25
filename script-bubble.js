@@ -6,13 +6,17 @@ for (i = 0; i < coll.length; i++) {
 
         this.classList.toggle("active");
         var content = this.nextElementSibling;
+        
+        var pos = this.getElementsByClassName("ps")[0];
 
         if (content.style.display === "block") {
             content.style.display = "none";
             this.style.color = 'black';
+            pos.style.color = 'brown';
         } else {
             content.style.display = "block";
             this.style.color = 'white';
+            pos.style.color = 'white';
             //Keep the card looking good
             this.style.borderBottomLeftRadius = '0px';
             this.style.borderBottomRightRadius = '0px';

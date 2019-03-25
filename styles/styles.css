@@ -1,10 +1,8 @@
 :root {
     --main-app-color: brown;
-    --secondary-app-color: #ece2de; 
+    --secondary-app-color: #ece2de;
     --display-font: 'Special Elite';
 }
-
-
 body {
     font-family: 'Merriweather', serif;
     line-height: 1.4;
@@ -29,8 +27,12 @@ p {
 .ps {
     font-style: italic;
     margin-left: 10px;
-    color: brown;
+    color: var(--main-app-color);
 }
+.ps:hover {
+    color: white;
+}
+
 .sn {
     font-weight: 700;
     margin-right: 10px;
@@ -86,6 +88,7 @@ ul li {
 .subentry-text.end {
     margin-left: 0px;
 }
+
 /* Need to give this a top margin because padding messes with animation */
 
 .de-box {
@@ -102,6 +105,7 @@ article {
     margin-top: 50px;
 */
 }
+
 /*        Otherwise italics inside italics don't show up*/
 
 .xv i {
@@ -112,12 +116,10 @@ article {
     color: #954943;
     border-color: #954943;
 }
-/*
-margint {
-    margin-top: 20px;
+.reverses {
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
-*/
-
 .subentries {
     /*
     background-color: #ece2de;
@@ -128,15 +130,10 @@ margint {
 */
     margin-top: 20px;
 }
-/*
-ul li {
 
-    list-style-position: outside;
-
-    margin-left: 1em;
-}
-*/
 /*COLLAPSIBLE*/
+
+
 /*https://www.w3schools.com/howto/howto_js_collapsible.asp*/
 
 .collapsible {
@@ -185,24 +182,26 @@ header {
     color: white;
     background-color: var(--main-app-color);
     align-items: center;
-    justify-content: center;
-    grid-template-columns: 50px 200px 1fr 200px 50px;
-    grid-template-rows: 100%;
+    grid-template-columns: 1fr 65% 1fr;
 }
-
 #search-area {
     display: grid;
-    grid-template-columns: 50px 30px 1fr;
+    width: 95%;
+    grid-template-columns: 35px 30px 1fr;
+    justify-self: center;
 }
-
 #app-title {
     font-family: var(--display-font), cursive;
     font-weight: 500;
     font-size: 1.2em;
-/*    text-align: center;*/
-/*    border: 1px solid white;*/
+    justify-self: flex-start;
+    margin-left: 30px;
+    /*    text-align: center;*/
+    /*    border: 1px solid white;*/
 }
-
+#dictionary {
+    /*    font-size: 1.3em;*/
+}
 #subtitle {
     margin-left: 20px;
     font-family: 'Merriweather', serif;
@@ -235,6 +234,7 @@ input:focus {
         opacity: 1;
     }
 }
+
 /* We have to transition max-height, not height. https://css-tricks.com/using-css-transitions-auto-dimensions/*/
 
 @keyframes growDown {
@@ -245,6 +245,7 @@ input:focus {
         max-height: 1000px;
     }
 }
+
 /* We have to transition max-height, not height. https://css-tricks.com/using-css-transitions-auto-dimensions/*/
 
 @keyframes shrinkUp {
@@ -290,15 +291,30 @@ input:focus {
 
 /*@MEDIA*/
 
+
 /*TABLET VIEW*/
-@media (max-width: 1000px) {
 
-    
-}
-    
 /*MOBILE VIEW*/
-@media (max-width: 650px) {
-    
 
+@media (max-width: 800px) {
+    #app-title {
+        display: none;
+    }
+    #search-options {
+        display: none;
+    }
+    .entry-list-wrapper {
+        padding-top: 100px;
+        width: 90%;
+        margin: auto;
+    }
+    header {
+        grid-template-columns: 1fr;
+        align-items: center;
+    }
+    #search-area {
+        width: 87%;
+        margin-left: 5%;
+        margin-right: 8%;
+    }
 }
-
