@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link href="https://fonts.googleapis.com/css?family=Merriweather|Open+Sans" rel="stylesheet">
+    <script src="script.js"></script>
+    <style>
+        body {
+            font-family: 'Merriweather', serif;
+            line-height: 1.4;
+            margin-left: 0px;
+            margin-right: 0px;
+            margin-top: 0px;
+            background-color: white;
+        }
+        
+        .entry-list-wrapper {
+            padding-top: 100px;
+            width: 80%;
+            margin: auto;
+        }
+        
+        article {
+            background: white;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+        
+        p {
+            margin: 0;
+        }
+        
+        .ps {
+            font-style: italic;
+            margin-left: 10px;
+            color: brown;
+        }
+        
+        .sn {
+            font-weight: 700;
+            /*            color: orange;*/
+            margin-right: 10px;
+        }
+        
+        .lx {
+            font-weight: 900;
+            font-size: 1.3em;
+        }
+        
+        .variant {
+            font-style: italic
+        }
+        
+        .xv {
+            font-style: italic
+        }
+        
+        ul li {
+            margin-bottom: 10px;
+        }
+        
+        .se {
+            font-weight: 700;
+            font-style: italic;
+            margin-bottom: 5px;
+        }
+        
+        .se-de {
+            margin-bottom: 10px;
+        }
+        
+        .grammar {
+            font-style: italic;
+        }
+        
+        .ng {
+            margin-top: 10px;
+        }
+        
+        .header {
+            margin-bottom: 10px;
+        }
+        
+        .headword {
+            margin-bottom: 5px;
+        }
+        
+        .subentry-text {
+            margin-left: 1.2em;
+            margin-bottom: 5px;
+        }
+        
+        .se-info {
+            background: #DDD;
+            border: 1px solid #BBB;
+            border-radius: 5px;
+            text-transform: uppercase;
+            color: #666;
+            font-size: 0.75em;
+            margin-right: 10px;
+            padding: 2px;
+            font-family: 'Open Sans', sans-serif;
+        }
+        
+        .subentry-text.end {
+            margin-left: 0px;
+        }
+        /* Need to give this a top margin because padding messes with animation */
+        
+        .de-box {
+            margin-bottom: 5px;
+            margin-top: 20px;
+        }
+        
+        .de {
+            color: brown;
+        }
+        
+        article {
+            box-shadow: 2px 2px 3px -2px #CCCCCC;
+            /*
+            margin-bottom: 50px;
+            margin-top: 50px;
+*/
+        }
+        /*        Otherwise italics inside italics don't show up*/
+        
+        .xv i {
+            font-weight: 700;
+        }
+        
+        .subentry-header {
+            background: #ece2de;
+            color: #954943;
+            border-color: #954943;
+        }
+        /*
+        margint {
+            margin-top: 20px;
+        }
+*/
+        
+        .subentries {
+            /*
+            background-color: #ece2de;
+            border: 1px solid #954943;
+            width: 500px;
+            border-radius: 5px;
+            padding: 15px;
+*/
+            margin-top: 20px;
+        }
+        /*
+        ul li {
+
+            list-style-position: outside;
+
+            margin-left: 1em;
+        }
+*/
+        /*COLLAPSIBLE*/
+        /*https://www.w3schools.com/howto/howto_js_collapsible.asp*/
+        
+        .collapsible {
+            background-color: #ece2de;
+            color: #222;
+            cursor: pointer;
+            padding: 18px;
+            width: 100%;
+            border: none;
+            text-align: left;
+            outline: none;
+            font-size: 15px;
+            border-top-left-radius: 5px;
+            border-top-right-radius: 5px;
+            border-bottom-left-radius: 5px;
+            border-bottom-right-radius: 5px;
+            font-family: 'Open Sans', sans-serif;
+        }
+        
+        .active,
+        .collapsible:hover {
+            background-color: #802501;
+            color: white;
+        }
+        
+        .content {
+            padding: 0px 20px 20px 20px;
+            display: none;
+            overflow: hidden;
+            background-color: white;
+            border-bottom-left-radius: 5px;
+            border-bottom-right-radius: 5px;
+            border: 1px solid #AAA;
+            height: auto;
+            max-height: 1000px;
+            animation-duration: 0.8s;
+            animation-name: growDown;
+            animation-fill-mode: forwards;
+        }
+        
+        header {
+            /*            background-image: url(header1.jpg);*/
+            /*            background-repeat: no-repeat;*/
+            /*            background-size: cover;*/
+            position: fixed;
+            top: 0;
+            width: 100%;
+            height: 80px;
+            margin-bottom: 20px;
+            display: grid;
+            font-family: 'Open Sans', sans-serif;
+            color: white;
+            background-color: brown;
+            align-items: center;
+            justify-content: center;
+            grid-template-columns: 50px 200px 30px 1fr 20px;
+            grid-template-rows: 100%;
+        }
+        
+        #subtitle {
+            margin-left: 20px;
+            font-family: 'Merriweather', serif;
+            font-style: italic;
+        }
+        
+        #myInput {
+            width: 100%;
+            height: 50px;
+            border-radius: 15px;
+            margin-left: -1px;
+            border: none;
+            font-size: 1em;
+            font-family: 'Open Sans', sans-serif;
+            padding-left: 10px;
+            margin-right: 20px;
+        }
+        
+        input:focus {
+            outline: none;
+        }
+        
+        .fade-in {
+            animation-duration: var(--interval);
+            animation-name: fadeIn;
+            animation-fill-mode: forwards;
+        }
+        
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+        /* We have to transition max-height, not height. https://css-tricks.com/using-css-transitions-auto-dimensions/*/
+        
+        @keyframes growDown {
+            from {
+                max-height: 0px;
+            }
+            to {
+                max-height: 1000px;
+            }
+        }
+        /* We have to transition max-height, not height. https://css-tricks.com/using-css-transitions-auto-dimensions/*/
+        
+        @keyframes shrinkUp {
+            from {
+                max-height: 1000px;
+            }
+            to {
+                max-height: 0px;
+            }
+        }
+        
+        .svg-clipped {
+            -webkit-clip-path: url(#svgPath);
+            clip-path: url(#svgPath);
+        }
+        
+        .speech-bubble {
+            position: relative;
+            background: #00aabb;
+            border-radius: .4em;
+        }
+        
+        .speech-bubble:after {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 50%;
+            width: 0;
+            height: 0;
+            border: 42px solid transparent;
+            border-right-color: #00aabb;
+            border-left: 0;
+            margin-top: -42px;
+            margin-left: -42px;
+        }
+
+    </style>
+</head>
+
+<body>
+    <header>
+
+        <p>&#9776;</p>
+
+
+        <p>Bininj Kunwok dictionary</p>
+
+
+        <svg height="50" width="30" viewBox="0 0 90 260" style="background-color: brown">
+            <path fill="#FFF" stroke="#FFF" stroke-width="1.5794" stroke-miterlimit="10" d="M133,265.5L133,0.5L132.5,0.5A132.5,132.5 0,0 1,0 133,132.5 132.5,0 0,1 132.5,265.5" /> Sorry, your browser does not support inline SVG.
+        </svg>
+        <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search | Yiwokyawa" title="Search for a word">
+
+
+
+    </header>
+
+    <div class="speech-bubble"></div>
+
+    <div class="entry-list-wrapper">
+
+        <article>
+            <button class="collapsible">
+                <div class="header">
+                    <p class="headword"><span class="lx">aba</span><span class="ps">interj.</span></p>
+                </div>
+            </button>
+            <div class="content">
+                <p class="de-box"><span class="de">Oh, oh no, the thing is, no way (conveys that the speaker is shocked or wants to contradict something that has been said).</span></p>
+                <ul>
+                    <li>
+                        <p class="xv">"Aba, yaw kinga nganang. Marndi wurdyaw kayawbaye kadberre warreh," yimeng ngalbu Ngalwakadj bedberre.</p>
+                        <p class="xe">"Oh, I saw a young crocodile. It might bite our kids" Ngalwakadj told them.</p>
+                    </li>
+                    <li>
+                        <p class="xv">"Kandadju kundad dja ngamarrwedoweng." "Aba, minj won, ngaye mak ngamarrwedoweng."</p>
+                        <p class="xe">"Give me a [turtle] leg, because I'm hungry" "No way. I can't give you any. I'm hungry too." </p>
+                        <p class="xv">(Manakgu, Andrew, 'Bu Ngurriborlhme Kunwinjku: Learning Kunwinjku', Kunwinjku Language Centre, Gunbalanya, 1994)</p>
+                    </li>
+                </ul>
+            </div>
+        </article>
+        <article>
+            <button class="collapsible">
+                <div class="header">
+                    <p class="headword"><span class="lx">adjbud</span><span class="ps">n.</span></p>
+                    <p class="va"><span class="variant">also: </span>wadjbud</p>
+                </div>
+            </button>
+            <div class="content">
+                <p class="de-box"><span class="de">Beach, sand.</span></p>
+                <ul>
+                    <li>
+                        <p class="xv">Kore manyunkurr, adjbud kayo.</p>
+                        <p class="xe">On the island, there is a beach.</p>
+                        <p class="xv">(Wildflower Band, 'Galiwin'ku')</p>
+                    </li>
+                </ul>
+                <p class="ur subentry-text end"><span class="se-info end">Other languages</span><span>Mawng / Iwaidja = ajput / ajbud.</span></p>
+            </div>
+        </article>
+        <article>
+            <button class="collapsible">
+                <div class="header">
+                    <p class="headword"><span class="lx">adjuh</span><span class="ps">interj.</span></p>
+                    <p class="va"><span class="variant">also: </span>adju</p>
+                </div>
+            </button>
+            <div class="content">
+                <p class="de-box"><span class="sn">1</span><span class="de">Is it?; maybe; I don't know!</span></p>
+                <ul>
+                    <li>
+                        <p class="xv">Ngaye ngadjawayhme nuye bu ngayime "Adju baleh wam nawu Nabangardi?"</p>
+                        <p class="xe">I ask him, I say "I don't know, where did Nabangardi go?". </p>
+                        <p class="xv">(Jill Nganjmirra)</p>
+                    </li>
+                </ul>
+                <p class="de-box"><span class="sn">2</span><span class="de">Said after a joke which provides mild embarrassment to the hearer.</span></p>
+                <ul></ul>
+                <p class="bw subentry-text end"><span class="se-info end">Etymology</span><span>Iwaidja <b>aju</b> 'it-lies', 'it is', 'it exists'.</span></p>
+                <p class="cf subentry-text end"><span class="se-info end">See also</span><span>kunubewu</span></p>
+            </div>
+        </article>
+        <article>
+            <button class="collapsible">
+                <div class="header">
+                    <p class="headword"><span class="lx">alabbanjdja</span><span class="ps">n.</span></p>
+                </div>
+            </button>
+            <div class="content">
+                <p class="de-box"><span class="sn">1</span><span class="de">Kind of shrub.</span></p>
+                <p class="sc subentry-text"><span class="se-info">Scientific name</span><span>Grewia xanthopetala, Grewia multiflora</span></p>
+                <ul></ul>
+                <p class="de-box"><span class="sn">2</span><span class="de">Kind of hibiscus. As for the <i>Grewia</i> species, the bark of this hibiscus is used to make string and the young stems are good firesticks.</span></p>
+                <p class="sc subentry-text"><span class="se-info">Scientific name</span><span>Hibiscus tiliaceaus</span></p>
+                <ul></ul>
+                <p class="ur subentry-text end"><span class="se-info end">Other languages</span><span>Maung, Iwaidja, Amurdak= alabanjdja</span></p>
+            </div>
+        </article>
+        <article>
+            <button class="collapsible">
+                <div class="header">
+                    <p class="headword"><span class="lx">awurd </span><span class="ps">interj. </span></p>
+                    <p class="va"><span class="variant">also: </span>ahwurd </p>
+                </div>
+            </button>
+            <div class="content">
+                <p class="de-box"><span class="de">An interjection used to express emotional attachment, dearness. </span></p>
+                <p class="sy subentry-text"><span class="se-info">Synonyms</span><span>worro </span></p>
+                <ul>
+                    <li>
+                        <p class="xv">Awurd, mayh namekke ngan­kodjborledke Kawk Kabim Djang </p>
+                        <p class="xe">So dear to me is that bird, its call reminds me of the sacred night heron dreaming</p>
+                        <p class="xv">(Nabarlek Band song (Terrah Guymala) )</p>
+                    </li>
+                    <li>
+                        <p class="xv">Yika mak ngarriyime "awurd" bu nangale nawu kare djarre wanjh ngarrikongibun, dja mak bininj nawu karrowen, wanjh ngarriyime "awurd warre mankang mandengeyi". </p>
+                        <p class="xe">We might say "fv: Awurd" ("Oh that dear man/woman") if someone goes far away and we feel sorry for them, or for example if someone dies we might say "<b>Awurd</b> (oh that poor man/woman) it's a terrible thing, they had a car crash".</p>
+                        <p class="xv">(Jill Nganjmirra )</p>
+                    </li>
+                </ul>
+                <p class="uv subentry-text end"><span class="se-info end">Language</span><span>Kunwinjku </span></p>
+                <p class="ur subentry-text end"><span class="se-info end">Other languages</span><span>Kuninjku = worro </span></p>
+            </div>
+        </article>
+        <article>
+            <button class="collapsible">
+                <div class="header">
+                    <p class="headword"><span class="lx">ba</span><span class="ps">conj.</span></p>
+                    <p class="va"><span class="variant">also: </span>ba bu</p>
+                </div>
+            </button>
+            <div class="content">
+                <p class="de-box"><span class="sn">1</span><span class="de">So that.</span></p>
+                <ul>
+                    <li>
+                        <p class="xv">Yirrolkka ba karrire.</p>
+                        <p class="xe">Get up so we can go.</p>
+                    </li>
+                </ul>
+                <p class="de-box"><span class="sn">2</span><span class="de">But.</span></p>
+                <ul>
+                    <li>
+                        <p class="xv">Ba minj birrinayinj nganabbarru yoy, wanjh manwurrk biwayhkeng.</p>
+                        <p class="xe">But they didn't see a buffalo sleeping there until a bush fire woke him up.</p>
+                    </li>
+                </ul>
+            </div>
+        </article>
+        <article>
+            <button class="collapsible">
+                <div class="header">
+                    <p class="headword"><span class="lx">babang</span><span class="ps">pred. adj.</span></p>
+                </div>
+            </button>
+            <div class="content">
+                <p class="de-box"><span class="de">Sore, be in pain.</span></p>
+                <ul>
+                    <li>
+                        <p class="xv">Ngabardbabang.</p>
+                        <p class="xe">I have a sore knee.</p>
+                    </li>
+                    <li>
+                        <p class="xv">Baleh yimi bu yimimbabangni?</p>
+                        <p class="xe">How long has your eye been sore?</p>
+                    </li>
+                </ul>
+                <p class="uv subentry-text end"><span class="se-info end">Language</span><span>Kuninjku, Kundedjnjenghmi, Kunwinjku</span></p>
+                <p class="ur subentry-text end"><span class="se-info end">Other languages</span><span>Kune = ngarkme</span></p>
+                <p class="cf subentry-text end"><span class="se-info end">Kunbalak</span><span>ngarrkme</span></p>
+                <p class="ng-grammar subentry-text end"><span class="se-info end">Grammar</span><span>a kind of adjective which can take predicate prefixes (pronominal and nominal)</span></p>
+            </div>
+        </article>
+        <article>
+            <button class="collapsible">
+                <div class="header">
+                    <p class="headword"><span class="lx">bad</span><span class="ps">adv. pref.</span></p>
+                </div>
+            </button>
+            <div class="content">
+                <p class="de-box"><span class="de">Verb prefix indicating that one action follows another, possibly as a consequence. So, then, afterwards, as a result, in that case, with good reason, etc. </span></p>
+                <ul>
+                    <li>
+                        <p class="xv">Birribadbom nabuyika benuk.</p>
+                        <p class="xe">Then they speared another bush turkey.</p>
+                        <p class="xv">(Garlngarr, Victor, 'Mamik dja Nakodjok benekang', in "Kunwinjku Stories", Oenpelli Literature Production Centre, 1982)</p>
+                    </li>
+                    <li>
+                        <p class="xv">Dja kunubewu bolkkime wanjh nganang bu yiman kayime kurrung darnkih wanjh kabindibadkan kabirriwarlbun.</p>
+                        <p class="xe">Well I notice at the moment, probably because it's coming up for build-up season, they're taking them hunting a lot.</p>
+                        <p class="xv">(Quoted in Etherington, Steve, 'Learning to be Kunwinjku: Kunwinjku people discuss their pedagogy', PhD Thesis, Charles Darwin University, 2006)</p>
+                    </li>
+                </ul>
+                <p class="cf subentry-text end"><span class="se-info end">See also</span><span>badbu</span></p>
+            </div>
+        </article>
+    </div>
+    <script>
+        function myFunction() {
+
+            var input, filter, ul, list, a, i, txtValue;
+
+            input = document.getElementById("myInput");
+
+            filter = input.value.toUpperCase();
+
+            list = document.getElementsByTagName("article");
+
+            for (i = 0; i < list.length; i++) {
+                a = list[i].getElementsByClassName("lx")[0];
+
+                txtValue = a.textContent || a.innerText;
+                if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                    list[i].style.display = "";
+                } else {
+                    list[i].style.display = "none";
+                }
+            }
+        }
+
+        function searchKunwinjkuAndEnglish() {
+
+
+
+
+        }
+
+
+
+
+        var coll = document.getElementsByClassName("collapsible");
+        var i;
+
+        for (i = 0; i < coll.length; i++) {
+            coll[i].addEventListener("click", function() {
+
+                this.classList.toggle("active");
+                var content = this.nextElementSibling;
+
+                if (content.style.display === "block") {
+                    content.style.display = "none";
+                    this.style.color = 'black';
+                } else {
+                    content.style.display = "block";
+                    this.style.color = 'white';
+                    //Keep the card looking good
+                    this.style.borderBottomLeftRadius = '0px';
+                    this.style.borderBottomRightRadius = '0px';
+                }
+
+            });
+        }
+
+    </script>
+</body>
+
+</html>

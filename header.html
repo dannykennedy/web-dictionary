@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link href="https://fonts.googleapis.com/css?family=Merriweather|Open+Sans" rel="stylesheet">
+    <script src="script.js"></script>
+    <style>
+        body {
+            font-family: 'Merriweather', serif;
+            line-height: 1.4;
+        }
+        
+        p {
+            margin: 0;
+        }
+        
+        .ps {
+            font-style: italic;
+            margin-left: 10px;
+            color: brown;
+        }
+        
+        .sn {
+            font-weight: 700;
+            /*            color: orange;*/
+            margin-right: 10px;
+        }
+        
+        .lx {
+            font-weight: 900;
+            font-size: 1.3em;
+        }
+        
+        .variant {
+            font-style: italic
+        }
+        
+        .xv {
+            font-style: italic
+        }
+        
+        ul li {
+            margin-bottom: 10px;
+        }
+        
+        .se {
+            font-weight: 700;
+            font-style: italic;
+            margin-bottom: 5px;
+        }
+        
+        .se-de {
+            margin-bottom: 10px;
+        }
+        
+        .grammar {
+            font-style: italic;
+        }
+        
+        .ng {
+            margin-top: 10px;
+        }
+        
+        .header {
+            margin-bottom: 10px;
+        }
+        
+        .headword {
+            margin-bottom: 5px;
+        }
+        
+        .subentry-text {
+            margin-left: 1.2em;
+            margin-bottom: 5px;
+        }
+        
+        .se-info {
+            background: #DDD;
+            border: 1px solid #BBB;
+            border-radius: 5px;
+            text-transform: uppercase;
+            color: #666;
+            font-size: 0.75em;
+            margin-right: 10px;
+            padding: 2px;
+            font-family: 'Open Sans', sans-serif;
+        }
+        
+        .subentry-text.end {
+            margin-left: 0px;
+        }
+        
+        .de-box {
+            margin-bottom: 5px;
+        }
+        
+        .de {
+            color: brown;
+        }
+        
+        article {
+            margin-bottom: 50px;
+            margin-top: 50px;
+        }
+        /*        Otherwise italics inside italics don't show up*/
+        
+        .xv i {
+            font-weight: 700;
+        }
+        
+        .subentry-header {
+            background: #ece2de;
+            color: #954943;
+            border-color: #954943;
+        }
+        /*
+        margint {
+            margin-top: 20px;
+        }
+*/
+        
+        .subentries {
+            /*
+            background-color: #ece2de;
+            border: 1px solid #954943;
+            width: 500px;
+            border-radius: 5px;
+            padding: 15px;
+*/
+            margin-top: 20px;
+        }
+        /*
+        ul li {
+
+            list-style-position: outside;
+
+            margin-left: 1em;
+        }
+*/
+        
+/*        COLLAPSIBLE*/
+        .collapsible {
+            background-color: #777;
+            color: white;
+            cursor: pointer;
+            padding: 18px;
+            width: 100%;
+            border: none;
+            text-align: left;
+            outline: none;
+            font-size: 15px;
+        }
+        
+        .active,
+        .collapsible:hover {
+            background-color: #555;
+        }
+        
+        .content {
+            padding: 0 18px;
+            display: none;
+            overflow: hidden;
+            background-color: #f1f1f1;
+        }
+
+    </style>
+</head>
