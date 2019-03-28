@@ -2,6 +2,7 @@
     --main-app-color: brown;
     --secondary-app-color: #ece2de;
     --display-font: 'Special Elite';
+    --app-sans: 'Open Sans'
 }
 body {
     font-family: 'Merriweather', serif;
@@ -26,7 +27,7 @@ p {
     margin: 0;
 }
 .ps {
-/*    font-style: italic;*/
+    /*    font-style: italic;*/
     font-family: 'Special Elite';
     margin-left: 10px;
     color: var(--main-app-color);
@@ -34,7 +35,6 @@ p {
 .ps:hover {
     color: white;
 }
-
 .sn {
     font-weight: 700;
     margin-right: 10px;
@@ -42,7 +42,7 @@ p {
 .lx {
     font-weight: 900;
     font-size: 1.3em;
-/*    font-family: var(--display-font), cursive;*/
+    /*    font-family: var(--display-font), cursive;*/
 }
 .also {
     font-style: italic
@@ -86,7 +86,7 @@ ul li {
     font-size: 0.75em;
     margin-right: 10px;
     padding: 2px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: var(--app-sans), sans-serif;
 }
 .subentry-text.end {
     margin-left: 0px;
@@ -193,6 +193,16 @@ header {
     grid-template-columns: 35px 30px 1fr;
     justify-self: center;
 }
+#search-options {
+    font-family: var(--display-font), cursive;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 1.2em;
+    padding-right: 20px;
+}
+#help {
+    cursor: pointer;
+}
 #app-title {
     font-family: var(--display-font), cursive;
     font-weight: 500;
@@ -292,10 +302,98 @@ input:focus {
     background-color: var(--main-app-color);
 }
 
+/*MODAL (W3 SCHOOLS)*/
+
+
+/* The Modal (background) */
+
+.modal {
+    font-family: var(--app-sans), sans-serif;
+    /*    font-size: 0.7em;*/
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 99999999;
+    /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.7);
+    /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 5% auto;
+    /* 5% from the top and centered */
+    padding: 10px 25px 10px 25px;
+    border: 1px solid #888;
+    width: 80%;
+    /* Could be more or less, depending on screen size */
+    border-radius: 5px;
+}
+.modal-content a {
+    color: #444;
+    text-decoration-style: dotted;
+}
+.modal-content p {
+    margin-bottom: 10px;
+}
+.modal-content table {
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    vertical-align: top;
+}
+.modal-content table tr {
+    vertical-align: top;
+    font-size: 0.9em;
+}
+th {
+    color: var(--main-app-color);
+    padding-bottom: 5px;
+    font-size: 1.2em;
+}
+h4 {
+    color: var(--main-app-color);
+    text-align: center;
+    font-size: 1.2em;
+}
+.nobreak {
+    white-space: nowrap;
+}
+
+/* The Close Button */
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
 /*@MEDIA*/
 
 
 /*TABLET VIEW*/
+
 
 /*MOBILE VIEW*/
 
@@ -319,5 +417,8 @@ input:focus {
         width: 87%;
         margin-left: 5%;
         margin-right: 8%;
+    }
+    .modal-content table {
+        width: 100%;
     }
 }

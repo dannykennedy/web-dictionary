@@ -543,6 +543,7 @@ with open("index.html", 'a') as f:
     f.write('</div>') #end of wrapper
 
     f.write('<script src="script-bubble.js"></script>')
+    f.write('<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5c9d1639e157f497"></script>')
     f.write('</body>')
     f.write('</html>')
 

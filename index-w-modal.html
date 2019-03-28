@@ -8,6 +8,9 @@
     <link href="https://fonts.googleapis.com/css?family=Merriweather|Open+Sans" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Baloo+Chettan|Special+Elite|Titan+One" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="styles/styles.css">
+    <link rel="icon" type="image/png" href="images/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="images/favicon-16x16.png" sizes="16x16" />
+    <link rel="icon" type="image/png" href="images/favicon-96x96.png" sizes="96x96" />
 </head>
 
 <body>
@@ -21,7 +24,7 @@
             <div id="mimih-box"><img id="mimih-img" src="images/mimih.png" height="45px" alt="app logo"></div>
 
             <svg id="bubblepoint-svg" height="50" width="30" viewBox="0 0 90 260">
-                <path fill="#FFF" stroke="#FFF" stroke-width="1.5794" stroke-miterlimit="10" d="M133,265.5L133,0.5L132.5,0.5A132.5,132.5 0,0 1,0 133,132.5 132.5,0 0,1 132.5,265.5" /> Sorry, your browser does not support inline SVG.
+                <path fill="#FFF" stroke="#FFF" stroke-width="1.5794" stroke-miterlimit="10" d="M133,265.5L133,0.5L132.5,0.5A132.5,132.5 0,0 1,0 133,132.5 132.5,0 0,1 132.5,265.5" />
             </svg>
             <input type="text" id="myInput" onkeyup="filterWords()" placeholder="Search | Yiwokyawa" title="Search for a word">
 
@@ -42,52 +45,61 @@
         <!-- Modal content -->
         <div class="modal-content">
             <span class="close">&times;</span>
-            
-            <p>When you type into the search box, the dictionary will search both Bininj Kunwok and English terms as well as dialect variations.</p>
 
-            <p>The dictionary is currently weighted towards Kunwinjku as spoken at Kunbarlanja, so if you're learning a different dialect, keep an eye on the 'Other languages' section within certain entries.</p>
+            <h4>How to use this dictionary</h4>
 
-            <p>It's still a work in progress, and in all questions of correctness you should trust the word of a native speaker over this dictionary.</p>
-            
-            <p>CREDITS</p>
+            <ul>
+                <li>The search bar looks for both Bininj Kunwok and English terms as well as <a href="https://bininjkunwok.org.au/information/dialects/" target="_blank">dialect variations.</a></li>
+                <li>The dictionary is currently weighted towards Kunwinjku as spoken at Kunbarlanja, so if you're learning a different dialect, keep an eye on the 'other languages' section within certain entries.</li>
+                <li>It's still a work in progress, and in all questions of correctness and appropriate use you should defer to native speakers.</li>
+            </ul>
 
-            <p>This dictionary was developed by the <a href="https://www.facebook.com/bininjkunwok/" target="_blank">Bininj Kunwok Regional Language Centre</a> for Charles Darwin University's <a href="https://www.cdu.edu.au/bininj-kunwok" target="_blank">Kunwinjku Language course</a></p>
-            
-            <table>
+            <p style="text-align: center; font-style: italic">This dictionary was developed by the <a href="https://www.facebook.com/bininjkunwok/" target="_blank">Bininj Kunwok Regional Language Centre</a> for Charles Darwin University's <a href="https://www.cdu.edu.au/bininj-kunwok" target="_blank">Kunwinjku Language course</a></p>
+
+            <table id="credits-table">
                 <tr>
-                   <td><a href="https://researchers.anu.edu.au/researchers/garde-m" target="_blank">Murray Garde</a></td>
+                    <th colspan="2">Credits</th>
+                </tr>
+                <tr>
+                    <td class="nobreak"><a href="https://researchers.anu.edu.au/researchers/garde-m" target="_blank">Murray Garde</a></td>
                     <td>Lexicographer & project management</td>
                 </tr>
                 <tr>
-                   <td><a href="https://www.youtube.com/watch?v=NSvKNq1xGTQ" target="_blank">Jill Nganjmirra</a></td>
-                   <td>Editor and lead language consultant</td>
+                    <td class="nobreak"><a href="https://www.youtube.com/watch?v=NSvKNq1xGTQ" target="_blank">Jill Nganjmirra</a></td>
+                    <td>Editor and lead language consultant</td>
                 </tr>
                 <tr>
-                    <td><a href="https://www.cdu.edu.au/newsroom/Kunwinjku-language-course" target="_blank">Cathy Bow & Seraine Namundja</a></td>
+                    <td class="nobreak"><a href="http://dannykennedy.co/" target="_blank">Dan Kennedy</a></td>
+                    <td>Developer, designer, assistant lexicography</td>
+                </tr>
+                <tr>
+                    <td><a href="https://www.cdu.edu.au/newsroom/Kunwinjku-language-course" target="_blank">Cathy Bow,<br> <span class="nobreak">Seraine Namundja</span></a></td>
                     <td>CDU Course co-ordinators</td>
                 </tr>
-                <tr><td><a href="http://dannykennedy.co/" target="_blank">Dan Kennedy</a></td>
-                    <td>Developer, designer, assistant lexicography</td> 
-                </tr>
                 <tr>
-                    <td>Andrew Manakgu</td>
+                    <td class="nobreak"><a href="https://bininjkunwok.org.au/wp-content/uploads/sites/49/2013/07/Nabulanj-Kunnanj.jpg" target="_blank">Andrew Manakgu</a></td>
                     <td>Many example sentences are based on Andrew's writing for Injalak Arts</td>
                 </tr>
                 <tr>
-                    <td>Jimmy Namarnyilk</td>
-                    <td>The app logo is a vector version of a painting by Jimmy Namarnyilk, 'Bininj Kabirriwokdi'</td>
+                    <td class="nobreak"><a href="https://www.nomadart.com.au/?p=6080">Jimmy Namarnyilk</a></td>
+                    <td>The app logo is a vectorised section of a painting by Jimmy Namarnyilk, 'Bininj Kabirriwokdi'</td>
                 </tr>
                 <tr>
-                    
-                    
+
+
                 </tr>
-                
-                
-                
-            </table>        
-            
-            <p>Dictionary content and application &copy; <span id="current-year"></span> Bininj Kunwok Regional Language Centre Ltd.</p>
-            
+
+            </table>
+
+            <p style="text-align: center; font-style: italic">Dictionary content and application &copy; <span id="current-year"></span> Bininj Kunwok Regional Language Centre Ltd.</p>
+
+            <!-- Go to www.addthis.com/dashboard to customize your tools -->
+            <!--            <div class="addthis_inline_follow_toolbox"></div>-->
+
+
+
+
+
 
         </div>
 
@@ -1146,6 +1158,7 @@
         </article>
     </div>
     <script src="script-bubble.js"></script>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5c9d1639e157f497"></script>
 </body>
 
 </html>
