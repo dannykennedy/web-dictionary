@@ -361,7 +361,7 @@ with open("index.html", 'a') as f:
         k = k+1
         if k == 50:
             print('end')
-            break
+            # break
 
         # Semantic tag for each entry
         f.write('<article>')
