@@ -354,8 +354,8 @@ with open("index.html", 'a') as f:
 
     for entry in sorted_entries:
 
-        #first entry seems to be blank
-        if k==0:
+        #first entries seems to be blank
+        if k<2:
             k = k + 1
             continue
         k = k+1
