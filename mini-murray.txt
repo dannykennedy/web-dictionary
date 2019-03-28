@@ -11,6 +11,19 @@
 \id DK, entered master file by MG
 \dt 13/Aug/2016
 
+\lx aba
+\ps interj.
+\re oh no
+\re no way
+\de Oh, oh no, the thing is, no way (conveys that the speaker is shocked or wants to contradict something that has been said).
+\xv "Aba, yaw kinga nganang. Marndi wurdyaw kayawbaye kadberre warreh," yimeng ngalbu Ngalwakadj bedberre.
+\xe “Oh, I saw a young crocodile. It might bite our kids” Ngalwakadj told them.
+\xv "Kandadju kundad dja ngamarrwedoweng." "Aba, minj won, ngaye mak ngamarrwedoweng."
+\xe "Give me a [turtle] leg, because I'm hungry” “No way. I can't give you any. I'm hungry too." 
+\so Manakgu, Andrew, ‘Bu Ngurriborlhme Kunwinjku: Learning Kunwinjku’, Kunwinjku Language Centre, Gunbalanya, 1994
+\id DK, entered master file by MG
+\dt 13/Aug/2016
+
 \lx adjbud
 \va wadjbud
 \ps n.
@@ -5118,7 +5131,7 @@ move on, its our turn" (to get the jobs, etc).
 \id JNg, DK
 \dt 23/Aug/2018
 
-\va dorrengh
+\lx dorrengh
 \ps prep.
 \ng This is used in similar senses to 'with' in English, and can mean together with ('with his dog'), using ('speared the fish with a spear') or having/possessing/wearing etc ('meat with lots of fat').   
 \sn 1
@@ -6797,7 +6810,7 @@ ngarringeybun burarr dja durrbu dja nayahwurd nakka djerlih"
 \nt Jill notes she would spell it ‘djirla’. Andrew and Kunwinjku Spirit also spell it this way. 
 \dm 10/Mar/2019
 
-\va djilidjilih
+\lx djilidjilih
 \ps n.
 \ge grass.sp.
 \re <i>Heteropogon triticeus</i>
@@ -15627,7 +15640,7 @@ matri-moiety. Equivalent to <b>ngarridj</b> in the eastern system.
 \pr kun-
 \lc kunwanj
 \ps n.
-\pr armpit
+\re armpit
 \de Armpit.
 \uv W
 \ur I,E= wanjno
