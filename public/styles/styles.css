@@ -389,6 +389,14 @@ h4 {
     cursor: pointer;
 }
 
+
+    #mobile-about {
+        display: none;
+    }
+    #desktop-about {
+        display: block;
+    }
+
 /*@MEDIA*/
 
 
@@ -401,16 +409,13 @@ h4 {
     #app-title {
         display: none;
     }
-    #search-options {
-        display: none;
-    }
     .entry-list-wrapper {
         padding-top: 100px;
         width: 90%;
         margin: auto;
     }
     header {
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr 2em;
         align-items: center;
     }
     #search-area {
@@ -420,5 +425,11 @@ h4 {
     }
     .modal-content table {
         width: 100%;
+    }
+    #mobile-about {
+        display: block;
+    }
+    #desktop-about {
+        display: none;
     }
 }
