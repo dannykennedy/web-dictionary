@@ -8,11 +8,21 @@ for (i = 0; i < coll.length; i++) {
         var content = this.nextElementSibling;
         
         var pos = this.getElementsByClassName("ps")[0];
+        
+        var css = '.collapsible:hover {color: white;}';
+        var style = document.createElement('style');
 
         if (content.style.display === "block") {
             content.style.display = "none";
             this.style.color = 'black';
             pos.style.color = 'brown';
+            console.log("in the if block");
+            
+            let collapsibles = document.getElementsByClassName('collapsible');
+            for (var i=0;i<collapsibles.length; i++){
+                collapsibles[i].appendChild(style);
+            }
+            
         } else {
             content.style.display = "block";
             this.style.color = 'white';
@@ -20,8 +30,8 @@ for (i = 0; i < coll.length; i++) {
             //Keep the card looking good
             this.style.borderBottomLeftRadius = '0px';
             this.style.borderBottomRightRadius = '0px';
+            console.log("in the else block");
         }
-
     });
 }
 

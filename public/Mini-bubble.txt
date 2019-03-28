@@ -49,6 +49,7 @@ Nabangardi?”
 \xe I ask him, I say “I don’t know, where did Nabangardi go?”. 
 \so Jill Nganjmirra
 \sn 2
+\re said after a joke
 \de Said after a joke which provides mild embarrassment to the hearer.
 \bw Iwaidja <b>aju</b> 'it-lies', 'it is', 'it exists'.
 \cf kunubewu
@@ -1135,15 +1136,16 @@ focused on an intransitive or transitive subject but in some cases for the latte
 
 \lx bebme
 \ps v.i.
+\sn 1
 \re come out
 \re arrive
-\sn 1
 \de Appear, arrive.
 \xv Birrbebmeng.
 \xe They're here (they have arrived).
 \xv Dungbebmeng.
 \xe The sun is up.
 \sn 2
+\re go out
 \de Go/come out of an enclosure or dwelling.
 \xv Yibebmen!
 \xe Go outside!

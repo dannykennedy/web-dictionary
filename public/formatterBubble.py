@@ -563,9 +563,9 @@ with open("index.html", 'a') as f:
 # f.close()
 
 
-with open('json.txt', 'w') as f2:
-    for entry in entries:
-        f2.write(json.dumps(entry))
-f2.close()
+# with open('json.txt', 'w') as f2:
+#     for entry in entries:
+#         f2.write(json.dumps(entry))
+# f2.close()
 
 
