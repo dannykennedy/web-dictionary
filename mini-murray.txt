@@ -7784,10 +7784,12 @@ ngarringeybun burarr dja durrbu dja nayahwurd nakka djerlih"
 
 \lx kangkinj
 \ps n.
-\sd kinship
+\re nephew
+\re niece
 \de Nephew or niece, a man's ZS, ZD.
 \uv I, E
 \ur W= djedje
+\sd kinship
 \dm 14/Sep/2018
 
 \lx kanj
