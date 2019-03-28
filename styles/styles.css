@@ -10,6 +10,7 @@ body {
     margin-right: 0px;
     margin-top: 0px;
     background-color: white;
+    -webkit-font-smoothing: antialiased;
 }
 .entry-list-wrapper {
     padding-top: 100px;
@@ -25,7 +26,8 @@ p {
     margin: 0;
 }
 .ps {
-    font-style: italic;
+/*    font-style: italic;*/
+    font-family: 'Special Elite';
     margin-left: 10px;
     color: var(--main-app-color);
 }
@@ -40,6 +42,7 @@ p {
 .lx {
     font-weight: 900;
     font-size: 1.3em;
+/*    font-family: var(--display-font), cursive;*/
 }
 .also {
     font-style: italic

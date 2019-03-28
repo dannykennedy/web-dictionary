@@ -40,8 +40,8 @@ function filterWords() {
 
 
         // Get list of words to search: 
-        // headwords, English reverses, variants
-        wordsToSearch = list[i].querySelectorAll(".lx, .re, .va");
+        // headwords, English reverses, variants, dialect variations
+        wordsToSearch = list[i].querySelectorAll(".lx, .re, .va, .ur");
 
         // Loop through all words and look for the substring
         let found = false;

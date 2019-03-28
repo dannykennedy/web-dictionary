@@ -139,6 +139,7 @@ with open(myfile,'r') as f:
             match = re.search(r'^\\ur\s(.*)', line)
             ur = (match.group(1))
             ur = re.sub(r'E(\s)*=', 'Kune =', ur)
+            # print(match.group(1))
             ur = re.sub(r'I(\s)*=', 'Kuninjku =', ur)
             ur = re.sub(r'W(\s)*=', 'Kunwinjku =', ur)
             ur = re.sub(r'Djnj(\s)*=', 'Kundedjnjenghmi =', ur)
@@ -149,6 +150,19 @@ with open(myfile,'r') as f:
             ur = re.sub(r'Djnj,', 'Kundedjnjenghmi,', ur)
             ur = re.sub(r'Kdj,', 'Kundjeyhmi,', ur)
             ur = re.sub(r'W,', 'Kunwinjku,', ur)
+
+            # Now put tags around things
+            # Not ideal but easier to do it this way
+            if re.search(r'=\s?([^\,\.]*)', ur):
+                match = re.search(r'=\s?([^\,\.]*)', ur)
+                for m in match.groups():
+                    html = '<span class="ur">'+m+'</span>'
+                    ur = ur.replace(m, html)
+                    print(m)
+
+                # print(match.group(1))
+
+
 
             entry["ur"] = ur
 
@@ -229,7 +243,7 @@ with open(myfile,'r') as f:
             withinSense = "true"
             sense['no'] = "1"
             sense["re"].append(match.group(1))
-            print(match.group(1))
+            # print(match.group(1))
             entry['sn'].append(sense)
 
 
@@ -311,7 +325,7 @@ with open(myfile,'r') as f:
 
 # ADD CSS HEADER TO FILE
 with open("web-header-bubble.html") as f:
-    with open("dict-for-web4.html", "w") as f1:
+    with open("index.html", "w") as f1:
         for line in f:
             f1.write(line)
     f1.close()
@@ -328,7 +342,7 @@ for entry in entries:
 sorted_entries = sorted(clean_entries, key=itemgetter('sorting-headword'))
 
 
-with open("dict-for-web4.html", 'a') as f:
+with open("index.html", 'a') as f:
 
 
     f.write('<div class="entry-list-wrapper">')
@@ -347,7 +361,7 @@ with open("dict-for-web4.html", 'a') as f:
         k = k+1
         if k == 50:
             print('end')
-            # break
+            break
 
         # Semantic tag for each entry
         f.write('<article>')
@@ -406,7 +420,7 @@ with open("dict-for-web4.html", 'a') as f:
             f.write("</p>")
 
         if 'ur' in entry:
-            f.write('<p class="ur subentry-text end"><span class="se-info end">Other languages</span><span>')
+            f.write('<p class="usage-regional subentry-text end"><span class="se-info end">Other languages</span><span>')
             f.write(entry["ur"])
             f.write('</span></p>')
 
@@ -528,19 +542,24 @@ with open("dict-for-web4.html", 'a') as f:
         f.write('</article>')
     f.write('</div>') #end of wrapper
 
+    f.write('<script src="script-bubble.js"></script>')
+    f.write('</body>')
+    f.write('</html>')
+
+
     f.close()
 
-# ADD JS TO FILE
-with open("script-bubble.js") as f:
-    with open("dict-for-web4.html", "a") as f1:
-        f1.write('<script>')
-        for line in f:
-            f1.write(line)
-        f1.write('</script>')
-        f1.write('</body>')
-        f1.write('</html>')
-    f1.close()
-f.close()
+# # ADD JS TO FILE
+# with open("script-bubble.js") as f:
+#     with open("dict-for-web4.html", "a") as f1:
+#         f1.write('<script>')
+#         for line in f:
+#             f1.write(line)
+#         f1.write('</script>')
+#         f1.write('</body>')
+#         f1.write('</html>')
+#     f1.close()
+# f.close()
 
 
 with open('json.txt', 'w') as f2:
