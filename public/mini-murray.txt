@@ -18367,6 +18367,7 @@ kuk.
 \lx yowayh
 \va yoweyh
 \ps interj.
+\re yes
 \de Yes, yes that’s right (variation of 'yo').
 \bw from Kriol 'yowai'. 
 \nt DK: Jill says this is Kriol originally, ausil dictionary at http://ausil.org/Dictionary/Kriol/index-english/index.htm lists it. Jill says yowayh and yoweyh both used. I feel like it’s slightly more emphatic than yo, but maybe I’m wrong.
