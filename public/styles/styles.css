@@ -112,7 +112,7 @@ article {
 /*        Otherwise italics inside italics don't show up*/
 
 .xv i {
-    font-weight: 700;
+    font-style: normal;
 }
 .subentry-header {
     background: #ece2de;
@@ -169,7 +169,7 @@ article {
     border-bottom-right-radius: 5px;
     border: 1px solid #AAA;
     height: auto;
-    max-height: 1000px;
+    max-height: 1500px;
     animation-duration: 0.8s;
     animation-name: growDown;
     animation-fill-mode: forwards;
@@ -255,7 +255,7 @@ input:focus {
         max-height: 0px;
     }
     to {
-        max-height: 1000px;
+        max-height: 1200px;
     }
 }
 
