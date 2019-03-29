@@ -11673,7 +11673,7 @@ Namanjmiken kakanjkinje mankudji kunkanj bulikki bu wolewoleh kore Kunbalanja. I
 \re fix
 \re heal
 \de Fix, heal.
-\xv Muddikang ngarduk warreminj, ngakan kore fi:mechanic kabirrimarnbun. 
+\xv Muddikang ngarduk warreminj, ngakan kore <i>mechanic</i> kabirrimarnbun. 
 \xe My car has broken down, I'll take it to the mechanic and they will fix it.
 \sn 4
 \re organise
@@ -12349,7 +12349,7 @@ kahdi.
 \sn 2
 \re bullet
 \de Firearm bullets and shotgun cartridges and (by semantic extention) any small globular cylindrical or bead-like objects
-\xv Nahni manimunak kahdowen, kundjak kakarrme lead-beh, manmim fi:shotgun nguneng.
+\xv Nahni manimunak kahdowen, kundjak kakarrme lead-beh, manmim <i>shotgun</i> nguneng.
 \xe This magpie goose is sick, it has disease from consuming shotgun lead [pellets].
 \uv W
 \ur I,E= mimno
@@ -14484,9 +14484,9 @@ was pregnant with us, i.e. the Rainbow Serpent holds the ceremony participants i
 
 \lx ngoreng
 \ps adj.
+\sn 1
 \re deformed
 \re crippled
-\sn 1
 \de Deformed, crippled by injury
 \xv bid-ngoreng
 \xe deformed finger (this is actually somebody's nickname)
@@ -14546,6 +14546,8 @@ was pregnant with us, i.e. the Rainbow Serpent holds the ceremony participants i
 \xv Yimngorrmang.
 \xe Carry it here (up on shoulders).
 \sn 2
+\re collect
+\re gather
 \de Collect, get, gather. 
 \xv Aa ngalkka ngorrmey!
 \xe Oh, she got some! (turtles etc).
@@ -14576,7 +14578,7 @@ was pregnant with us, i.e. the Rainbow Serpent holds the ceremony participants i
 \ps poss. pron.
 \re yours
 \de Yours (sing.).
-\uv E= ungke
+\ur E= ungke
 \dt 06/May/2006
 \nt DK: Jill says ngudda ke is W, nguddangke is Kune. 
 \dm 12/Oct/2018
@@ -14831,6 +14833,7 @@ bengkahbengkang?
 \xe Ngalngarridj came and asked me “Do you want to go to Batchelor?” I said “Why?”. 
 \so Quoted in Etherington, Steve, ‘Learning to be Kunwinjku: Kunwinjku people discuss their pedagogy’, PhD Thesis, Charles Darwin University, 2006 
 \sn 2
+\re for some reason
 \de For some reason, for any reason.
 \xv Minj nangale kare darnkih kore nungkah njalekenh wardi nadjardawo kamarnbun.
 \xe No-one goes close to him [Nadjurrk’s Dreaming site] for any reason, otherwise it will cause a whirlwind.
@@ -14970,7 +14973,7 @@ ngalngamed' etc. is used.
 \re sorcerer
 \de Sorcerer, murderer.
 \xv Karakalkre.
-\se He travels around doing sorcery.
+\xe He travels around doing sorcery.
 \dm 14/Sep/2018
 
 \lx rakel
@@ -15057,7 +15060,7 @@ ngalngamed' etc. is used.
 kore kunbalandakenh.
 \xe  We understand the meaning of that law. It’s strict, just the same as the white people’s law.
 \so Quoted in Etherington, Steve, ‘Learning to be Kunwinjku: Kunwinjku people discuss their pedagogy’, PhD Thesis, Charles Darwin University, 2006 
-\cf dang-rayek
+\cf dangrayek
 \ce strict, tough negotiator.
 \se kunrayek
 \de 'Hard', a common way to distinguish a dialect, the opposite being kunkerlk (the 'soft variety'). 
@@ -15083,7 +15086,7 @@ kore kunbalandakenh.
 \xe They're gone.
 \xv Yimarnek kamrayi la kurrinj.
 \xe He was supposed to come, maybe he was lying.
-\uv E= rakbun
+\ur E= rakbun
 \sn 2
 \re barrack for
 \re go for
@@ -15221,14 +15224,17 @@ kore kunbalandakenh.
 \sn 2
 \re investigate
 \de Investigate something in order to try and understand something.
-\xv The scientists check to make sure there is not too much radiation from the Ranger mine. 
-\xe Nawu scientist kabirrirohrokme ba bu kabirrinan manbu manwern radiation ngarre minj kabebme kore kabirrikarungbeh.
+\xv Nawu scientist kabirrirohrokme ba bu kabirrinan manbu manwern radiation ngarre minj kabebme kore kabirrikarungbeh.
+\xe The scientists check to make sure there is not too much radiation from the Ranger mine. 
 \sn 3
 \re compare
 \de Compare.
 \sn 4
 \re estimate
 \de Estimate.
+\sn 5
+\re count
+\de Count.
 \sn 5
 \re group together
 \de Group together, form a group.
@@ -15298,8 +15304,8 @@ beneboyawani.
 \re everything
 \re everyone
 \de Everyone, everything, all.
-\xv kamak rowk
-\xe everything is OK
+\xv Kamak rowk.
+\xe Everything is OK.
 \dt 20/Mar/2007
 \dm 14/Sep/2018
 
@@ -15554,7 +15560,7 @@ matri-moiety. Equivalent to <b>ngarridj</b> in the eastern system.
 \xe Oops, I forgot the matches.
 \cf kodjdje-wakwan
 \ce not be aware of something because you were asleep
-\uv E= warkwan.
+\ur E= warkwan.
 \dt 06/May/2006
 \dm 14/Sep/2018
 
@@ -15642,7 +15648,7 @@ matri-moiety. Equivalent to <b>ngarridj</b> in the eastern system.
 \de Rembarrnga and Kuninjku circumcision ceremony. The name is also applied to the boys in ritual seclusion in this ceremony.
 \ee Today the Kuninjku rarely perform this ceremony for their own youths. However the Kuninjku are involved in this ceremony in the form of dancing performance for another tribe conducting the ceremony (usually Burarra, Rembarrnga or Yolngu). Typically, a boy who is an initiate will be sent to the Kuninjku and he will be 'held' in their country for a number of weeks in the lead up to the end of the ceremony.
 \ee Burarra and Yolngu matha= <b>dhapi</b>
-\sy djabbi (from Yolngu matha)
+\sy djabbi (from Yolngu Matha)
 \xv Bindikang walk kure bindimarnerarrkwong.
 \xe They took those initiates to the place where they painted cross-hatching designs on them.
 \dt 27/Feb/2006
@@ -15849,7 +15855,7 @@ matri-moiety. Equivalent to <b>ngarridj</b> in the eastern system.
 \re bat
 \de Various bats of the family Hipposideridae but also including the ghost bat (family Megadermatidae) 1. Dusky leaf-nosed bat, 2. Arnhem leaf-nosed bat, 3. Northern leaf-nosed bat, 4. Ghost bat.
 \sc Hipposideros ater, Hipposideros inornata, Hipposideros stenotis, Macroderma gigas
-\uv E= bumabuma
+\ur E= bumabuma
 \xv Warlang keb-bikibiki.
 \xe The ghost bat/ Hipposideros bats have a nose like a pig.
 \dt 06/May/2006
@@ -16038,8 +16044,9 @@ matri-moiety. Equivalent to <b>ngarridj</b> in the eastern system.
 \xe Let's eat it anyway. 
 \so Jill Nganjmirra
 \sn 3
-\de The wrong way, incorrect action, bad thing. Expresses speaker’s
-negative attitude towards an action.
+\re incorrect action
+\re wrong way
+\de The wrong way, incorrect action, bad thing. Expresses speaker’s negative attitude towards an action.
 \xv Kanwarreboyameng.
 \xe He speared us [and what a bad thing that was].
 \cf warrekah
@@ -16303,7 +16310,6 @@ negative attitude towards an action.
 \dm 14/Sep/2018
 
 \lx wehme
-\va werhme
 \ps v.t.
 \sn 1
 \re vomit
@@ -16317,8 +16323,9 @@ negative attitude towards an action.
 \xv Mirnaliwo yawmey wurdyaw kore kurrangbeh yawwehmeng kore kuwarderurrk kore kunwardde Wurrakkak bolkkime kahwarderri.
 \xe Mirnaliwo [one of Wurrakkak’s two wives] gave birth from her mouth, she brought the child from her mouth in a cave where Wurrakkak rock is today. 
 \so Andrew Manakgu, Injalak Arts painting documentation
- \nt Andrew also has ‘Kordbolbok kawehme wirlarrk nuye bu kudjewk wanjh nawu wirlarrk kare kayimerran kalkke wanjh kadjordmen kordbolbok duninjh kayimerran.’ I’m not sure what species this is. Jill prefers non-retroflex version. MG- because she’s a Kunwinjku speaker.
-\uv W= wehme, I,E= werhme
+\uv W
+\ur I,E= werhme
+\nt Andrew also has ‘Kordbolbok kawehme wirlarrk nuye bu kudjewk wanjh nawu wirlarrk kare kayimerran kalkke wanjh kadjordmen kordbolbok duninjh kayimerran.’ I’m not sure what species this is. Jill prefers non-retroflex version. MG- because she’s a Kunwinjku speaker.
 \id DK
 \dm 10/Mar/2019
 
@@ -16463,8 +16470,8 @@ negative attitude towards an action.
 \re red dye plant
 \de Grass sp. used for extracting a red dye for weaving.
 \sc Haemadorum brevicauli
-\uv kunwalidjaw clan lect and others.
-\uv I=wirndilk
+\uv W,Kunwalidjaw clan lect and others.
+\ur I=wirndilk
 \sd plant
 \dt 06/May/2006
 \dm 14/Sep/2018
@@ -16502,7 +16509,7 @@ negative attitude towards an action.
 \re fish wire spear
 \de Multi-pronged 'fish wire' spear.
 \uv W
-\uv I=djalakiradj
+\ur I=djalakiradj (spear sense only)
 \sn 2
 \re metal
 \re iron
@@ -16637,7 +16644,7 @@ negative attitude towards an action.
 \re not at all
 \de Not at all, not even a bit.
 \ng note that this sense is only instantiated with a negated transitive verb
-\uv W, I, Dj, Kdj
+\uv W, I, Djnj, Kdj
 \ur E= yiyangbonj [external adverb, not prefixed]
 \dm 14/Sep/2018
 
@@ -16818,8 +16825,7 @@ nguddangke kunred yiworhnan.
 \xe Give it to me.
 \xv Wong.
 \xe I gave you.
-\ng <b>-won</b>} can be used as a verbalizing suffix with many adjectives eg. <b>-bulerriwon</b> to blacken,
-<b>-kuyenwon</b>} to lengthen, <b>-rayekwon</b> to tighten.
+\ng <b>-won</b> can be used as a verbalizing suffix with many adjectives eg. <b>-bulerriwon</b> to blacken, <b>-kuyenwon</b> to lengthen, or <b>-rayekwon</b> to tighten.
 \uv W, I, Dj, Djnj
 \ur E= dadjung
 \pdn kk = -weybun
@@ -16844,21 +16850,19 @@ nguddangke kunred yiworhnan.
 \dm 15/Dec/2018
 
 \lx wordword
-\sn 1
 \ps n.
+\sn 1
 \re Australian Magpie Lark
 \re peewee
 \re Magpie lark, peewee
+\de Magpie Lark, peewee.
+\xv Wordword kani kore kundulk mannguy kanguyngun dja kawokdi kayime wordword wordword.
+\xe Magpie larks sit in trees and eat [the nectar of] flowers, calling out ‘wordword, wordword’. 
+\so Andrew Manakgu, Injalak Arts painting documentation
 \sc Grallina cyanoleuca
 \uv W
 \ur I= marliblib
 \sd bird
-\sn 2
-\ps ideophone
-\de Imitation of the sound made by magpie larks.
-\xv Wordword kani kore kundulk mannguy kanguyngun dja kawokdi kayime wordword wordword.
-\xe Magpie larks sit in trees and eat [the nectar of] flowers, calling out ‘wordword, wordword’. 
-\so Andrew Manakgu, Injalak Arts painting documentation
 \id DK, MG
 \dt 01/May/2017
 \dm 14/Sep/2018
@@ -17118,6 +17122,7 @@ nguddangke kunred yiworhnan.
 \xe When will the ceremony happen? After when it's burning off time, then we'll go and enter the ceremony.
 \sn 2
 \re be hot
+\de Be hot.
 \xv Kabolkwurlhme bolkki.
 \xe Today this place is really hot. 
 \so Garde, Murray (ed.), ‘Bininj Gunwok talk about health : medical terms and vocabulary for health professionals’, Gundjeihmi Aboriginal Corporation, Jabiru, 2010
@@ -17309,7 +17314,7 @@ speaker.
 \sn 1
 \re finish
 \de Finish something.
-\ng sometimes Kuninjku say <b>-yakkong</b>} for <b>yakwong</b>
+\ng sometimes Kuninjku say <b>-yakkong</b> for <b>yakwong</b>
 \xv Manme yikarrme? Kayakki, birriyakwong birridedjwarla.
 \xe Have you got any food? No, those greedy guts (obscene) finished it all.
 \pdn kk = yakoraweybun
@@ -17404,7 +17409,7 @@ speaker.
 \lx yarriwurrkkarr
 \ps n.
 \re matry name
-\de Matry namee (namardku), associated with the totem of Green Ant (kabo). 
+\de Matry name (namardku), associated with the totem of Green Ant (kabo). 
 \xv Yarriwurrkarr wanjh nakka kabo. 
 \xe So the Yarriwurrkarr moiety, that's the Green Ant moiety (associated with the Green Ant). 
 \so Jill Nganjmirra
@@ -17503,8 +17508,6 @@ speaker.
 \so Jill Nganjmirra
 \xv Manme kayawarren. (reflexive)
 \xe She's looking for food.
-\cf Yawarrinj
-\ce s/he was in want (of something)
 \pdn kk = rombebme
 \dm 25/Nov/2018
 
@@ -17732,7 +17735,7 @@ speaker.
 \xv Bu wurdyaw ngudberre ngurrbenyawmang nawu ngurrbenbukka kumekbe ba ngurrbenmarneyime kunkarre, bu ngurrikimukmen bu yerrikah.
 \xe And when you all have your own children, you should teach them, and that’s how you will tell them the law, later when you’re grown up.
 \so Quoted in Etherington, Steve, ‘Learning to be Kunwinjku: Kunwinjku people discuss their pedagogy’, PhD Thesis, Charles Darwin University, 2006 
-\cf rerre
+\cf yerre
 \id DK
 \dt 06/Jan/2018
 \dm 14/Sep/2018
@@ -18261,6 +18264,7 @@ kuk.
 \xv Manme kayo?
 \xe Is there any food?
 \sn 3
+\re sleep
 \de Sleep.
 \xv A: Bukkanj kahni nakkanj? B: Kayo.   
 \xe A: Is he there that one [the one you should know I mean]? B: He's asleep.                 
@@ -18363,13 +18367,10 @@ kuk.
 \lx yowayh
 \va yoweyh
 \ps interj.
-\re yes
-\re that's right
-\de Yes, yes that’s right (emphatic variation of 'yo').
-\nt DK: I remembered hearing it as 'yowayh' in Gunbalanya, so I checked my Artlink interview and it definitely seemed to be pronounced this way. I feel like it’s slightly more emphatic than yo, but maybe I’m wrong.
-\id DK
-\dt 17/Apr/2017
-\dm 14/Sep/2018
+\de Yes, yes that’s right (variation of 'yo').
+\bw from Kriol 'yowai'. 
+\nt DK: Jill says this is Kriol originally, ausil dictionary at http://ausil.org/Dictionary/Kriol/index-english/index.htm lists it. Jill says yowayh and yoweyh both used. I feel like it’s slightly more emphatic than yo, but maybe I’m wrong.
+\dm 20/Jan/2019
 
 \lx yukkuyukkuh
 \ps n.
