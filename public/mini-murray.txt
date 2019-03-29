@@ -566,7 +566,7 @@ roast [the meat]. It was the elder brother [who did this].
 \re skin name (female)
 \re subsection (female) of <b>duwa</b> patri-moiety
 \de Female subsection or 'skin' name of <b>duwa</b> patri-moiety and <b>mardku</b> matri-moiety. Equivalent to <b>kamanj</b> in the eastern system.
-\uv W= ngalbangardi
+\uv W
 \ur I, E, Djnj= <b>kamanj</b>, Kdj= albangardi
 \sd kinship
 \dt 09/Oct/2007
@@ -4095,12 +4095,17 @@ kabirrimang kabirribiddadjkerren karlba kore kunbende kare kore kunbid.
 \pr ngal-
 \ps n.
 \re female
+\re woman
+\re girl
 \de Female, woman, girl.
 \xv Ngale karndayh, ngaldaluk.
 \xe That's a female Antilopine kangaroo.
 \xv Ngaldaluk narangem benewam kulabbarl. Ngaldaluk mangi barrdjungka, dja narangem djenj danjbuni.
 \xe A woman and a man went to the billabong. The woman was gathering water lilies, and the man was spearing fish.
 \so Maralngurra, Rachel, ‘Wurdwurd Bedberre’, C.M.S, Gunbalanya, 1974.
+\xv Ngaldahdaluk.
+\xe Women.
+\pdn kk = ngaldjubdjubken
 \dm 11/Nov/2018
 
 \lx danek
@@ -7733,7 +7738,7 @@ ngarringeybun burarr dja durrbu dja nayahwurd nakka djerlih"
 \de Male subsection name or ‘skin’ name of <b>yirridjdja</b> moiety and <b>ngarradjku</b> matri-moiety. Equivalent to <b>bangardi</b> in the eastern system.
 \sd kinship
 \uv W, Kdj
-\uv I,E=bangardi.
+\ur I,E=bangardi.
 \dt 15/Mar/2007
 \dm 14/Sep/2018
 
@@ -7745,7 +7750,7 @@ ngarringeybun burarr dja durrbu dja nayahwurd nakka djerlih"
 \de Female subsection name or ‘skin’ name of <b>yirridjdja</b> moiety and <b>ngarradjku</b> matri-moiety. Equivalent to <b>bangardidjan</b> in the eastern system.
 \sd kinship
 \uv W
-\uv I,E= bangardidjan, Kdj= alkamarrang
+\ur I,E= bangardidjan, Kdj= alkamarrang
 \dt 15/Mar/2007
 \dm 15/Dec/2018
 
@@ -7822,7 +7827,7 @@ ngarringeybun burarr dja durrbu dja nayahwurd nakka djerlih"
 \pr ngal-
 \ps n.
 \re subsection (female) of <b>yirridjdja</b> patri-moiety 
-\re skin name (male)
+\re skin name (female)
 \de Female subsection or 'skin' name of <b>yirridjdja</b> patri-moiety and <b>mardku</b> matri-moiety. Equivalent to <b>bulanjdjan</b> in the eastern system.
 \sd kinship
 \uv W
@@ -11661,24 +11666,19 @@ Namanjmiken kakanjkinje mankudji kunkanj bulikki bu wolewoleh kore Kunbalanja. I
 \re do
 \re complete
 \de Do, complete a task or activity.
-\xv Ngarrimarnbuni ngadberre <b>lesson</b>.
+\xv Ngarrimarnbuni ngadberre <i>lesson</i>.
 \xe We would do our lessons.
 \so Quoted in Etherington, Steve, ‘Learning to be Kunwinjku: Kunwinjku people discuss their pedagogy’, PhD Thesis, Charles Darwin University, 2006
 \sn 3
 \re fix
 \re heal
 \de Fix, heal.
-\xv Muddikang ngarduk warreminj, ngakan kore mechanic kabirrimarnbun. 
+\xv Muddikang ngarduk warreminj, ngakan kore fi:mechanic kabirrimarnbun. 
 \xe My car has broken down, I'll take it to the mechanic and they will fix it.
-\xv Ngakodjwurrkmeng marrkidjbu kamwam ngankodjkarrmeng nganmarnbom.
-\xe I had an object inside my head and the clever man took hold of my head and healed me.
 \sn 4
 \re organise
 \re arrange
 \de Organise or start an event. 
-\xv Disco kabirrimarnbun <b>and</b> wurdwurd nawu birrikilehkilelh, yawkyawk, yawurrinj kabirridjalngimen rowk kore disco.
-\xe They organise discos, and little children, young girls and boys all go to them. 
-\so Quoted in Etherington, Steve, ‘Learning to be Kunwinjku: Kunwinjku people discuss their pedagogy’, PhD Thesis, Charles Darwin University, 2006
 \xv Dja kore mulil kabirrikarrme kabirrimarnbun wanjh kunrodjbe kabirribarurren bininj dja daluk.
 \xe When they have ceremonies, men and women (sometimes) paint themselves with red ochre. 
 \so Andrew Manakgu, Injalak Arts painting documentation 
@@ -11689,12 +11689,6 @@ Namanjmiken kakanjkinje mankudji kunkanj bulikki bu wolewoleh kore Kunbalanja. I
 \xv Namarrkon kamarnbun kangurdulme kamayhke dja kandong bininj.
 \xe Namarrkon makes it thunder and creates lightning and strikes people. 
 \so Nganjmirra, Nawakadj, ‘Kunwinjku Spirit’, Melbourne University Press, 1997
-\xv Dangrayekni nakka ngarrirey nganmarnbuni ngarridalkdurrkmangi kore nungka yoy, kundalk.
-\xe He was tough that man, we used to go and he would make us pull up weeds at his place.
-\so Quoted in Etherington, Steve, ‘Learning to be Kunwinjku: Kunwinjku people discuss their pedagogy’, PhD Thesis, Charles Darwin University, 2006
-\xv Nawu bininj dja balanda kabirrimang nawu mayh wanjh kabirrikelebukwon kakelebukmen kabirrimarnbun kelebuk mayh bedberre.
-\xe Both Aboriginal and non-Aboriginal people get animals and tame them, they make their animals tame.
-\so Andrew Manakgu, Injalak Arts painting documentation
 \se marnburren
 \re transfigure self
 \de Transfigure oneself, make oneself into something else. 
@@ -11737,7 +11731,7 @@ Namanjmiken kakanjkinje mankudji kunkanj bulikki bu wolewoleh kore Kunbalanja. I
 \lx marne
 \va mene-
 \ps applic.
-\ng an applicative expressing a beneficiary or maleficiary role
+\ng An applicative expressing a beneficiary or maleficiary role.
 \sn 1
 \re for
 \re benefactive verbal prefix
@@ -11750,13 +11744,8 @@ Namanjmiken kakanjkinje mankudji kunkanj bulikki bu wolewoleh kore Kunbalanja. I
 \so Evans, Nicholas (ed.), How to write Kundjeyhmi, prepared for the National Parks and Wildlife Service and the Gagudju Association.
 \xv Ngalngayeng kawarre nganmarnedoweng korroko ngarribarrkbombarrkbom. Ngurrimray karrimarnenalkbun.
 \xe (words to a song) My daughter has died, we have been grieving all through the night until dawn. Come all of you and let us wail for her.
-\se marnedi
-\re pray
-\de Pray (used in Christian religious contexts only). 
-\se marneyolyolme
-\re explain
-\de Explain to someone, tell someone a story.
 \sn 2
+\re prefix that emphasises that an action relates to a particular person
 \de Prefix used to emphasise that an action affects or relates to a particular person or thing. E.g. bebmeng (he appeared) vs bimarnebebmeng (he appeared before him, he turned up to see her etc). 
 \xv Kumekke bimarnebebmeng biyameng. 
 \xe He appeared there where she was and speared her. 
@@ -11767,6 +11756,12 @@ Namanjmiken kakanjkinje mankudji kunkanj bulikki bu wolewoleh kore Kunbalanja. I
 \se marnenalkbun
 \re cry for
 \de Cry for a deceased person.
+\se marnedi
+\re pray
+\de Pray (used in Christian religious contexts only). 
+\se marneyolyolme
+\re explain
+\de Explain to someone, tell someone a story.
 \nt DK: Had a go at fleshing out this entry with examples. Etherington textbook splits the meaning into two senses as well, but his second [sn] is phrased as ‘links the verb to a reason or person being talked about’. This might be more accurate than mine, not sure. He also used ‘marnebebme’ as an example of this second sense, as well as ‘birrimarnedurrinj  = they were arguing about (that particular issue)’
 \id DK
 \dt 15/Dec/2018
@@ -11895,10 +11890,10 @@ Namanjmiken kakanjkinje mankudji kunkanj bulikki bu wolewoleh kore Kunbalanja. I
 \ps adj.
 \re happy
 \de Happy.
-\cf marrmarrmen
-\ce Cheer up, become happy.
-\cf marrmarrni
-\ce Be happy.
+\se marrmarrmen
+\de Cheer up, become happy.
+\se marrmarrni
+\de Be happy.
 \nt DK: Can't find much in the way of examples, but this seems to be an adjective at its root? Religious song book has "karrikangemarrmarr duninjh". [CHECK JILL^]
 \id DK
 \dt 25/Nov/2018
@@ -12233,7 +12228,7 @@ kahdi.
 \xe The white-bellied sea eagle is a totem for people in the Kunumbidj and Kulmarru clans.
 \sc Haliacetus leucogaster
 \sy djawundu
-\uv E= damala, Kdj= marrawuddi, Rembarrnga= makaka
+\ur E= damala, Kdj= marrawuddi, Rembarrnga= makaka
 \sd bird
 \dt 27/Feb/2006
 
@@ -12241,7 +12236,7 @@ kahdi.
 \ps v.t.
 \re mistake the identity of someone 
 \de Mistake the identity of somebody, not recognise,
-\xv <b>Hat</b> yidjongburren la ngandimidbun.
+\xv <i>Hat</i> yidjongburren la ngandimidbun.
 \xe Put a hat on and they won't recognise us.
 \se wokmidbun
 \re misunderstand
@@ -12354,7 +12349,7 @@ kahdi.
 \sn 2
 \re bullet
 \de Firearm bullets and shotgun cartridges and (by semantic extention) any small globular cylindrical or bead-like objects
-\xv Nahni manimunak kahdowen, kundjak kakarrme lead-beh, manmim <i>shotgun</i> nguneng.
+\xv Nahni manimunak kahdowen, kundjak kakarrme lead-beh, manmim fi:shotgun nguneng.
 \xe This magpie goose is sick, it has disease from consuming shotgun lead [pellets].
 \uv W
 \ur I,E= mimno
@@ -12428,7 +12423,7 @@ kahdi.
 \xv Bele ngankarrme minj bale ngayime ngadolkkan. 
 \xe I’ve got a cramp, I can’t stand up.
 \so Jill Nganjmirra
-\uv E = marrek
+\ur E = marrek
 \dt 08/Aug/2018
 
 \lx mirnde-
@@ -12486,6 +12481,7 @@ kahdi.
 \de Have a sharp edge or point.
 \se mirrhdubbe
 \re blunt
+\de Blunt.
 \se mirrhmak
 \de Sharp.
 \se mirrhmang
@@ -12822,7 +12818,9 @@ causes lightning by throwing the axes with great force).
 \ps n.
 \re small mammals
 \de Generic term for various small dasyurid and other similar small mammals such as delicate mouse, Kakadu pebble mouse, fawn antechinus, sandstone false antechinus, grassland melomys, the common rock rat and the brush-tailed rabbit-rat. Some speakers also call some of these small mammals <b>djirrkkinj</b> or in Kune <b>bob</b>.
+\sy djirrkkinj
 \sc Pseudomys delicatus, Pseudomys calabyi, Antechinus bellus, Pseudatechinus bilarni, Melomys burtoni, Zyzomys argurus, Conilurus penicillatus
+\ur E= bob
 \sd mammal
 \dt 06/May/2006
 
@@ -13098,8 +13096,8 @@ causes lightning by throwing the axes with great force).
 \re cry
 \re weep
 \de Cry, weep.
-\cf Nalkiduhdurndi.
-\ce He went back crying.
+\xe Nalkiduhdurndi.
+\xe He went back crying.
 \xv Bu Nawalabik bibom Nangordyawok doweng wanjh ngalbadjan nuye Nangordyawok nalkirey bu durndehdurndengi kore kakbi namud ngalengarre. 
 \xe When Nawalabik killed Nangordyawok, Nangordyawok’s mother went back crying to her family in the north. 
 \so Jill Nganjmirra
@@ -13574,7 +13572,8 @@ causes lightning by throwing the axes with great force).
 \lx ngadberre
 \ps poss. pron.
 \re us
-\de Us (3 excl.).
+\re ours
+\de Us (3 excl.), ours.
 \dm 14/Sep/2018
 
 \lx ngadburrung
@@ -13729,15 +13728,6 @@ bindilambarrkurrmeng rowk manu nadjalwern.” (Kunwinjku Spirit).
 \id DK
 \dt 24/Feb/2017
 
-\lx ngaldaluk
-\ps n.
-\re female
-\de Female.
-\xv ngaldahdaluk
-\xe women
-\pdn kk = ngaldjubdjubken
-\dm 14/Sep/2018
-
 \lx -ngale
 \ps interrog.
 \re who, which
@@ -13792,6 +13782,8 @@ bindilambarrkurrmeng rowk manu nadjalwern.” (Kunwinjku Spirit).
 
 \lx ngalengman
 \ps refl. pron.
+\re herself
+\re she
 \de Herself. Used to talk about feminine nouns a way that singles them out, highlights their particular attributes, possessions or way of acting or thinking, or is reflexive. “By herself”, “she only”, “one of the women”, “as for her”, “her business”, “her property”, “her turn”, “her nature is to” etc. 
 \xv Warradjan ngalkka ngalengman kadjalyo kare kore kubowinjku kukku minj kare kore kurrula.
 \xe The pig-nosed turtle only lives in the fresh water, she doesn’t go into the ocean. 
@@ -13886,7 +13878,7 @@ Also <b>yawkyawk</b>.
 \de Two species of salmon (or ‘fork-tailed’) catfish.
 \sc Neoarius graeffei, Neoarius leptaspis
 \uv Djnj, W
-\uv I = ngadjdjelek, Kdj= almakkawarri
+\ur I= ngadjdjelek, Kdj= almakkawarri
 \sd fish
 \dt 06/May/2006
 
@@ -14060,9 +14052,9 @@ Also <b>yawkyawk</b>.
 \ps poss. pron.
 \re my
 \de My, mine.
-\uv E= ngardukki
 \xv Nangale djirdmey manme ngarduk?
 \xe Who stole my food?
+\ur E= ngardukki
 \dt 06/May/2006
 \dm 14/Sep/2018
 
@@ -14135,8 +14127,7 @@ Also <b>yawkyawk</b>.
 \ps n.
 \re skin name (male)
 \re subsection (male) of <b>duwa</b> patri-moiety
-\de Male subsection or 'skin' name of <b>duwa</b> patri-moiety and  <b>ngarradjku</b>.
-matri-moiety. Equivalent to <b>balang</b> in the eastern system.
+\de Male subsection or 'skin' name of <b>duwa</b> patri-moiety and  <b>ngarradjku</b> matri-moiety. Equivalent to <b>balang</b> in the eastern system.
 \sd kinship
 \uv W, Kdj
 \ur I, E, Djnj= <b>balang</b>
@@ -14150,7 +14141,7 @@ matri-moiety. Equivalent to <b>balang</b> in the eastern system.
 \re subsection (female) of <b>duwa</b> patri-moiety
 \de Female subsection or 'skin' name of <b>duwa</b> patri-moiety and  <b>ngarradjku</b> matri-moiety. Equivalent to <b>belinj</b> in the eastern system.
 \sd kinship
-\uv W, Kdj
+\uv W
 \ur I, E, Djnj= <b>belinj</b>, Kdj= alngarridj
 \dt 16/Mar/2007
 \dm 14/Sep/2018
@@ -15450,7 +15441,7 @@ at a place called <b>Kurrurldurl</b>.
 \ps n.
 \re skin name (male)
 \re subsection (male) of <b>yirridjdja</b> patri-moiety
-\de Male subsection or 'skin' name of <b>yirridjdja</b> patri-moiety and <b>mardku</b>.
+\de Male subsection or 'skin' name of <b>yirridjdja</b> patri-moiety and <b>mardku</b>
 matri-moiety. Equivalent to <b>ngarridj</b> in the eastern system.
 \uv W, Kdj
 \ur I,E,Djnj= ngarridj
@@ -18409,6 +18400,9 @@ themselves to trees, they attach themselves to trees, they attach themselves to 
 \ps n.
 \re island
 \de Island.
+\xv Kore manyunkurr, adjbud kayo.
+\xe On the island, there is a beach.
+\so Wildflower Band, ‘Galiwin’ku’
 \sd geographic
 \dt 06/May/2006
 \dm 14/Sep/2018
