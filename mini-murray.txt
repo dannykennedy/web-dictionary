@@ -8455,6 +8455,19 @@ ngarringeybun burarr dja durrbu dja nayahwurd nakka djerlih"
 \dt 02/Oct/2016
 \dm 15/Dec/2018
 
+\lx kedjebe
+\ps n.
+\re file snake
+\re Arafura file snake
+\re <i>Acrochordus_arafurae</i>
+\de File snake (Arafura file snake, <i>Acrochordus_arafurae</i>).
+\sc Acrochordus arafurae
+\pdn 1. ngaldjangarabunebune 2. ngaldjangarakerlkkerlk
+\uv W
+\ur I= bekka, Kdj= nawandak
+\sd reptile/amphibian
+\dt 06/May/2006
+
 \lx kedjelk
 \va kedjelh
 \ps adj.
