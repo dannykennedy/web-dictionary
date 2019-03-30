@@ -98,16 +98,6 @@
             <!--            <div class="addthis_inline_follow_toolbox"></div>-->
             
             
-            <form method="post" name="contact_form"
-action="contact-form-handler.php">
-    Your Name:
-    <input type="text" name="name">
-    Email Address:
-    <input type="text" name="email">
-    Message:
-    <textarea name="message"></textarea>
-    <input type="submit" value="Submit">
-</form>
 
 
 
@@ -1173,6 +1163,18 @@ action="contact-form-handler.php">
     </div>
     <script src="script-bubble.js"></script>
     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5c9d1639e157f497"></script>
+    <script type="text/javascript">
+    window.doorbellOptions = {
+        id: '10221',
+        appKey: 'NonpDJQupu3MvVNwX4znycsD02qHzWNDuRqpCeHdeWpV0Ydp4KOV9rUZpLI3tLvn'
+    };
+    (function(w, d, t) {
+        var hasLoaded = false;
+        function l() { if (hasLoaded) { return; } hasLoaded = true; window.doorbellOptions.windowLoaded = true; var g = d.createElement(t);g.id = 'doorbellScript';g.type = 'text/javascript';g.async = true;g.src = 'https://embed.doorbell.io/button/'+window.doorbellOptions['id']+'?t='+(new Date().getTime());(d.getElementsByTagName('head')[0]||d.getElementsByTagName('body')[0]).appendChild(g); }
+        if (w.attachEvent) { w.attachEvent('onload', l); } else if (w.addEventListener) { w.addEventListener('load', l, false); } else { l(); }
+        if (d.readyState == 'complete') { l(); }
+    }(window, document, 'script'));
+</script>
 </body>
 
 </html>

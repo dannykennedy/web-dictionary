@@ -26,10 +26,30 @@ article {
 p {
     margin: 0;
 }
-button #doorbell-submit-button .btn .btn-primary {
-    background: var(--main-app-color) !important;
-    border: 1px solid var(--main-app-color) !important;
+
+#doorbell-title {
+    font-family: var(--display-font);
 }
+
+#doorbell-submit-button {
+    background: #ece2de;
+    border: 1px solid #ece2de;
+    color: black;
+}
+
+#doorbell-submit-button:hover {
+    background: brown;
+    border: 1px solid brown;
+}
+
+#doorbell #doorbell-powered-by {
+    margin-top: 5px;
+    font-size: 11px;
+    display: inline-block;
+    color: brown;
+    font-family: var(--display-font);
+}
+
 .ps {
     /*    font-style: italic;*/
     font-family: 'Special Elite';
