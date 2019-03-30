@@ -26,13 +26,10 @@ article {
 p {
     margin: 0;
 }
-
-btn-primary {
-    background: var(--main-app-color);
-    border: 1px solid var(--main-app-color);
+button #doorbell-submit-button .btn .btn-primary {
+    background: var(--main-app-color) !important;
+    border: 1px solid var(--main-app-color) !important;
 }
-
-
 .ps {
     /*    font-style: italic;*/
     font-family: 'Special Elite';
@@ -98,8 +95,6 @@ ul li {
 .subentry-text.end {
     margin-left: 0px;
 }
-
-
 
 /* Need to give this a top margin because padding messes with animation */
 
@@ -397,14 +392,12 @@ h4 {
     text-decoration: none;
     cursor: pointer;
 }
-
-
-    #mobile-about {
-        display: none;
-    }
-    #desktop-about {
-        display: block;
-    }
+#mobile-about {
+    display: none;
+}
+#desktop-about {
+    display: block;
+}
 
 /*@MEDIA*/
 
