@@ -5553,7 +5553,8 @@ re Erythrophleum chlorostachys
 \re tree
 \re log
 \re stick
-\de Tree (generic), stick, log.
+\re wood
+\de Tree (generic), stick, log, wood.
 \xv Djebuyh ngarrinan kore kundulk kabarndi dja karedmarnbun kaddum
 kurrulk.
 \xe We see possums sitting up in trees, and making their nests high up in trees.
