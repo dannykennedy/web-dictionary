@@ -1109,8 +1109,7 @@ same species). Black wallaroos <b>kabirrimurlbardme</b> 'they hop (of rock kanga
 \re individually
 \re separately
 \de Each, individually, separately.
-\ng This verbal prefix has a distributive function which can include spatial separation. The 'distributive share' (see Evans 2003:497) can be
-focused on an intransitive or transitive subject but in some cases for the latter, also on the object and verb.
+\ng This verbal prefix has a distributive function which can include spatial separation. The 'distributive share' (see Evans 2003:497) can be focused on an intransitive or transitive subject but in some cases for the latter, also on the object and verb.
 \xv Birribebbehwam.
 \xe They each went on their own.
 \xv Ngarrbenbebbewon.

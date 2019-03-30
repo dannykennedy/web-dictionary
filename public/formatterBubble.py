@@ -544,23 +544,23 @@ with open("index.html", 'a') as f:
 
     f.write('<script src="script-bubble.js"></script>')
     f.write('<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5c9d1639e157f497"></script>')
-    f.write('</body>')
-    f.write('</html>')
+    # f.write('</body>')
+    # f.write('</html>')
 
 
     f.close()
 
-# # ADD JS TO FILE
-# with open("script-bubble.js") as f:
-#     with open("dict-for-web4.html", "a") as f1:
-#         f1.write('<script>')
-#         for line in f:
-#             f1.write(line)
-#         f1.write('</script>')
-#         f1.write('</body>')
-#         f1.write('</html>')
-#     f1.close()
-# f.close()
+# ADD JS TO FILE
+with open("doorbell-io.js") as f:
+    with open("index.html", "a") as f1:
+        f1.write('<script type="text/javascript">')
+        for line in f:
+            f1.write(line)
+        f1.write('</script>')
+        f1.write('</body>')
+        f1.write('</html>')
+    f1.close()
+f.close()
 
 
 # with open('json.txt', 'w') as f2:
