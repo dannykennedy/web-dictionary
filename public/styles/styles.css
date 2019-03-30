@@ -26,6 +26,13 @@ article {
 p {
     margin: 0;
 }
+
+btn-primary {
+    background: var(--main-app-color);
+    border: 1px solid var(--main-app-color);
+}
+
+
 .ps {
     /*    font-style: italic;*/
     font-family: 'Special Elite';
@@ -91,6 +98,8 @@ ul li {
 .subentry-text.end {
     margin-left: 0px;
 }
+
+
 
 /* Need to give this a top margin because padding messes with animation */
 
