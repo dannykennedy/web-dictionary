@@ -8459,8 +8459,8 @@ ngarringeybun burarr dja durrbu dja nayahwurd nakka djerlih"
 \ps n.
 \re file snake
 \re Arafura file snake
-\re <i>Acrochordus_arafurae</i>
-\de File snake (Arafura file snake, <i>Acrochordus_arafurae</i>).
+\re <i>Acrochordus arafurae</i>
+\de File snake (Arafura file snake, <i>Acrochordus arafurae</i>).
 \sc Acrochordus arafurae
 \pdn 1. ngaldjangarabunebune 2. ngaldjangarakerlkkerlk
 \uv W
