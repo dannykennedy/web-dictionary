@@ -14247,8 +14247,7 @@ Also <b>yawkyawk</b>.
 \sd mythology
 \de Carry in belly, said when the Rainbow Serpent or other mythological beings swallow people and carry them inside themselves. When people participate in a ceremony they are also seen as being carried in the belly of the Rainbow Serpent. 
 \xv Ngarduk mawa bu ngarriwam yibengkan bu Kunabibi ngerdkenyoy ngarriwam Namimkabo mani kunrurrk ngarriyoy, kunrurrk. Ngarriyoy kunkare ngarriwam Kunabibi ngerdkenyoy ngarriyikani.  
-\xe My father’s father came with us here when we slept in this cave here at Namimkabo when we were travelling as part of the Kunabibi, taking the ceremony a long time ago. [literally: the Kunabibi
-was pregnant with us, i.e. the Rainbow Serpent holds the ceremony participants in her belly when they participate in the ceremony]
+\xe My father’s father came with us here when we slept in this cave here at Namimkabo when we were travelling as part of the Kunabibi, taking the ceremony a long time ago. [literally: the Kunabibi was pregnant with us, i.e. the Rainbow Serpent holds the ceremony participants in her belly when they participate in the ceremony]
 \so Jimmy Kalarriya
 \se ngerdkendadjme
 \re become full
