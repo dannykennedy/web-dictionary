@@ -218,7 +218,7 @@ header {
     justify-self: center;
 }
 #search-options {
-    font-family: var(--display-font), cursive;
+    font-family: var(--display-font), serif;
     display: flex;
     justify-content: flex-end;
     font-size: 1.2em;
@@ -228,7 +228,7 @@ header {
     cursor: pointer;
 }
 #app-title {
-    font-family: var(--display-font), cursive;
+    font-family: var(--display-font), serif;
     font-weight: 500;
     font-size: 1.2em;
     justify-self: flex-start;
