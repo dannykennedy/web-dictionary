@@ -11505,7 +11505,7 @@ to 'ego'.
 
 \lx manbu
 \ps rel. pron.
-\ng Relates to 'man-' class nouns. For 'ngal-' class nouns <i>ngalbu</i> is used, and for 'na-' class nouns <i>nawu</i>.
+\ng Relates to 'man-' class nouns. For 'ngal-' class nouns fi:ngalbu is used, and for 'na-' class nouns fi:nawu.
 \re which
 \re that
 \de Which, who, that.
