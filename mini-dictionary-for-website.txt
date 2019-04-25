@@ -2579,6 +2579,12 @@ the Alligator Rivers region. 'Anbinik', the Kundedjnjenghmi/Kundjeyhmi version o
 \so Quoted in Etherington, Steve, ‘Learning to be Kunwinjku: Kunwinjku people discuss their pedagogy’, PhD Thesis, Charles Darwin University, 2006
 \dm 28/Oct/2018
 
+\lx bolhkadjung
+\ps v.t.
+\re follow a path or road
+\de Follow a path or road.
+\dt 22/Apr/2019
+
 \lx borliblib
 \ps n.
 \re Australian Magpie Lark
@@ -3326,7 +3332,8 @@ the Alligator Rivers region. 'Anbinik', the Kundedjnjenghmi/Kundjeyhmi version o
 \ps n.
 \re subsection (male) of <b>duwa</b> patri-moiety
 \re skin name (male)
-\de Male subsection or 'skin' name of <b>duwa</b> patri-moiety and <b>ngarradjku</b> matri-moiety. Equivalent to <b>kela</b> in the eastern system.
+\de Male subsection or 'skin' name of <b>duwa</b> patri-moiety and <b>ngarradjku</b> 
+matri-moiety. Equivalent to <b>kela</b> in the eastern system.
 \sd kinship
 \uv W, Kdj
 \ur I, E, Djnj= kela
@@ -8805,6 +8812,7 @@ birrikilelh namekke.
 \dt 03/Apr/2017
 
 \lx kimuk
+\va kihkimuk (plural form)
 \ps adj.
 \sn 1
 \re big
@@ -16847,6 +16855,18 @@ nguddangke kunred yiworhnan.
 \dt 06/Jun/2011
 \dm 14/Sep/2018
 
+\lx wolebukmen
+\ps v.i.
+\re cool down (of cooked food)
+\de Cool down (of cooked food).
+\dt 22/Apr/2019
+
+\lx wolebukkiyo
+\ps v.i.
+\re sit whilst something cools down
+\de Sit whilst something cools down (esp. food from the fire). 
+\dt 22/Apr/2019
+
 \lx wolerrk
 \ps n.
 \re euro
@@ -18295,6 +18315,12 @@ kuk.
 \nt DK: Not sure of dialect info for djarridjno, kunmabu etc. Changed from [lx] njirrke. Andrew has “[xv] Karrikinje kore kunak kuwilk kuyirrke dja kore kunkerri karrikerribun. [xe] We cook it on the fire or in the hot ashes, or in a traditional ground oven.” Also e.g. “Dja nawu(black) burlerri nakka kunyirrke.kabirrimang kore kunak karung wanjh kunyirrke kamarnbun.” and “Ngalbu Ngalmangiyi bu birrikinjeyi birrimangi kunrerrng mankimuk. Birriworrhmi birrikukkinjeyi ngalbu ngalmangiyi wanjh birrikomngukmangi Birrimadbuni yirrkebakmi birrikinjeyi yika birriwilkdengi.” etc. Carroll also has -yirrke. Jill also notes kunyirrke. Jill says njirrke is like 'hate', related to njirrhmiwon - entry created.
 \id DK
 \dt 20/Jan/2018
+
+\lx yirrkebakke
+\ps v.t.
+\re make space in coals
+\de Make space in the coals of a fire to cook something.
+\dt 22/Apr/2019
 
 \lx yirrkku
 \ps n.
