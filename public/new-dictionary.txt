@@ -16863,8 +16863,8 @@ nguddangke kunred yiworhnan.
 
 \lx wolebukkiyo
 \ps v.i.
-\re sit whilst something cools down
-\de Sit whilst something cools down (esp. food from the fire). 
+\re food sitting as it cools
+\de Food sitting as it cools (esp. after being taken from the fire). 
 \dt 22/Apr/2019
 
 \lx wolerrk
