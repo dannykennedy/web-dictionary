@@ -11241,6 +11241,20 @@ to 'ego'.
 \id DK
 \dt 10/Jul/2018
 
+\lx makmak
+\pr man-
+\ps adj.
+\re healthy
+\re very good (man- class nouns).
+\de Very good (man- class nouns), healthy (food), etc.
+\xv Manmakmak manme 
+\xe Healthy food.
+\so Jill Nganjmirra
+\nt DK: Alex from Injalak wanted to know what 'healthy' would be in Kunwinjku, so I asked Jill. 
+\id DK
+\id JNg
+\dt 27/Apr/2019
+
 \lx makmen
 \ps v.i.
 \re recover
