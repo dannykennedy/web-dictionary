@@ -1556,9 +1556,6 @@ or exclusively and 'in contrast'.
 \ps n.
 \re penis
 \de Penis.
-\xv Lumaluma kakarrme manberd mankimuk.
-\xe Lumaluma has a large penis.
-\so Nganjmirra, Nawakadj, ‘Kunwinjku Spirit’, Melbourne University Press, 1997
 \se manberdkurlah
 \de Foreskin.
 \uv W
