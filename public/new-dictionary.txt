@@ -1556,6 +1556,9 @@ or exclusively and 'in contrast'.
 \ps n.
 \re penis
 \de Penis.
+\xv Lumaluma kakarrme manberd mankimuk.
+\xe Lumaluma has a large penis.
+\so Nganjmirra, Nawakadj, ‘Kunwinjku Spirit’, Melbourne University Press, 1997
 \se manberdkurlah
 \de Foreskin.
 \uv W
@@ -4915,6 +4918,14 @@ Burrkyak. Kabirridjalngeybun. Minj kabirridebikarren, burrkyak.
 \dt 02/May/2007
 \dm 14/Sep/2018
 
+\lx dirri
+\ps v.i.
+\re play
+\de Play.
+\xv Wurdurd beh ngurridirri kandibengbun.
+\xe You kids go and play over there, you're driving me crazy.
+\dm 14/Sep/2018
+
 \lx diw
 \pr kun-
 \ps n.
@@ -7795,6 +7806,18 @@ kurrulk.
 \pdn kk = -yirrolkan
 \dm 14/Sep/2018
 
+\lx kanem
+\pr kun-
+\ps n.
+\re ears
+\de Ears.
+\xv Yikanem!
+\xe Hey, you got ears? (listen to me!)
+\uv W
+\ur I,E= kanemno
+\pdn kk = kun-mardorrk
+\dm 02/Apr/2019
+
 \lx kang
 \ps adj.
 \re local
@@ -7868,6 +7891,31 @@ kurrulk.
 \so Nganjmirra, Nawakadj, ‘Kunwinjku Spirit’, Melbourne University Press, 1997, p. 208
 \dt 21/Mar/2019
 
+\lx kanjdji
+\ps loc. adv.
+\ps n.
+\sn 1
+\re down
+\re below
+\re lower down
+\de Down, below, lower down.
+\xv Wurdurd kanjdji, ngurrikengemen!
+\xe You boys look down (at the ground) and be fearful.
+\sn 2
+\re inside
+\de Inside.
+\xv Dulklorrkkelorrkken daluk, ngalkanemkuyeng, kururrk kayo. Kurrulk, kadjalyo bu kurrulk kawodjbakme yibengkan kayo kanjdjikanjdjibeh nomo kurrulk, kanjdjikanjdji kurrulk bu kayo. 
+\xe The dulklorrkkelorrkken female spirit being has long ears and she lives inside. She lives in the tree, such as a tree which has a broken trunk, you know, she sleeps inside the tree, not up in it, but inside the hollow log.
+\sn 3
+\re downstream
+\de Downstream, lowlands, area towards the coast or lower down in a drainage basin.
+\sy kanjdjikanjdji
+\sy kilhken
+\pdn kk = kilhken
+\sd geographic
+\dt 22/Mar/2007
+\dm 14/Sep/2018
+
 \lx kanjok
 \ps n.
 \re brother-in-law
@@ -7892,6 +7940,13 @@ kurrulk.
 \sd insect
 \dt 06/Jun/2011
 \dm 22/Apr/2019
+
+\lx karlba
+\ps n.
+\re yellow ochre
+\de Yellow or mustard-coloured ochre; also may be used to describe things similarly coloured (tan, orangey yellow, mustard colours).
+\dt 05/Jul/2006
+\dm 14/Sep/2018
 
 \lx karnamarr
 \ps n.
@@ -11169,6 +11224,7 @@ to 'ego'.
 \xe He's a good man.
 \pdn kk = kamarlang
 \dm 14/Sep/2018
+
 
 \lx makali
 \ps n.
@@ -15070,6 +15126,18 @@ ngalngamed' etc. is used.
 \so ‘Lesson 10’, Oenpelli Literature Production Centre 
 \nt DK: Etherington has njanyan - you're cute (said to infant). I heard it something like “Annjanj” in Gunbalanya I thought, but at any rate with an “a” sound. Probably need to change spelling in [xv]? Jill says we use all three variants, including annjanj. 
 \dm 28/Oct/2018
+
+\lx rdardda
+\va rdardah
+\va dardda
+\ps n.
+\re younger brother
+\de Younger brother of a man, younger sister of a woman; can be used as referential or vocative.
+\xv Baleh wam rdardah ngunehrangem?
+\xe Where's your little brother (parent to child)?
+\xv Baleh wam ngalu rdardah ngaldaluk?
+\xe Where'd your little sister go? (parent to child)
+\dt 24/Nov/2008
 
 \lx rlobme
 \va lobme
