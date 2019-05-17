@@ -149,9 +149,8 @@ into string.
 \ps n.
 \re fi:Melodorum_rupestre
 \de Rock country tree with an edible yellow fruit.
-\xv Namekke nadjinem manme kangun manbadbirri, yika kakolung kuwardde kakolung
-manbuyhbuyika kangun.
-\xe That black rock kangaroo eats Uvaria fruit, sometimes it comes down from the rocks and eats other kinds of food.
+\xv Namekke nadjinem manme kangun manbadbirri, yika kakolung kuwardde kakolung manbuyhbuyika kangun.
+\xe That black rock kangaroo eats Melodorum fruit, sometimes it comes down from the rocks and eats other kinds of food.
 \sc Melodorum rupestre
 \uv I, W
 \ur Djnj= anbadbirri
