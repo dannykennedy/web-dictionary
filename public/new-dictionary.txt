@@ -9380,8 +9380,8 @@ dry time has properly arrived. The seeds may be eaten raw.
 \re before
 \re in recent times
 \de Previously, before, in recent times.
-\xe Bu kerrngekenhni, nawu Shire birrinahnani store 
-\xv Previously the Shire was running the store
+\xv Bu kerrngekenhni, nawu Shire birrinahnani store 
+\xe Previously the Shire was running the store
 \so Adjumarllarl Aboriginal Corporation community newsletter, 2015
 \nt DK: Not entirely sure of the exact meaning here, but the word is everywhere… is it [sy] boyen ??
 \id DK
