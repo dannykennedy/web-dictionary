@@ -363,7 +363,7 @@ with open("index.html", 'a') as f:
             # break
 
         # Semantic tag for each entry
-        f.write('<article>')
+        f.write('<article id=\"' + entry["full-headword"] + '\">')
 
         # Headword/POS section
         f.write('<button class="collapsible">') # collapsible section

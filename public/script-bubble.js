@@ -1,39 +1,49 @@
+// See when someone navigates to a particular word, e.g. njamed.com/#mimih
+function hashHandler(event) {
+    const wordToOpen = event.newURL.split("#")[1];
+    console.log('The hash has changed to: ' + wordToOpen);
+    let btn = document.getElementById(wordToOpen).getElementsByClassName("collapsible")[0];
+    btn.click();    
+}
+window.addEventListener('hashchange', hashHandler, false);
+
+// Add "click to open"
 var coll = document.getElementsByClassName("collapsible");
 var i;
-
 for (i = 0; i < coll.length; i++) {
-    coll[i].addEventListener("click", function () {
-
-        this.classList.toggle("active");
-        var content = this.nextElementSibling;
-        
-        var pos = this.getElementsByClassName("ps")[0];
-        
-        var css = '.collapsible:hover {color: white;}';
-        var style = document.createElement('style');
-
-        if (content.style.display === "block") {
-            content.style.display = "none";
-            this.style.color = 'black';
-            pos.style.color = 'brown';
-            console.log("in the if block");
-            
-            let collapsibles = document.getElementsByClassName('collapsible');
-            for (var i=0;i<collapsibles.length; i++){
-                collapsibles[i].appendChild(style);
-            }
-            
-        } else {
-            content.style.display = "block";
-            this.style.color = 'white';
-            pos.style.color = 'white';
-            //Keep the card looking good
-            this.style.borderBottomLeftRadius = '0px';
-            this.style.borderBottomRightRadius = '0px';
-            console.log("in the else block");
-        }
-    });
+    coll[i].addEventListener("click", openCard);
 }
+
+function openCard() {
+
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+
+    var pos = this.getElementsByClassName("ps")[0];
+
+    var css = '.collapsible:hover {color: white;}';
+    var style = document.createElement('style');
+
+    if (content.style.display === "block") {
+        content.style.display = "none";
+        this.style.color = 'black';
+        pos.style.color = 'brown';
+
+        let collapsibles = document.getElementsByClassName('collapsible');
+        for (var i = 0; i < collapsibles.length; i++) {
+            collapsibles[i].appendChild(style);
+        }
+
+    } else {
+        content.style.display = "block";
+        this.style.color = 'white';
+        pos.style.color = 'white';
+        //Keep the card looking good
+        this.style.borderBottomLeftRadius = '0px';
+        this.style.borderBottomRightRadius = '0px';
+    }
+}
+
 
 function filterWords() {
 
@@ -103,16 +113,3 @@ window.onclick = function (event) {
 }
 
 document.getElementById("current-year").innerHTML = new Date().getFullYear();
-
-
-
-
-
-
-
-
-
-
-
-
-
