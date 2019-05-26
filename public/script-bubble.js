@@ -1,4 +1,30 @@
-// See when someone navigates to a particular word, e.g. njamed.com/#mimih
+// See when someone navigates to a particular word, e.g. njamed.com/#mimih, and open that card
+function processUrl(){
+    //Open card that we're navigating to.
+    if (window.location.hash){
+        const wordToOpen = window.location.hash.split("#")[1];
+        console.log(wordToOpen);
+        
+        let card = document.getElementById(wordToOpen);
+        
+        if (card){
+            //Need to pad the top, otherwise navbar will hide them
+            card.style.paddingTop = "100px";
+            card.classList.add("padded");
+            //Open the card
+            card.getElementsByClassName("collapsible")[0].click();
+        }
+    }
+}
+
+// Remove padding from hash elements
+window.onscroll = function(){
+    if (document.getElementsByClassName("padded")){
+        document.getElementsByClassName("padded")[0].style.paddingTop = "0px";
+    }
+}
+
+
 function hashHandler(event) {
     const wordToOpen = event.newURL.split("#")[1];
     console.log('The hash has changed to: ' + wordToOpen);
@@ -6,6 +32,7 @@ function hashHandler(event) {
     btn.click();    
 }
 window.addEventListener('hashchange', hashHandler, false);
+
 
 // Add "click to open"
 var coll = document.getElementsByClassName("collapsible");
