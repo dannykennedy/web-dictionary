@@ -368,7 +368,7 @@ with open("index.html", 'a') as f:
         # Headword/POS section
         f.write('<button class="collapsible">') # collapsible section
         f.write('<div class="header">')
-        f.write('<p class="headword"><span class="lx">')
+        f.write('<h2 class="headword"><span class="lx">')
 
         if 'full-headword' in entry:
             f.write(entry["full-headword"])
@@ -378,7 +378,7 @@ with open("index.html", 'a') as f:
         if 'ps' in entry:
             f.write(entry["ps"])
 
-        f.write('</span></p>')
+        f.write('</span></h2>')
 
         if 'va' in entry:
 
