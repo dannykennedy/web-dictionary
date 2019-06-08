@@ -1272,7 +1272,7 @@ same species). Black wallaroos <b>kabirrimurlbardme</b> 'they hop (of rock kanga
 \re <i>Petalostigma pubescens</i>
 \de Quinine tree.
 \ee sometimes used as a dye for weaving to impart a greyish-blue colour to pandanus fibre
-\sc Petelostigma pubescens
+\sc Petalostigma pubescens
 \uv I, W
 \ur Djnj, Kdj = anbedjdja, E= manbedjdja
 \sd plant
@@ -18989,7 +18989,7 @@ speaker.
 \xe When they [the yams from the ground oven] had cooled down they ate them, and took some of them home.
 \so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, p. 17
 \xv …yikahwi bu kabindiwon kunrayek, bu kabindimarnewokdi nahni nawu teacher nawu wurdyaw ngalnjilngwarre […]
-62 The teacher sometimes is harsh with those kids [my grandchildren]. When teachers tell them off, a child will become very unhappy. 
+\xe The teacher sometimes is harsh with those kids [my grandchildren]. When teachers tell them off, a child will become very unhappy. 
 \so Quoted in Etherington, Steve, ‘Learning to be Kunwinjku: Kunwinjku people discuss their pedagogy’, PhD Thesis, Charles Darwin University, 2006 
 \cf yika
 \nt DK: I’ve based the structure of this entry on [lx] yika above.
@@ -19148,7 +19148,7 @@ kuk.
 \re call
 \de Call, call someone something, call something a particular name etc. 
 \xv Manbu kunngabek kunkurrng ngarriyime kunmarrwardda.
-\xe in Mother-in-law language, we call hair 'kunmarrwardda'. 
+\xe In Mother-in-law language, we call hair 'kunmarrwardda'. 
 \so Jill Nganjmirra
 \sn 3
 \re do 
@@ -19199,8 +19199,8 @@ kuk.
 \xv Wanjh nawu wurdyaw yimeng mamamh baleh kanyimowon.
 \xe And the child said “Grandpa what are you doing with me?”
 \so Andrew Manakgu, Injalak Arts painting documentation
-\xe Ngabenmarneyime, “Yuwn bu kunih ngurriyimowon dja ngurriwernhmarnbun, bu ngaye yiman ngahyimowon. Kandibidna.”
-\xv I tell them, “Don’t do it that way, make it properly. Like I’m doing it. Watch what I’m doing with my hands.”
+\xv Ngabenmarneyime, “Yuwn bu kunih ngurriyimowon dja ngurriwernhmarnbun, bu ngaye yiman ngahyimowon. Kandibidna.”
+\xe I tell them, “Don’t do it that way, make it properly. Like I’m doing it. Watch what I’m doing with my hands.”
 \so Quoted in Etherington, Steve, ‘Learning to be Kunwinjku: Kunwinjku people discuss their pedagogy’, PhD Thesis, Charles Darwin University, 2006
 \xv Manbu… manbolh wam kore Pine Creek, wanjh borledmi Darwin way. Kunih yimowoni manbolh kerrngehkenh bu.
 \xe That road… went to Pine Creek then turned up towards Darwin. That’s where it used to go, that road.
@@ -19242,7 +19242,7 @@ kuk.
 \xv Ngarre ngayingkibomang.
 \xe Let's go, I'll get diesel straight away.
 \xv Bu korroko larrwa birrimarnbuni kore kundulk dja bolkkime kabirridadjke mankole kore manbu kayingkihrurrk manekke kodj kabirriname wanjh bakki kabirrikurrme kabirrikinje kabiwungme.
-\xv In the past people would make pipes from wood, but now they [often] cut bamboo, which is already hollow, attach a pipe bowl then put in tobacco and smoke it.
+\xe In the past people would make pipes from wood, but now they [often] cut bamboo, which is already hollow, attach a pipe bowl then put in tobacco and smoke it.
 \so Andrew Manakgu, Injalak Arts painting documentation
 \nt DK: Just adding a few bits and pieces. [de] Maybe too complex now… Steve has yingkih (part ofverb only) - already. Could the version with -h be a [va]? Andrew’s xv has this too. It’s an interesting construct we don’t really have in English. They do in Japanese actually, -te oku is a verb suffix which seems very similar…
 \id DK
@@ -19366,7 +19366,7 @@ kuk.
 \re lie
 \de To be lying down (of elongate objects).
 \xv Nawu nakurl ngarrinan koyekbeh kangolburlerran kawarnamkurrme, wanjh nakka kamre bu kundalk kakekurrme rowk, kore kurorre kayo.
-\xv We see late wet-season storms coming from the east, the clouds darken and make a dark horizontal bar on the horizon. It comes and knocks all the spear grass to the ground.
+\xe We see late wet-season storms coming from the east, the clouds darken and make a dark horizontal bar on the horizon. It comes and knocks all the spear grass to the ground.
 \so Jill Nganjmirra
 \sn 2
 \re be
@@ -19487,9 +19487,7 @@ kuk.
 \ps n.
 \re firefly
 \de Firefly.
-\xv Yoh birriwayini yukkuyukkuh, "Yukkuyukkuh kabirlihbirlikan, Yukkuyukkuh
-kabirlihbirlikan, karrulkbelbme, karrulkbelbme, karrulk-belbme." Nakamarrang
-wayihwayini.
+\xv Yoh birriwayini yukkuyukkuh, "Yukkuyukkuh kabirlihbirlikan, Yukkuyukkuh kabirlihbirlikan, karrulkbelbme, karrulkbelbme, karrulk-belbme." Nakamarrang wayihwayini.
 \xe Yes they sing about the firefly, "Fireflies, they carry light, fireflies they carry light, they attach themselves to trees, they attach themselves to trees, they attach themselves to trees." Nakamarrang used to sing that.
 \ee Common at the end of the wet season. Bangkerreng kabebme.
 \sd insect
