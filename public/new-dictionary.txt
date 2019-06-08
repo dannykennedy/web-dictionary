@@ -177,8 +177,8 @@ into string.
 \re mirror, glass
 \re swimming goggles
 \de Mirror, glass.
-\xe Baddumang ngarrikebnarren.
-\xv We are looking at our faces in the mirror.
+\xv Baddumang ngarrikebnarren.
+\xe We are looking at our faces in the mirror.
 \xv Warlirr kundung karrirung, kunekke kadberre karrirung, dja baddumang kabirrikarrme, baddumang kabirrikarrme kune kayime kakolhdebebme, kakolhdebebme, soon kabirrikarrme, glass, mirror, soon kabirrikarrme kadberre yiman muddikang rerri. Bokenh kabenekarrme, glass baddumang kukak kabirribebme.
 \xe When the sun is hot, when we get really hot, then they have pieces of glass and when plants start sending out new growth [just before rain comes] then they [spirit beings] have pieces of glass and they take us away in something like a motor vehicle. They are in pairs with their pieces of glass and they appear at night.
 \so Jimmy Bungurru (first language was Ndjébbana).
@@ -1269,7 +1269,7 @@ same species). Black wallaroos <b>kabirrimurlbardme</b> 'they hop (of rock kanga
 \pr man-
 \ps n.
 \re quinine tree
-\re <i>Petelostigma pubescens</i>
+\re <i>Petalostigma pubescens</i>
 \de Quinine tree.
 \ee sometimes used as a dye for weaving to impart a greyish-blue colour to pandanus fibre
 \sc Petelostigma pubescens
@@ -2677,7 +2677,7 @@ the Alligator Rivers region. 'Anbinik', the Kundedjnjenghmi/Kundjeyhmi version o
 \re learn
 \de Learn, become familiar with something eg. language, a skill.
 \xv Kandibukkan ba ngaborlbme.
-\xv You show me so I will learn it.
+\xe You show me so I will learn it.
 \sn 2
 \re get used to
 \de Get used to something or someone.
@@ -3126,7 +3126,8 @@ the Alligator Rivers region. 'Anbinik', the Kundedjnjenghmi/Kundjeyhmi version o
 \re dance
 \re dance style
 \de Dance, dance style.
-\xv Korroko bininj birrini kunred Kabbari / Nawu kunborrk birrikarmi birriborrkkeyi (Wildflower Band, Kabbari, 2009) \xe A long time ago people lived on this land Kabbari / They used to have special ceremonies, singing and dancing in that place (Wildflower Band, Kabbari, 2009)
+\xv Korroko bininj birrini kunred Kabbari / Nawu kunborrk birrikarmi birriborrkkeyi (Wildflower Band, Kabbari, 2009)
+\xe A long time ago people lived on this land Kabbari / They used to have special ceremonies, singing and dancing in that place (Wildflower Band, Kabbari, 2009)
 \dm 28/Oct/2018
 
 \lx borrkbun
@@ -4412,7 +4413,7 @@ kabirrimang kabirribiddadjkerren karlba kore kunbende kare kore kunbid.
 \re lock in
 \de Lock someone in, shut someone in.
 \xv Kumunun wanjh ngandidangbalhmi.
-\xv At night they used to lock us in.
+\xe At night they used to lock us in.
 \so Quoted in Etherington, Steve, ‘Learning to be Kunwinjku: Kunwinjku people discuss their pedagogy’, PhD Thesis, Charles Darwin University, 2006
 \nt DK: First [xv] from [lx] dang. I'm not sure about the intransitive version above, it seems to be always transitive to me?
 \dm 14/Sep/2018
@@ -7003,8 +7004,8 @@ dry time has properly arrived. The seeds may be eaten raw.
 \re laugh
 \re smile
 \de Laugh, smile.
-\xe Ngarridjekmeng ngarridoweng ngarribodmedadjmeng.
-\xv We laughed until it hurt and we doubled over.
+\xv Ngarridjekmeng ngarridoweng ngarribodmedadjmeng.
+\xe We laughed until it hurt and we doubled over.
 \xv Nakudji nakimukkenh borrkkeng wanjh karridjekmeng.
 \xe One fat man danced and we laughed (at him).
 \pdn kk = yedjekme
@@ -7782,10 +7783,10 @@ dry time has properly arrived. The seeds may be eaten raw.
 \re hitch
 \de Point, stick out one's thumb (when hitchhiking).
 \sy biddjuyme
-\xv Bininj nawu kare manbolh kahdi, bu kadjare kare kore kubolkkimuk wanjh muddika kadjuyime kare.
+\xv Bininj nawu kare manbolh kahdi, bu kadjare kare kore kubolkkimuk wanjh muddika kadjuyme kare.
 \xe When a man is on the road and wants to go into town, he sticks out his thumb and hitches.
 \so Jill Nganjmirra
-\xv Nakka djuyimeng muddika wam.
+\xv Nakka djuymeng muddika wam.
 \xe He hitched a lift, he's gone.
 \so Jill Nganjmirra
 \nt DK: Etherington has "djuyime" and "djuwime", the y/i sound does seem quite pronounced the way that Jill says it, but not sure of the conventions here. Etherington has biddjuwimeng - pointed to, djuwimeng - squeezed something, djuyimeng - pressed button. Says ‘ngadjuwime’ for pressing a button in his essay. [va] djuyime deleted, Jill changed her mind and says she would spell it djuyme.
@@ -8321,7 +8322,10 @@ dry time has properly arrived. The seeds may be eaten raw.
 
 \lx kanj
 \pr kun-
+\ps n.
 \re meat
+\re flesh
+\re muscle
 \de Meat, flesh, muscle.
 \xv Yiman bu nayahwurd, yika mobik, minj kawernhkanjdi nungka kadjalwohdjobke mandjawak kunwardde kunyahwurd kunkanj dja kamunkewe ba kare kakimukmen kabalemdangen.
 \xe If the [kangaroos] are young or skinny, without much flesh on them, he [Nakidjkidj] will just cut a little bit of meat off them with his stone knife and let them go again, so they can get big and fat.    
@@ -8330,7 +8334,6 @@ dry time has properly arrived. The seeds may be eaten raw.
 
 \lx kanjdji
 \ps loc. adv.
-\ps n.
 \sn 1
 \re down
 \re below
@@ -10971,8 +10974,9 @@ birrikilelh namekke.
 
 \lx Kunbarlanja
 \ps place n.
+\ng Oenpelli itself is a corruption of the original Erre name for the area, ‘Uwunbarlany’, which the Kunwinjku word derives from. It has often been spelled 'Kunbarllanjnja' based on a different orthography, however there is no need for these extra continuant consonants as the single consonant has scope over both syllables. 
 \re Gunbalanya
-\de Kunwinjku name for Gunbalanya, formerly known as Oenpelli. Oenpelli itself is a corruption of the original Erre name for the area, ‘Uwunbarlany’, which the Kunwinjku word derives from. It has often been spelled 'Kunbarllanjnja' based on a different orthography, however there is no need for these extra continuant consonants as the single consonant has scope over both syllables. 
+\de Kunwinjku name for Gunbalanya, formerly known as Oenpelli. 
 \xv Mengerrdji birrihni kunred Kunbarlanja.
 \xe Mengerrdji people used to be at Oenpelli.
 \sd placename
