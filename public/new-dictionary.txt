@@ -760,8 +760,7 @@ which has grown during the wet season)
 \ps v.t.
 \re fill 
 \de Fill up a container to capacity.
-\xv Benebokenh kohbakohbanj benewam benehmangi mandem. Benemey benebarlkeng, ngalkudji
-yimeng, "yimray ngarrdokme ngabarlkeng ngayembu".
+\xv Benebokenh kohbakohbanj benewam benehmangi mandem. Benemey benebarlkeng, ngalkudji yimeng, "yimray ngarrdokme ngabarlkeng ngayembu".
 \xe Two old women were gathering waterlily roots. They filled up their bags, and one of them said "Come here, let's go, mine is full already". 
 \so Manakgu, Andrew ‘Kuhni bu Kunkare Birrihwarlbuni’, Oenpelli Literature Production Centre, 1974
 \dt 21/Oct/2007
@@ -2486,6 +2485,7 @@ the Alligator Rivers region. 'Anbinik', the Kundedjnjenghmi/Kundjeyhmi version o
 \dm 28/Oct/2018
 
 \lx -bo-
+\ps n. (incorporated)
 \ng incorporable
 \re water
 \de Water or other liquids. Incorporated form of the word water, which appears when it forms part of other words.
@@ -8710,7 +8710,7 @@ dry time has properly arrived. The seeds may be eaten raw.
 \re custom
 \re manner
 \de Custom, manner.
-\sc Kunibidji minj kabindiberddadjdje, mankarre bedberre.
+\xv Kunibidji minj kabindiberddadjdje, mankarre bedberre.
 \xe The Kunibidji do not practice circumcision. It is their custom.
 \sn 2
 \re culture
@@ -9806,8 +9806,11 @@ birrikilelh namekke.
 \lx kodjke
 \pr kun-
 \ps n.
-\de Days (lit: sleeps), effectively this word means a 24 hour period.
 \ng Underlyingly <b>-kodjke</b> which through assimilation becomes <b>-kodjdje</b> and then deletion sometimes to <b>-kodje</b>
+\re day
+\re 24 hour period
+\re sleep
+\de Days (lit: sleeps), effectively this word means a 24 hour period.
 \xv Kunkodjke bokenh ngarriyoy kumekke.
 \xe We stayed/slept there for three days.
 \uv W
