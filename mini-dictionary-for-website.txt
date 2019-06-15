@@ -13692,7 +13692,7 @@ kahdi.
 \re group of women
 \de Group of women, women, middle-aged women
 \xv “Bu morlehmorlenj kabirriwurlebme kumekke kunred, wanjh kabirrimerlemmen, kabirriyawmang bokenh wurdyaw.” Lumaluma bimarneyimeng.
-\xv “If women swim at that place, they will become pregnant, they will give birth to twins”, said Lumaluma. 
+\xe “If women swim at that place, they will become pregnant, they will give birth to twins”, said Lumaluma. 
 \so Nganjmirra, Nawakadj, ‘Kunwinjku Spirit’, Melbourne University Press, 1997
 \pdn kk = kardukardu
 \nt Steve, Andrew and Jill all spell this with retroflexes.
@@ -14239,7 +14239,7 @@ causes lightning by throwing the axes with great force).
 \xe He's painted the crocodile and fish in Kunwinjku 'xray' style, he's painted in the stomach as well. 
 \so Andrew Manakgu, Injalak Arts painting documentation 
 \xv Bu korroko larrwa birrimarnbuni kore kundulk dja bolkkime kabirridadjke mankole kore manbu kayingkihrurrk manekke kodj kabirriname wanjh bakki kabirrikurrme kabirrikinje kabiwungme.
-\xv In the past people would make pipes from wood, but now they cut bamboo, which is already hollow, put in a pipe bowl then add tobacco and smoke it.
+\xe In the past people would make pipes from wood, but now they cut bamboo, which is already hollow, put in a pipe bowl then add tobacco and smoke it.
 \so Andrew Manakgu, Injalak Arts painting documentation
 \xv Karrimang mankole wanjh karridadname nawu dad djalakkiradj.
 \xe We get a spear shaft and attach prongs to it to make a fishing spear. 
@@ -14781,8 +14781,8 @@ bindilambarrkurrmeng rowk manu nadjalwern.” (Kunwinjku Spirit).
 \ps interrog.
 \re who, which
 \de Who/which.
-\xe Ngudda yingale yingeyyo?
-\xv What is your name?
+\xv Ngudda yingale yingeyyo?
+\xe What is your name?
 \xv Manngale ngurrimwam?
 \xe Which truck did you come in?
 \xv Kunngale birrulubom?
@@ -14813,7 +14813,7 @@ bindilambarrkurrmeng rowk manu nadjalwern.” (Kunwinjku Spirit).
 \re she/her
 \de She/her.
 \xv Ngaleng benyawmey birriwern birrikukbubuyika bininj dja mayh.
-\xv She [Yingarna] gave birth to lots of different people and animals. 
+\xe She [Yingarna] gave birth to lots of different people and animals. 
 \so Nganjmirra, Nawakadj, ‘Kunwinjku Spirit’, Melbourne University Press, 1997
 \id DK
 \dt 24/Feb/2017
@@ -14967,7 +14967,7 @@ Also <b>yawkyawk</b>.
 \xe So after four or five years we came back, and he got sick [started to become sick]. In fact he was dying.
 \so Quoted in Etherington, Steve, ‘Learning to be Kunwinjku: Kunwinjku people discuss their pedagogy’, PhD Thesis, Charles Darwin University, 2006 
 \xv Yiburrbun, minj yingudjwarremen, yiyime “O ngawunjibmeng nuye! Because yeledj nakka kahre.” … Minj yimarnewunjibngalme.
-\xv You know, you can’t just get tired of it and say, “Oh I’ll just give up on [teaching] him. He’s going too slow.”… Don’t start to give up on him.
+\xe You know, you can’t just get tired of it and say, “Oh I’ll just give up on [teaching] him. He’s going too slow.”… Don’t start to give up on him.
 \so Quoted in Etherington, Steve, ‘Learning to be Kunwinjku: Kunwinjku people discuss their pedagogy’, PhD Thesis, Charles Darwin University, 2006 
 \nt DK: I’ve kind of inferred this meaning from context, Steve Etherington’s translations were just “got sick” and “don’t give up on him”. Etherington dictionary also has “got sick - dulkingarlmey” and “ashamed - yemingarlmeng”, I assume this is “become ashamed”
 \id DK
@@ -15041,7 +15041,7 @@ Also <b>yawkyawk</b>.
 \re whatshername
 \de Whatsisname, whatshername, what's that place. For men 'nangamed' is used, for women 'ngalngamed', and for places the plain form 'ngamed' is used. For things and animals, 'njamed' is used.
 \xv Ngalwakadj bidjawam Ngalbulanj, yimeng “Baleh ngudda yire”, wanjh Ngalbulanj yimeng “Kuhri ngamed kunred ngare Wulk”.
-\nt Ngalwakadj asked Ngalbulanj "Where are you going?", and Ngalbulanj said "I'm going to that place over there, what's it called, Wulk".
+\xe Ngalwakadj asked Ngalbulanj "Where are you going?", and Ngalbulanj said "I'm going to that place over there, what's it called, Wulk".
 \so Jill Nganjmirra
 \cf njamed
 \nt DK: Jill says ngamed is for people and places, njamed is for things and animals. "Ngamed ngarrire. Ngarribolkngeyyawan." 
@@ -15536,8 +15536,8 @@ Also <b>yawkyawk</b>.
 \re deformed
 \re crippled
 \de Deformed, crippled by injury
-\xv bid-ngoreng
-\xe deformed finger (this is actually somebody's nickname)
+\xv Bidngoreng.
+\xe Deformed finger (this is actually somebody's nickname).
 \xv Bu kunkare duninjh dabborrabbolk bu kunyid birridurreni… bindiyami birringorengrey yika djal bulkkidj birridoweni.
 \xe A long time ago the old people would fight when they got angry… they would spear each other, and go around injured or even actually die.
 \so Andrew Manakgu, Injalak Arts painting documentation
