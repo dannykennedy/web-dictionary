@@ -419,6 +419,7 @@ roast [the meat]. It was the elder brother [who did this].
 
 \lx balanda
 \pr kun-
+\ps n.
 \re English (language)
 \de English language, non-Indigenous lifestyle or way of doing things. 
 \ng The prefix <b>kun-</b> is optional.
@@ -580,6 +581,7 @@ roast [the meat]. It was the elder brother [who did this].
 
 \lx bang
 \pr kun-
+\ps n.
 \re alcohol
 \re grog
 \de Alcohol, grog. 
@@ -704,7 +706,6 @@ which has grown during the wet season)
 \pr kun-
 \ps n.
 \ng The nominal <b>barlah</b> is incorporable
-\ps n.
 \re slide track
 \de Slide track of crawling animals, mostly reptiles, especially crocodiles and goannas.
 \xv Nahni kunbarlah nuye kumuken. Kanmadbu dja ngadjuhme nganan.
@@ -813,6 +814,7 @@ which has grown during the wet season)
 
 \lx barndad
 \pr kun-
+\ps n.
 \re femur
 \re thigh
 \re upper leg
@@ -2933,8 +2935,8 @@ the Alligator Rivers region. 'Anbinik', the Kundedjnjenghmi/Kundjeyhmi version o
 \xe A: Do you want me to take it for you? B: No, it's OK, I'll take it.
 \xv Kabenengeyboken, bonj kangeyboken.
 \xe They've got two names, just two names.
-\xe "Yuwn yikan mankukyahwurd makka" "Bonj warribo ngadjalkan ngakinje ngangun. Bonj bu mankukyahwurd"
-\xv "Don't take that yam, it's too small". "Whatever, I'll take it anyway and cook it up and eat it. Doesn't matter if it's small". 
+\xv "Yuwn yikan mankukyahwurd makka" "Bonj warribo ngadjalkan ngakinje ngangun. Bonj bu mankukyahwurd"
+\xe "Don't take that yam, it's too small". "Whatever, I'll take it anyway and cook it up and eat it. Doesn't matter if it's small". 
 \so Jill Nganjmirra
 \sn 4
 \re finally
@@ -3710,10 +3712,9 @@ matri-moiety. Equivalent to <b>kela</b> in the eastern system.
 \de Ring on the telephone.
 \xv Kaluk kukak kabirribun delebon birriyimeng.
 \xe They said they would ring up by phone tonight.
-\cf burren
-\ce fight
-\xv Kabirriburren.
-\xe They are fighting.
+\se burren
+\re fight
+\de Fight, fight each other.
 \pdn kk= bonghme
 \dt 13/Oct/2003
 \dm 10/Mar/2019
@@ -5827,8 +5828,7 @@ re Erythrophleum chlorostachys
 \re stick
 \re wood
 \de Tree (generic), stick, log, wood.
-\xv Djebuyh ngarrinan kore kundulk kabarndi dja karedmarnbun kaddum
-kurrulk.
+\xv Djebuyh ngarrinan kore kundulk kabarndi dja karedmarnbun kaddum kurrulk.
 \xe We see possums sitting up in trees, and making their nests high up in trees.
 \so Andrew Manakgu, Injalak Arts painting documentation.  
 \sn 2
@@ -12636,7 +12636,7 @@ Namanjmiken kakanjkinje mankudji kunkanj bulikki bu wolewoleh kore Kunbalanja. I
 \so Andrew Manakgu, Injalak Arts painting documentation 
 \sc Terminalia ferdinandiana
 \uv W
-\ur I= mandjiribidj, Djnj= anmarlak
+\ur I= mandjiribidj, Kdj,Djnj= anmarlak
 \nt Steve Etherington and Andrew Manakgu use manmorlak, that’s what I [DK] remember hearing in Gunbalanya as well. 
 \sd plant
 \id DK
@@ -16330,8 +16330,7 @@ kore kunbalandakenh.
 \ps n.
 \re water
 \de Water.
-\xv Nahni daluk boken benemdolkang kakbi, benemrey kunronj
-beneboyawani.
+\xv Nahni daluk boken benemdolkang kakbi, benemrey kunronj beneboyawani.
 \xe Those two women came from the north, they came looking for water.
 \so Peter Carroll AIATSIS collection
 \uv I,E
@@ -18238,8 +18237,7 @@ nguddangke kunred yiworhnan.
 \re late dry season
 \de Season name, latter part of the dry season, hot weather, fires abound.
 \xv Wurrkengko manburluddak kakobun, mankung karringun, kawurluwurlhme.
-\xe In <b>Wurrkeng</b> season the Stringybark trees flower, we get honey and it's the time when all the
-bushfires burn.
+\xe In <b>Wurrkeng</b> season the Stringybark trees flower, we get honey and it's the time when all the bushfires burn.
 \sd season
 \sd weather
 \dt 13/Oct/2003
