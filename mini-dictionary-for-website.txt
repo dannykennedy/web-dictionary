@@ -17665,7 +17665,7 @@ matri-moiety. Equivalent to <b>ngarridj</b> in the eastern system.
 \xv Ngalkudji daluk warribowam kore kubolkdjamun. 
 \xe A woman accidentally went into the sacred area.
 \so Jill Nganjmirra
-\xe Mungu benwarribowong.
+\xv Mungu benwarribowong.
 \xe He gave it away without realising what he was doing, it wasn't really his fault [e.g. a child giving away something that doesn't belong to them].
 \so Jill Nganjmirra
 \sn 2
@@ -19558,10 +19558,10 @@ speaker.
 \lx yid
 \pr kun-
 \ps n.
+\sn 1
 \re trouble
 \re argument
 \re fight
-\sn 1
 \de Trouble, argument, fight.
 \xv Ngawong. Wardi kunyid marnbuyinj.
 \xe I gave it to him. Otherwise it would have caused an argument. 
