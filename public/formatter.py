@@ -9,6 +9,7 @@ if len(sys.argv) < 2:
     sys.exit(1)
 
 myfile = sys.argv[1]
+mynewfile = "dictionary-file-with-html-tags.txt"
 
 
 # Preprocess fi: and fv:
@@ -38,11 +39,9 @@ with open(myfile,'r') as f:
         line = ' '.join(newwords)
         preprocesslines.append(line)
     f.close()
-with open(myfile,'w') as f:
+with open(mynewfile,'w') as f:
     for line in preprocesslines:
         f.write(line)
-
-
 
 
 lines = []
@@ -68,7 +67,7 @@ headword = ""
 prefix = ""
 hasPrefix = "false"
 
-with open(myfile,'r') as f:
+with open(mynewfile,'r') as f:
 
 
     # GO THROUGH FILE ONE LINE AT A TIME
@@ -324,7 +323,7 @@ with open(myfile,'r') as f:
 
 
 # ADD CSS HEADER TO FILE
-with open("web-header-bubble.html") as f:
+with open("header.html") as f:
     with open("index.html", "w") as f1:
         for line in f:
             f1.write(line)
@@ -364,12 +363,12 @@ with open("index.html", 'a') as f:
             # break
 
         # Semantic tag for each entry
-        f.write('<article>')
+        f.write('<article id=\"' + entry["full-headword"] + '\">')
 
         # Headword/POS section
         f.write('<button class="collapsible">') # collapsible section
         f.write('<div class="header">')
-        f.write('<p class="headword"><span class="lx">')
+        f.write('<h2 class="headword"><span class="lx">')
 
         if 'full-headword' in entry:
             f.write(entry["full-headword"])
@@ -379,7 +378,7 @@ with open("index.html", 'a') as f:
         if 'ps' in entry:
             f.write(entry["ps"])
 
-        f.write('</span></p>')
+        f.write('</span></h2>')
 
         if 'va' in entry:
 
@@ -542,10 +541,9 @@ with open("index.html", 'a') as f:
         f.write('</article>')
     f.write('</div>') #end of wrapper
 
-    f.write('<script src="script-bubble.js"></script>')
+    # Add JS script tags
+    f.write('<script src="script.js"></script>')
     f.write('<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5c9d1639e157f497"></script>')
-    # f.write('</body>')
-    # f.write('</html>')
 
 
     f.close()
@@ -557,6 +555,8 @@ with open("doorbell-io.js") as f:
         for line in f:
             f1.write(line)
         f1.write('</script>')
+        
+        # Close off HTML
         f1.write('</body>')
         f1.write('</html>')
     f1.close()
