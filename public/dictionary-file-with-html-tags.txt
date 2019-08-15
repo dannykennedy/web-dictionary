@@ -1293,6 +1293,8 @@ same species). Black wallaroos <b>kabirrimurlbardme</b> 'they hop (of rock kanga
 
 \lx bawurl
 \ps n.
+\re chicken
+\re fowl
 \de Chicken, fowl.
 \xv Nanikud ngarrikarrmi and bawurl ngarrikarrmi nawern.
 \xe We had goats, and lots of chickens too.
@@ -2431,12 +2433,9 @@ or exclusively and 'in contrast'.
 \re eel-tailed catfish sp.
 \re <i>Neosilurus spp</i>.
 \de Eel-tailed Catfishes (black ones only).
-\sc Neosilurus spp., egs. Neosilurus ater, Neosilurus argenteus, Neosilurus hyrtlii, |fs{but also} Cinetodus froggatti, Anodontiglanis
-dahli.
+\sc Neosilurus spp., egs. Neosilurus ater, Neosilurus argenteus, Neosilurus hyrtlii, but also Cinetodus froggatti, Anodontiglanis dahli.
 \xv Kondah djenj karrurndeng, kamre konda konda kamre kondah karrurndeng, minj kabidbun kurih, <i>only</i> dunbuhmanj kabidbun en ngardderrhwo modjarrkki kabidbun kaddum bad konda djenj karrurndeng namarnkol barrhmanj, njarlkan, karlerrh, bikkurr karrurndeng konda kumekke djal bonj karrurndeng. 
-\xe This is where the fish go back - they come up to here and then go back. They can't climb up [the bar of boulders at the waterfall], only
-sooty grunter can, short neck turtles, fresh water crocodiles can climb up to the higher area but here the fish go back: barramundi,
-saratoga, archer fish, long toms, black eel-tailed catfishes, there's nothing they can do, they just go back.
+\xe This is where the fish go back - they come up to here and then go back. They can't climb up [the bar of boulders at the waterfall], only sooty grunter can, short neck turtles, fresh water crocodiles can climb up to the higher area but here the fish go back: barramundi, saratoga, archer fish, long toms, black eel-tailed catfishes, there's nothing they can do, they just go back.
 \uv Djnj, I
 \ur W= makurl, namardaka, Kdj= binjdjarrang, ganbaldjdja
 \ee Some speakers say that big black ones are <b>bikkurr</b> and are <i>yirridjdja</i> moiety. The smaller white ones are called <b>marrngunj</b> and are <i>duwa</i> moiety.
@@ -19713,6 +19712,7 @@ nguddangke kunred yiworhnan.
 \lx wokmang
 \ps v.t.
 \sn 1
+\re record
 \de Record, normally with an audio recording device.
 \xv Karriwayini, karriwokmarren.
 \xe Let's record ourselves singing.
@@ -19721,6 +19721,7 @@ nguddangke kunred yiworhnan.
 \xv Kanyawwokmang.
 \xe That little (microphone) records us.
 \sn 2
+\re answer
 \de answer
 \xv Marrek ngunwokmang, ngunmarnewokyak nawuka.
 \xe He can't answer you, he's gotta 'shut up' for you, your bunji [brother-in-law].
