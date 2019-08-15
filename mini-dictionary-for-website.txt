@@ -9691,6 +9691,7 @@ dry time has properly arrived. The seeds may be eaten raw.
 \xe Nawakadj and Nabulanj went spearing fish with a canoe. Nawakadj did the spearing, and Nabulanj paddled the canoe for him.
 \so Mangiru, Hannah, ‘Nawakadj Dja Nabulanj Benewam Djenj’, Oenpelli Literature Production Centre [no date recorded]. 
 \sn 2
+\re swim with fins or fish tail
 \de Swim by means of fins or a fish tail.
 \nt Andrew, LAAL texts, Carroll, Kunwinjku Spirit all have ‘karrikme’ with a ‘k’. Andrew has ‘Bininj nawu ngad birrikukburlerri bindinang birrimkarrikmeng manyahwurd dingki’ [saw the Macassans rowing towards them]. 
 \id DK
@@ -11715,7 +11716,7 @@ birrikilelh namekke.
 \xv Kunred kunkuken Mankodbekayo.
 \xe Mankodbekayo is an important place.
 \xv Nawu Namarnkol djenj nakka wanjh nadjalkuken djenj ngadberre nawu ngarrikukburlerri dja birrikukbele.
-\xv Namarnkol, the barramundi, is a very important fish for us Bininj (Aboriginal people), and for non-Aboriginal people as well. 
+\xe Namarnkol, the barramundi, is a very important fish for us Bininj (Aboriginal people), and for non-Aboriginal people as well. 
 \so Andrew Manakgu, Injalak Arts painting documentation
 \xv Karrire kukare kabolkkuken.
 \xe Let's go to the same place again, to that place we always go to.
@@ -16534,6 +16535,16 @@ Also <b>yawkyawk</b>.
 \dt 06/Dec/2016
 \dm 14/Sep/2018
 
+\lx ngalmudj
+\ps n.
+\re rainbow serpent
+\de Rainbow serpent.
+\sy ngalyod, bolung
+\uv E
+\ur W, I= ngalyod, Kdj= almudj
+\sd mythology
+\dm 14/Sep/2018
+
 \lx ngalng
 \ps n.
 \re yabby
@@ -16952,8 +16963,8 @@ kunj karndakidj la karndakarndayh. Ngarridj yibengkan? Kakodbebuldi kahdi. Nakka
 \ps v.i.
 \re be named
 \de Name is there [e.g. on a list], be named, be there [of words].
-\xv Bininj nawu kabirringeydi kore Board of Directors
-\xe People who are on the Board of Directors 
+\xv Bininj nawu kabirringeydi kore Board of Directors.
+\xe People who are on the Board of Directors.
 \so Adjumarllarl Aboriginal Corporation community newsletter, 2015
 \xv Kunwinjku minj kangeydi kuhri, like ngawam Yirrkala, course kumekke nganewam […] yire kore wall yinan classroom and flashcard kangeydi djal bininj - yoh, bininj kunwok, kanjdji balanda.
 \xe There’s no Kunwinjku words on display [in the classroom here]. Now, I went to Yirrkala, we went to a course […] and if you go and look on the walls in the classroom, there are flashcards with Aboriginal language words. They have the Aboriginal language with English underneath.
@@ -19411,8 +19422,7 @@ matri-moiety. Equivalent to <b>ngarridj</b> in the eastern system.
 \id DK
 \dt 05/Jun/2019
 
-\lx winjku
-\pr Kun-
+\lx Kunwinjku
 \ps n.
 \re language name
 \re fi:Kunwinjku
