@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{B192A319-7E3A-4472-8B29-44F67AD0D214}'];loadHandler&&loadHandler(2, '<div id="spr0_10e1f48"><div id="spr1_10e1f48" class="kern slide"><img id="img2_10e1f48" src="data/img12.jpg" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_10e1f48" class="kern slide"><div id="spr3_10e1f48" style="left:130.862px;"><img id="img0_10e1f48" src="data/img14.jpg" width="1017.75" height="720" alt="A screenshot of a cell phone\
+\
+Description automatically generated" style="left:0.197px;"/></div><div id="spr4_10e1f48" style="left:155.52px;"><a id="hl0_10e1f48" href="#"><img id="img1_10e1f48" src="data/img15.png" width="954" height="232.5" alt="" style="left:0.09px;top:-0.067px;"/></a></div></div></div>');})();
