@@ -59,6 +59,8 @@
 
 \lx Adjumarlarl
 \ps n.
+\re male ancestral dog being
+\re Adjumarlarl
 \de Name of a male ancestral dog being, who travelled with the female Ancestral dog Omwarl through the area around Gunbalanya. The name is from the Mengerr language but Kunwinjku speaking residents of Gunbalanya are familiar with the story of these two dogs. The name has been also spelt Adjumarllarl but there is no linguistic basis for a rl+l sequence in either pronunciation or syllable structure. However, the Adjumarllarl spelling is now largely an accepted convention.
 \xv Bu korroko duruk bokenh Adjumarlarl dja Omwarl benemwam karrikadbeh kukku benehboyawani.
 \xe The two Ancestral Dogs Adjumarlarl and Omwarl came [to the Gunbalanya area] from the west, looking for water.
@@ -100,7 +102,8 @@ into string.
 \so Andrew Manakgu, Injalak Arts painting documentation
 \sn 2
 \re place name in Birrirddak Creek region
-\de Hill on the western side of the entrance to Birraduk [Birrirddak] Creek valley, directly south of the Gunbalanya-Nabarlek road. This site has the same name as the hill at Gunbalanya and is therefore sometimes called ‘Arrkuluk number two’. \sd placename \dt 13/Jun/2015
+\de Hill on the western side of the entrance to Birraduk [Birrirddak] Creek valley, directly south of the Gunbalanya-Nabarlek road. This site has the same name as the hill at Gunbalanya and is therefore sometimes called ‘Arrkuluk number two’.
+\sd placename \dt 13/Jun/2015
 \dm 05/Jun/2019
 
 \lx awurd
@@ -20460,6 +20463,9 @@ chain. Kunwinjku speakers refer to their variety by this label fv:Kunwinjku. Kun
 \xv Nawu dabborrabbolk birrimirndemonamerrinj wanjh bindidjawani nawu yawuhyawurrinj bu kunwirle nuyeni nawu nayawurrinj doweng. 
 \xe The old people gathered together and asked the young men about the movements of the young man who had died [where he had been prior to his death]. 
 \so Jill Nganjmirra
+\xv Kudjewk kadjalwohre, kaluk minj kawirlengurdme, ngalwohwern [...].
+\xv In the wet season they (emus) keep wandering, they never tire of walking around, stopping off here and there all the time.
+\so Jimmy Kalarriya, quoted in Murray Garde (ed.), Something about emus : Indigenous knowledge of emus from western Arnhem Land, Canberra, A.C.T. Aboriginal Studies Press, 2017, p. 15
 \se wirlewohwern
 \re wandering around everywhere
 \de Wandering around everywhere. 
@@ -20470,9 +20476,6 @@ chain. Kunwinjku speakers refer to their variety by this label fv:Kunwinjku. Kun
 \se wirlengurdme
 \re stop wandering, settle down in one place
 \de Stop wandering around, settle down in one place.
-\xv Kudjewk kadjalwohre, kaluk minj kawirlengurdme, ngalwohwern [...].
-\xv In the wet season they (emus) keep wandering, they never tire of walking around, stopping off here and there all the time.
-\so Jimmy Kalarriya, quoted in Murray Garde (ed.), Something about emus : Indigenous knowledge of emus from western Arnhem Land, Canberra, A.C.T. Aboriginal Studies Press, 2017, p. 15
 \nt DK: 'Something about emus' has "wirlewohwern ‘to wander around everywhere’, wirle ‘wander’". Jill says "the old people gather together and ask the other young boys where that other young boy went". She says they already found his body, they are just asking where he had been. This dictionary also has [lx] wohwirlire "walk around", Jill would also say "wirlewohre". 
 \id DK
 \id JNg
@@ -20903,6 +20906,7 @@ nguddangke kunred yiworhnan.
 \sn 1
 \re blow (of wind)
 \re gust
+\de Gust, blow. 
 \xv Bu kabirriwurlhke kunak karralkrung rowk wanjh mandjong bu karung darnkih kakebdowen wanjh kunmayorrk kaworlhme wanjh kamarnbun kayawoyhwurlhme. 
 \xe When people start fires and all the grass burns, there are smouldering logs left behind, and when the wind blows them it makes them burst into flame again. 
 \so Jill Nganjmirra
