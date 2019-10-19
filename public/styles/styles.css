@@ -110,13 +110,17 @@ audio:focus {
     outline: none;
 }
 .audio-button {
-    border: 1px solid #bbb;
     background-color: var(--secondary-app-color);
     font-family: inherit;
     font-size: inherit;
-    padding: 5px;
-    border-radius: 5px;
+    border-radius: 50%;
     font-family: var(--app-sans), sans-serif;
+    width: 40px;
+    height: 40px;
+    display: grid;
+    justify-content: center;
+    justify-items: center;
+    padding-left: 10px;
 }
 .subentry-text {
     margin-left: 1.2em;
