@@ -119,6 +119,8 @@ audio:focus {
     display: grid;
     justify-content: center;
     justify-items: center;
+    align-items: center;
+    align-content: center;
     padding-left: 10px;
 }
 .subentry-text {

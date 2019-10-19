@@ -37,7 +37,10 @@ function processUrl() {
 // Remove padding from hash elements
 window.onscroll = function() {
     if (document.getElementsByClassName("padded")) {
-        document.getElementsByClassName("padded")[0].style.paddingTop = "0px";
+        if (document.getElementsByClassName("padded")[0]) {
+            document.getElementsByClassName("padded")[0].style.paddingTop =
+                "0px";
+        }
     }
 };
 
