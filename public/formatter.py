@@ -548,9 +548,15 @@ with open("index.html", 'a') as f:
                 print(media_counter)
                 f.write('<div>')
                 f.write('<button class="audio-button"')
-                f.write('data-src="./media/audio/' + entry["full-headword"] + '.mp3">')
-                f.write('<img src="images/play.png" width="20px"')
-                f.write('data-src="./media/audio/' + entry["full-headword"] + '.mp3"')
+                f.write('data-src="./media/audio/' + entry["full-headword"] + '.mp3" ')
+                if is_verb:
+                    f.write('data-label="')
+                    f.write('Audio: ka')
+                    f.write(entry["full-headword"])
+                    f.write(' (present tense)"')
+                else:
+                    f.write('data-label="audio"')
+                f.write('><img src="images/play.png" width="20px"')
                 f.write(' height="auto"></button>')
                 f.write('</div>')
 
