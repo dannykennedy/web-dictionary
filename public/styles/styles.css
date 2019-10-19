@@ -104,7 +104,6 @@ figcaption {
 }
 audio {
     margin-top: 10px;
-    display: none;
 }
 audio:focus {
     outline: none;

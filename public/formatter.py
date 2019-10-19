@@ -546,26 +546,31 @@ with open("index.html", 'a') as f:
             if os.path.exists('media/audio/' + entry["full-headword"] + '.mp3'):
                 media_counter = media_counter + 1
                 print(media_counter)
-                f.write('<div><figure>')
-                f.write('<figcaption><span class="se-info">Audio')
-                if is_verb:
-                    f.write(': ka')
-                    f.write(entry["full-headword"])
-                    f.write(' (present tense)')
-                f.write(' </span></figcaption>')
-                f.write('''
-                            <audio
-                                controls autoplay
-                        ''')
+                f.write('<div>')
+                f.write('<button class="audio-button"')
                 f.write('data-src="./media/audio/' + entry["full-headword"] + '.mp3">')
-                f.write('''
-                Your browser does not support the
-                                    <code>audio</code> element.
-                            </audio>
-                        </figure>
-                        <button class="audio-button"><img src="images/play.png" width="20px" height="auto"></button>
-                    </div>
-                ''')
+                f.write('<img src="images/play.png" width="20px"')
+                f.write('data-src="./media/audio/' + entry["full-headword"] + '.mp3"')
+                f.write(' height="auto"></button>')
+                f.write('</div>')
+
+                # < figure > ')
+                # f.write('<figcaption><span class="se-info">Audio')
+                # if is_verb:
+                #     f.write(': ka')
+                #     f.write(entry["full-headword"])
+                #     f.write(' (present tense)')
+                # f.write(' </span></figcaption>')
+                # f.write('''
+                #                             <audio
+                #                                 controls autoplay
+                #                         ''')
+                # f.write('data-src="./media/audio/' + entry["full-headword"] + '.mp3">')
+                # f.write('''
+                #                 Your browser does not support the
+                #                                     <code>audio</code> element.
+                #                             </audio>
+                #                         </figure>
 
 
 

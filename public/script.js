@@ -6,11 +6,30 @@ function getAudio() {
     this.style.display = "none";
 }
 
+function fetchAudio() {
+    var parser = new DOMParser();
+    var domString = `
+                    <figure>
+                        <figcaption><span class="se-info">Audio</span></figcaption>
+                        <audio controls autoplay">
+                            Your browser does not support the
+                            <code>audio</code> element.
+                        </audio>
+                    </figure>`;
+    var html = parser.parseFromString(domString, "text/html");
+    var audioElem = html.getElementsByTagName("audio")[0];
+    var source = this.getAttribute("data-src");
+    audioElem.setAttribute("src", source);
+    this.parentElement.appendChild(html.body.firstChild);
+    this.style.display = "none";
+    audioElem.play();
+}
+
 // Add "click to open"
 var coll = document.getElementsByClassName("audio-button");
 var i;
 for (i = 0; i < coll.length; i++) {
-    coll[i].addEventListener("click", getAudio);
+    coll[i].addEventListener("click", fetchAudio);
 }
 
 // See when someone navigates to a particular word, e.g. njamed.com/#mimih, and open that card
