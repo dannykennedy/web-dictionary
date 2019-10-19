@@ -1,11 +1,11 @@
 :root {
     --main-app-color: brown;
     --secondary-app-color: #ece2de;
-    --display-font: 'Special Elite';
-    --app-sans: 'Open Sans'
+    --display-font: "Special Elite";
+    --app-sans: "Open Sans";
 }
 body {
-    font-family: 'Merriweather', serif;
+    font-family: "Merriweather", serif;
     line-height: 1.4;
     margin-left: 0px;
     margin-right: 0px;
@@ -51,7 +51,7 @@ h2 {
 }
 .ps {
     /*    font-style: italic;*/
-    font-family: 'Special Elite';
+    font-family: "Special Elite";
     margin-left: 10px;
     color: var(--main-app-color);
 }
@@ -68,10 +68,10 @@ h2 {
     /*    font-family: var(--display-font), cursive;*/
 }
 .also {
-    font-style: italic
+    font-style: italic;
 }
 .xv {
-    font-style: italic
+    font-style: italic;
 }
 ul li {
     margin-bottom: 10px;
@@ -96,13 +96,25 @@ ul li {
 .headword {
     margin-bottom: 5px;
 }
+figure {
+    margin-left: 0px;
+}
+figcaption {
+    width: auto;
+}
+audio {
+    margin-top: 10px;
+}
+audio:focus {
+    outline: none;
+}
 .subentry-text {
     margin-left: 1.2em;
     margin-bottom: 5px;
 }
 .se-info {
-    background: #DDD;
-    border: 1px solid #BBB;
+    background: #ddd;
+    border: 1px solid #bbb;
     border-radius: 5px;
     text-transform: uppercase;
     color: #666;
@@ -125,7 +137,7 @@ ul li {
     color: var(--main-app-color);
 }
 article {
-    box-shadow: 2px 2px 3px -2px #CCCCCC;
+    box-shadow: 2px 2px 3px -2px #cccccc;
     /*
     margin-bottom: 50px;
     margin-top: 50px;
@@ -159,7 +171,6 @@ article {
 
 /*COLLAPSIBLE*/
 
-
 /*https://www.w3schools.com/howto/howto_js_collapsible.asp*/
 
 .collapsible {
@@ -176,7 +187,7 @@ article {
     border-top-right-radius: 5px;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Open Sans", sans-serif;
 }
 .active,
 .collapsible:hover {
@@ -190,7 +201,7 @@ article {
     background-color: white;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
-    border: 1px solid #AAA;
+    border: 1px solid #aaa;
     height: auto;
     max-height: 1500px;
     animation-duration: 0.8s;
@@ -204,11 +215,12 @@ header {
     height: 80px;
     margin-bottom: 20px;
     display: grid;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Open Sans", sans-serif;
     color: white;
     background-color: var(--main-app-color);
     align-items: center;
     grid-template-columns: 1fr 65% 1fr;
+    z-index: 100;
 }
 #search-area {
     display: grid;
@@ -240,7 +252,7 @@ header {
 }
 #subtitle {
     margin-left: 20px;
-    font-family: 'Merriweather', serif;
+    font-family: "Merriweather", serif;
     font-style: italic;
 }
 #myInput {
@@ -250,7 +262,7 @@ header {
     margin-left: -1px;
     border: none;
     font-size: 1em;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Open Sans", sans-serif;
     padding-left: 10px;
     margin-right: 20px;
 }
@@ -299,10 +311,10 @@ input:focus {
 .speech-bubble {
     position: relative;
     background: #00aabb;
-    border-radius: .4em;
+    border-radius: 0.4em;
 }
 .speech-bubble:after {
-    content: '';
+    content: "";
     position: absolute;
     left: 0;
     top: 50%;
@@ -316,7 +328,7 @@ input:focus {
 }
 #mimih-box {
     display: flex;
-    justify-content: flex-end
+    justify-content: flex-end;
 }
 #mimih-img {
     margin-bottom: 3px;
@@ -326,7 +338,6 @@ input:focus {
 }
 
 /*MODAL (W3 SCHOOLS)*/
-
 
 /* The Modal (background) */
 
@@ -420,9 +431,7 @@ h4 {
 
 /*@MEDIA*/
 
-
 /*TABLET VIEW*/
-
 
 /*MOBILE VIEW*/
 

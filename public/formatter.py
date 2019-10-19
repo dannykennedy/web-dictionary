@@ -1,7 +1,7 @@
 #!/usr/local/bin/python3
 
 
-import sys, re, json
+import sys, re, json, os.path
 from operator import itemgetter
 
 if len(sys.argv) < 2:
@@ -10,6 +10,7 @@ if len(sys.argv) < 2:
 
 myfile = sys.argv[1]
 mynewfile = "dictionary-file-with-html-tags.txt"
+media_counter = 0
 
 
 # Preprocess fi: and fv:
@@ -534,6 +535,37 @@ with open("index.html", 'a') as f:
                         f.write('<p class="se-de"><span class="sn">&nbsp;  </span>' + sub_entry["de"] + '</p>')
 
                 f.write('</div>')
+
+            print('media/audio/' + entry["full-headword"] + '.mp3')
+
+            is_verb = (1 == 2)
+
+            if "ps" in entry:
+                is_verb = (entry["ps"] == 'v.t.') or (entry["ps"] == 'v.i.') or (entry["ps"] == 'v.refl.')
+
+            if os.path.exists('media/audio/' + entry["full-headword"] + '.mp3'):
+                media_counter = media_counter + 1
+                print(media_counter)
+                f.write('<figure>')
+                f.write('<figcaption><span class="se-info">Audio')
+                if is_verb:
+                    f.write(': ka')
+                    f.write(entry["full-headword"])
+                    f.write(' (present tense)')
+                f.write(' </span></figcaption>')
+                f.write('''
+                            <audio
+                                controls preload="none"
+                        ''')
+                f.write('src="./media/audio/' + entry["full-headword"] + '.mp3">')
+                f.write('''
+                Your browser does not support the
+                                    <code>audio</code> element.
+                            </audio>
+                        </figure>
+                ''')
+
+
 
 
         # End of entry
