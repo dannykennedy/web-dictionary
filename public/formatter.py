@@ -546,7 +546,7 @@ with open("index.html", 'a') as f:
             if os.path.exists('media/audio/' + entry["full-headword"] + '.mp3'):
                 media_counter = media_counter + 1
                 print(media_counter)
-                f.write('<figure>')
+                f.write('<div><figure>')
                 f.write('<figcaption><span class="se-info">Audio')
                 if is_verb:
                     f.write(': ka')
@@ -555,14 +555,16 @@ with open("index.html", 'a') as f:
                 f.write(' </span></figcaption>')
                 f.write('''
                             <audio
-                                controls preload="none"
+                                controls autoplay
                         ''')
-                f.write('src="./media/audio/' + entry["full-headword"] + '.mp3">')
+                f.write('data-src="./media/audio/' + entry["full-headword"] + '.mp3">')
                 f.write('''
                 Your browser does not support the
                                     <code>audio</code> element.
                             </audio>
                         </figure>
+                        <button class="audio-button">Play audio!</button>
+                    </div>
                 ''')
 
 

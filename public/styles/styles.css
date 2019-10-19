@@ -104,9 +104,19 @@ figcaption {
 }
 audio {
     margin-top: 10px;
+    display: none;
 }
 audio:focus {
     outline: none;
+}
+.audio-button {
+    border: 1px solid #bbb;
+    background-color: var(--secondary-app-color);
+    font-family: inherit;
+    font-size: inherit;
+    padding: 5px;
+    border-radius: 5px;
+    font-family: var(--app-sans), sans-serif;
 }
 .subentry-text {
     margin-left: 1.2em;
