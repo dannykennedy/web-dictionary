@@ -560,27 +560,6 @@ with open("index.html", 'a') as f:
                 f.write(' height="auto"></button>')
                 f.write('</div>')
 
-                # < figure > ')
-                # f.write('<figcaption><span class="se-info">Audio')
-                # if is_verb:
-                #     f.write(': ka')
-                #     f.write(entry["full-headword"])
-                #     f.write(' (present tense)')
-                # f.write(' </span></figcaption>')
-                # f.write('''
-                #                             <audio
-                #                                 controls autoplay
-                #                         ''')
-                # f.write('data-src="./media/audio/' + entry["full-headword"] + '.mp3">')
-                # f.write('''
-                #                 Your browser does not support the
-                #                                     <code>audio</code> element.
-                #                             </audio>
-                #                         </figure>
-
-
-
-
         # End of entry
         f.write('</div>') # end of collapsible content section
         f.write('</article>')

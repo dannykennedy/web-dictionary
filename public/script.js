@@ -1,31 +1,14 @@
-function getAudio() {
-    var audioElem = this.parentElement.getElementsByTagName("audio")[0];
-    var source = audioElem.getAttribute("data-src");
-    audioElem.setAttribute("src", source);
-    audioElem.style.display = "block";
-    this.style.display = "none";
-}
-
 function fetchAudio() {
-    var parser = new DOMParser();
-    var domString = `
-                    <figure>
-                        <figcaption><span class="se-info">Audio</span></figcaption>
-                        <audio controls autoplay">
-                            Your browser does not support the
-                            <code>audio</code> element.
-                        </audio>
-                    </figure>`;
-    var html = parser.parseFromString(domString, "text/html");
-    var audioElem = html.getElementsByTagName("audio")[0];
-    var source = this.getAttribute("data-src");
-    audioElem.setAttribute("src", source);
-    this.parentElement.appendChild(html.body.firstChild);
+    var sound = document.createElement("audio");
+    sound.controls = "controls";
+    sound.src = this.getAttribute("data-src");
+    sound.type = "audio/mpeg";
+    this.parentElement.appendChild(sound);
     this.style.display = "none";
-    audioElem.play();
+    sound.play();
 }
 
-// Add "click to open"
+// Add "fetchAudio"
 var coll = document.getElementsByClassName("audio-button");
 var i;
 for (i = 0; i < coll.length; i++) {
