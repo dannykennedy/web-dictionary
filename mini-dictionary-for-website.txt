@@ -92,6 +92,24 @@ into string.
 \dt 15/Jul/2008
 \dm 10/Mar/2019
 
+\lx Amurdak
+\va Mamurdak
+\ps prop. n.
+\re language name
+\re Amurdak
+\de The Amurdak language.
+\sy Wurradjbak
+\ee A dialect of Amurdak, now extinct, was spoken by coastal Ulbu people in the Ardahaj (Pawpaw Beach) region. This variety of Amurdak is called Urrirrk or Wurrirrkwurrirrk.
+\xv Nawu korroko bininj birriyuhyungki birrimulewarreni bu bedda kunwok bedberre kore birriwokdi. Yika manbu kunwok mankang kuberrkbeh dja yika kore kurrulabeh. Wanjh bolkkime bininj birriwern kabirribebbehwokdi manbu kunwok bedberre. Yiman Amurdak dja Wardadjbak makka kuberrkbeh birriwokdi. Dja manbu Yibadjdja dja Marrkku makka wanjh kumekke ngalengman kore kabirrihni bolkkime bininj manbu kunwok kumekke kabirridjalwokdi.  
+\xe In the old days, our ancestors all spoke to each other in their own languages. Some languages came from inland areas, and others from saltwater areas. Still today, people each talk their own languages. Amurdak and Wardadjbak for example were spoken in inland areas. Iwaidja and Marrku are still spoken where the speakers of those languages live. 
+\so Jill Nganjmirra
+\sd metalinguistic
+\bb Handelsmann, R. (1991). Towards a description of Amurdak: A language of northern Australia. Unpublished BA (Hons) thesis,
+University of Melbourne, Melbourne.
+\uv W, Djnj, Kdj
+\ur I= Mamurdak
+\dt 17/Jun/2007
+
 \lx Arrkuluk
 \ps place n.
 \sn 1
@@ -156,6 +174,17 @@ into string.
 \ur E = ngarkme
 \dt 09/Oct/2007
 \dm 10/Mar/2019
+
+\lx babbulibun
+\ps v.t.
+\re carry with a stick over shoulder
+\de Carry a load attached to a stick over the shoulder, especially fish.
+\xv Yidjirribiwo ba ngababbulibun djenj.
+\xe Tie the fish up (passing vine or string through the gills) so I can carry them on a stick.
+\xv Karrimadjbabbulibun.
+\xe Let's carry our swag on a stick over our shoulder.
+\dt 05/Oct/2007
+\dm 14/Sep/2018
 
 \lx bad
 \ps adv. pref.
@@ -257,8 +286,7 @@ into string.
 \xe They would peel the bark off ironwood branches and carve them into clapsticks, a large one and a small one, hear that they sounded good and that was it. 
 \so Andrew Manakgu, Injalak Arts painting documentation
 \xv Manbu manbadjan makka rungkal. Manu manyaw makka rarrk.
-\xe The large external lines are the outlines, the small lines
-are the hatching (within the painted figure).
+\xe The large external lines are the outlines, the small lines are the hatching (within the painted figure).
 \so Joey Nganjmirra
 \dm 15/Dec/2018
 
@@ -519,6 +547,42 @@ roast [the meat]. It was the elder brother [who did this].
 \ur I= djarre
 \dt 08/Oct/2007
 \dm 14/Sep/2018
+
+\lx balre
+\va bale
+\ps v.i.
+\ng Composed of bal + re, but usually shortened to 'bale' in casual speech.
+\re keep going
+\re go away
+\de Keep going, continue moving, go (in a direction away from the speaker). 
+\xv Yibalay djarreh.
+\xe Keep on going for a long way.
+\so Jill Nganjmirra
+\xv Kare kaddum wanjh Duleburreni Ngaldaddubbe Djabidj Bakoluy kare konda kabalhdurndeng kaddum kabale mani anbolh kadumeyoken ngaleng bono.
+\xe It goes upstream to the places Duleburreni Ngaldaddubbe and Djabidj Bakoluy and here it keeps going back up to where the river meanders into a wide outer bank.
+\so Lofty Bardayal Nadjamerrek (Kundedjnjenghmi)
+\xv Yibaldjalay munguyh. 
+\xe Just go away for good.
+\so Jill Nganjmirra 
+\nt DK: Like 'djale', I thought it could be helpful for learners to have the contracted form listed. 
+\id DK
+\id JNg
+\dt 06/Jul/2019
+
+\lx bambam
+\ps n.
+\re black termite mound
+\de Type of black termite mound, usually found on the side of trees and favoured for use in ground ovens. 
+\xv Bambam ngalengman kore kundulk kabelebelbme, manboykerlk.
+\xe 'Bambam', black termite mounds, can be found stuck against the base of trees. They are a relatively soft type of termite mound. 
+\so Jill Nganjmirra
+\xv Birriboymangi manbu kunboy manboyburlerri kangeyyo bambam wanjh birriwilkdengi.
+\xe They would gather bits of black termite mound, called 'bambam', and use it to cook them (the olive pythons). 
+\so Andrew Manakgu, Injalak Arts painting documentation. 
+\cf djibdjib
+\id DK
+\id JNg
+\dt 27/Jul/2019
 
 \lx banikin
 \va banikkin
@@ -1880,6 +1944,27 @@ or exclusively and 'in contrast'.
 \dt 06/May/2006
 \dm 14/Oct/2018
 
+\lx bengkokan
+\ps v.i.
+\re be confused
+\re get lost
+\de Be confused, lose one's way, lose one's mind, be drunk. 
+\xv Nawamud benmarneyimeng nawu daluhdaluk "Yuwn wurdurd kabirrire kunih bu wardi kabirribengkokan dja kungarrewern".
+\xe Nawamud told the women "The children shouldn't go there, they'll get lost, there's lots of thick jungle". 
+\so Jill Nganjmirra
+\xv Ngalbulanj bimarneyimeng Ngalkodjok "Nawu nakudji duruk bengkokang, wam nuk baleh". 
+\xe Ngalbulanj told Ngalkodjok "One of the dogs must have gotten lost, I don't know where it went". 
+\so Jill Nganjmirra
+\xv Yibengkokan bu kanhmarneyime!
+\xe You must be out of your mind, talking to me like that!
+\so Jill Nganjmirra
+\cf bengmayahme
+\cf mayahme
+\nt DK: Etherington has 'bengkokang - confused, muddled up' and 'bengkokang - drunk'. Jill also said that the "You must be out of your mind" sentence was typical where one person was sober and the other drunk. Carroll texts have "Jesus yimeng ngaye nga-m-wam bininjken nawu kabirri-kuk-ben-kokan" (the lost souls, I imagine). Andrew has "....karrimayahme karribengkokan wanjh karriyime nungkah Dulkelorrkkelorrken benbengmayahkeng birribengwabom birrimayahmeng."
+\id DK
+\id JNg
+\dt 01/Sep/2019
+
 \lx bengmayahke
 \ps v.t.
 \re confuse
@@ -2875,6 +2960,22 @@ the Alligator Rivers region. 'Anbinik', the Kundedjnjenghmi/Kundjeyhmi version o
 \dt 29/Jan/2017
 \dm 14/Oct/2018
 
+\lx birliwoldjen
+\pr man-
+\ps n.
+\re flame
+\de Flame, tongue of flame. 
+\xv Bu ngarriwarlbun mayh yiman ngalmangiyi dja manimunak wanjh minj ngarribangmekinje nawu mayh bu manbirliwoldjenkimuk dja ngarrimadbun bu kunak kabirliwoldjenkolung dja kayirrkebakke, wanjh kunu ngarrikinje mayh. 
+\xe When we hunt animals like long-necked turtles and magpie geese, we don't cook them while the flames of the fire are high, we wait until the flames die down and the wood is broken down into hot coals, and that's when we cook them. 
+\so Jill Nganjmirra
+\xv Wanjh bu bolkkime karrihnan nawu karrkkanj, nungka nadjawonjbeh dja mak kadjaldolkan bu kakerrkmang yiman bu yimihyimi kerrkmahkerrkmangi mankoleh. Kaluk bu kunak kabirriwurlhke, nungka kare kore kunak dja kamang nawu mayh wolbu kaluk manbu kunak wanjh makkah minj kabimang bu karung, dja kadjalwohdolkan kakerrkbawon manbu manbirliwoldjen.
+\xv These days when we see a brown falcon, we say he's of the Jawoyn tribe, and he still flies around as if he were dodging spears. When people burn off the bush, he flies above the fire front catching insects, but the fire won't catch him because he can just jump and dodge the flames. 
+\so Nganjmirra, Jill & Tildemann, Sonia, ‘Karrkanj Yimerranj’ in ‘Old Woman Emu and other Kunwinjku stories’, Batchelor Press, Batchelor, N.T, 2005, p. 90
+\nt DK: Kdj dictionary has 'kunwoldjen'. Jill always used 'manbirliwoldjen', but I didn't ask about alternatives, will ask and could be added in later. Jill confirms that there's the same tongue metaphor as in English here, 'yiman kundjen'. 
+\id DK
+\id JNg
+\dt 11/Aug/2019
+
 \lx birlmu
 \ps n.
 \ng see also <b>mankumirli</b> and <b>wardurrkku</b>
@@ -3018,6 +3119,26 @@ the plateau which is dominated more by open savanna forest.
 \sd body_part
 \id DK
 \dm 14/Sep/2018
+
+\lx birrkukuhme
+\ps v.t., v.i.
+\re throw at
+\re chuck at
+\re throw a blunt projectile
+\de Throw something at someone, an animal etc. This word refers specifically to throwing blunt projectiles such as sticks, rocks or boomerangs.
+\xv Kumekke kaddum benehdjalbarndi, benmenebirrkukuhmeng benmenedjalbirrkukuhmeng. Ngalkudji bikebbaddji mandjad la ngalbuyika ngalbu bibarlanhbom, wanjh djalwohmankang.
+\xe The two of them were up in the tree, and he threw sticks at them. He hit one woman hard, straight in the face. He almost hit the other one, but she fainted with fright and fell down. 
+\so Nganjmirra, Nawakadj, ‘Kunwinjku Spirit’, Melbourne University Press, 1997, p. 132
+\xv Ngalkohbanj bimarneyimeng ngalbu wurdyaw "Yimka ngardduk manbu kundjabarrk wardi kundulk ngamang birrkukuhme."
+\xe The old woman said to the child "Bring my bag here, or I'll get a stick and chuck it at you". 
+\so Jill Nganjmirra
+\xv Nawu Nakorrkko benebokenh benedjalbirrkukuhmeng manbu barlkkan bu benemarnbom manbolh kuri kore walem.
+\xe The two Nakorrkko ancestors threw boomerangs to make a path, down there in the south. 
+\so Jill Nganjmirra
+\nt DK: Andrew has “Nawu bininj kahbimdi kore djurra kudjakku left kahkan Karrbarda long yam nakka Kordowele nawu rey kore manberrk benyawani bininj benbuni benkanjnguni Wanjh wanahwam benmenenang daluk benebokenh kaluk bedda benedanginj Ngalwernwarre dja Ngalwalawalak kaluk ngalbu Ngalwernwarre big sister merlemni pregnant kani wurdyaw kore kunnjam ngalengarre benmenenang benehbarndi kore kundulk kaddum Mankarrarlhmanj manmim benehmimnguni wanjh mey karrbarda manbu kanihkani burriweng benmenebirrkukuhmeng bikebbaddji kukmankang doweng dja ngalbu Ngalwalawalak little sister ngalka larrk minj bibuyinj dja djalmankan kurridj [kurrinj?].
+\id DK
+\dt 20/Jan/2018
+\dm 27/Jul/2019
 
 \lx biwudj
 \ps n.
@@ -3187,6 +3308,19 @@ the plateau which is dominated more by open savanna forest.
 \dt 21/Dec/2016
 \dm 11/Nov/2018
 
+\lx bokdeng
+\ps v.t.
+\re spin or plait string
+\de Spin or plait string. This often involves rubbing fibres from the inner bark of trees on the upper thigh, then rolling two strands of string together to make two-ply twine. 
+\sy borolhme
+\xv Manbu mandjabu korroko dabborrabbolk birrimangi kunyarl kore manbornde mandedjmad kunyarl dja kore kundulk manbudbud kunyarl. Wanjh birribokdengi kunyarl birrimarnbuni wanjh mandjabu birrimarnbuni.
+\xe In the old days, our ancestors would make fish traps by getting fibre from banyan roots or kurrajong bark. They would roll the fibre into string, then make fish traps from it. 
+\so Andrew Manakgu, Injalak Arts painting documentation
+\nt DK: Jill also mentioned this as a synomyn of [xv] borolhme.
+\id DK
+\id JNg
+\dt 11/Aug/2019  
+
 \lx bokenh
 \va boken
 \ps adj.
@@ -3259,6 +3393,28 @@ the plateau which is dominated more by open savanna forest.
 \id MG, AM
 \dt 21/Sept/2016
 \dm 10/Mar/2019
+
+\lx borlborl
+\ps n.
+\re termite
+\de Termite.
+\xv Borlborl karrulkngun, kurrambalk kawarrewon.
+\xe Termites eat wood and destroy houses.
+\sd insect
+\dt 06/Jun/2011
+\dm 14/Sep/2018
+
+\lx borolhme
+\ps v.t.
+\re spin or plait string
+\de Spin or plait string (hair or string/rope). This involves rolling two strands of inner bark fibres in one direction over the thighs then rolling back in the opposite direction to twist the two strands together into two-ply string.
+\sy bokdeng
+\xv Nawu daluhdaluk manbu kunyarl kabirrimang kore kundulkbeh manbu manbudbud marrabbi manbornde dja mankarralarlhmanj wanjh kabirriborolhme bu kabirrimarnbun djerrh dja walabi. 
+\xe Women get fibre from trees, kurrajong, sand palm, banyan and bush peanut trees, then they rub the fibres on their thigh and roll them together into string to make bags and fish nets. 
+\so Jill Nganjmirra
+\pdn kk= bordordbokme.
+\nt DK: Jill described the process as "two strings and join together and roll it on the lap", which is what I remember from Injalak. 
+\dm 11/Aug/2019
 
 \lx bolidj
 \va borlidj
@@ -5215,6 +5371,36 @@ kabirrimang kabirribiddadjkerren karlba kore kunbende kare kore kunbid.
 \dt 22/Apr/2007
 \dm 11/Nov/2018
 
+\lx dangkenwon
+\ps v.t. 
+\re put in someone's mouth
+\re feed someone
+\de Put something in someone's mouth, feed someone. 
+\xv Ngalbadjan kabimarneyime wurdyaw ngalengarre nawu nayahwurd "Ngaye dangkenwon manme". 
+\xe A mother will tell her young child "I'm going to put the food in your mouth". 
+\so Jill Nganjmirra
+\xv Ngalbadjan kabidangkenwon kundjikka ngalengarre nawu wurdyaw barrken. 
+\xe The mother gives her young child the breast. 
+\so Jill Nganjmirra
+\id DK
+\id JNg
+\dt 27/Jul/2019
+
+\lx dangkenworren
+\ps v.refl.
+\re put in one's mouth
+\re feed oneself
+\de Put something in one's mouth, feed oneself. 
+\xv Yimankek benwoyi dja burrkyakni benkoweyi. Kaluk bu birribalrlobmi darnkih wanjh ngalbu Kurdukadji djaldangkenworreni ngalengman deleng. Wanjh wurd birridurndengi kunmarrwe.
+\xe She pretended she was going to give them some, but she was just teasing them. When they ran up to her, the Emu would just put the food into her mouth, and they went back hungry. 
+\so Nganjmirra, Jill & Tildemann, Sonia, ‘Old Woman Emu and other Kunwinjku stories’, Batchelor Press, Batchelor, N.T., 2005, p. 8
+\xv Wurdyaw birrimarneyimeng nungan dangkenworrimen manme bu kangun ba kaburrbun. 
+\xe They told the child to feed himself, so he could learn how to do it. 
+\so Jill Nganjmirra
+\id DK
+\id JNg
+\dt 27/Jul/2019
+
 \lx danginj
 \ps deverbalised noun
 \re siblings
@@ -5403,6 +5589,24 @@ kabirrimang kabirribiddadjkerren karlba kore kunbende kare kore kunbid.
 \id DK
 \dm 11/Nov/2018
 
+\lx darrhme
+\ps v.i.
+\ng Plural form is 'dakadarrhme'.
+\re poke out
+\de Poke out. 
+\xv Kahkorodarrhme. 
+\xe Part of the snake’s body is sticking out of its hole. 
+\so Jill Nganjmirra
+\xv Kalawan kakebdarrhme kumidjno.
+\xe The goanna's nose is poking out of the burrow.
+\xv Nawu djenj namardaka dja marrngunj kore kanjdji kukku kabirriyo kudjorlok. Kabirringimen wanjh kabirridjawurrkdakadarrhme.
+\xe Eel tailed catfish live in holes under the water. They go inside and we can see their whiskers sticking out. 
+\so Jill Nganjmirra
+\xv Bu kunkanj kabirrikerribun wanjh kunkod manu kabirribarrkbun wanjh kunkurlk kabirridudjeng. Kaluk bu kabirrinan kunkod kadarrhme, wanjh kabirriyawoyhdudjeng kunkurlk. 
+\xe When people cook meat in ground ovens, they cover it with paperbark and then put soil over the top. If people see a bit of paperbark sticking out, they'll put some more earth on top. 
+\so Jill Nganjmirra
+\dm Sep/2019
+
 \lx darrkid
 \ps pred. adj.
 \sn 1
@@ -5558,6 +5762,19 @@ kabirrimang kabirribiddadjkerren karlba kore kunbende kare kore kunbid.
 \ur I,E= dedjmadno
 \sd plant
 \dm 11/Nov/2018
+
+\lx dedjmelme
+\ps v.t.
+\re kick
+\de Kick.
+\xv Kabirridirri budbol wanjh nakudji nawu kadedjmelme manbu budbol wanjh kadolkayhwe djarreh kare.
+\xe They play football, and someone kicks the ball and sends it flying a long distance. 
+\so Jill Nganjmirra
+\cf melme
+\nt DK: Etherington has 'dedjmelmeng - kicked'.
+\id DK
+\id JNg
+\dt 06/Jul/2019
 
 \lx dedjmim
 \pr kun-
@@ -5936,6 +6153,18 @@ Burrkyak. Kabirridjalngeybun. Minj kabirridebikarren, burrkyak.
 \re next month
 \de Next month.
 \dm 11/Nov/2018
+
+\lx dirdko
+\ps n.
+\re moonlight
+\de Moonlight.
+\xv Dirdko karrire.
+\xe Let's go by moonlight.
+\xv Bu dirdko wanjh kabirriwaralnarren, yiman kayime mak kundung bu koyek dja karrikad bu kadungdi wanjh kabirriwaralnarren.
+\xe By moonlight people cast a shadow ['see their own shadows'], just like when the sun is in the west or the east. 
+\so Jill Nganjmirra
+\nt DK: Etherington has 'dirdko - shadow of moon', though Jill says 'moonlight' too so I'm not sure where that definition comes from.  
+\dm 06/Jul/2019
 
 \lx dirnku
 \pr man-
@@ -7095,6 +7324,18 @@ birridukkarrukkarrinj.
 \xe Rewind it and let's listen to it one more time.
 \dm 11/Nov/2018
 
+\lx durnme
+\ps v.t.
+\re knead
+\de Knead.
+\xv Ngarrikanjbun ngarrikanjdurnme ngarrikurrme dja kunbalem ngarrikinje kore nabuyika banikin wanjh ngarrimang manbu kunkanj dja kunbalem ngarrirawon wanjh ngarringun.
+\xe We pound and knead the [pieces of cooked stingray] flesh, then we put it aside and cook the fat in a different drum. Then we take the flesh and the fat, mix them and eat it.
+\so Andrew Manakgu, Injalak Arts painting documentation
+\nt DK: Not sure of the exact action this entails, maybe you’ve seen it Murray? Seems to be related to the above entry. Etherington has “knead” so that’s what I’ve used.
+\id DK
+\dt 25/Sep/2016
+\dm 14/Sep/2018
+
 \lx duruk
 \ps n.
 \re dog
@@ -7337,6 +7578,38 @@ birridukkarrukkarrinj.
 \sd reptile/amphibian
 \dt 06/May/2006
 \dm 14/Sep/2018
+
+\lx djadmud
+\pr na-
+\ps n.
+\re unmarried man
+\de Unmarried man.
+\nt DK: Splitting out different prefixes into different entries. 
+\dm 27/Jul/2019
+
+\lx djadmud
+\pr ngal-
+\ps n.
+\re unmarried woman
+\de Unmarried woman.
+\xv Ngaldjadmudni. 
+\xe She was single.
+\so Jill Nganjmirra
+\nt DK: Splitting out different prefixes into different entries. 
+\dm 27/Jul/2019
+
+\lx djadmud
+\ps adj.
+\re single 
+\re unmarried
+\de Single, unmarried.
+\xv Nawu bininj djadmudni wam korroko, dja wanjh bolkkime mey daluk. 
+\xe The man was single for a long time, but now he's found a wife. 
+\so Jill Nganjmirra
+\nt DK: Not sure if this should be djadmud or djadmudni, but it seemed worthwhile to make an entry separate from nadjadmud/ngaldjadmud. Jill's 'Old Woman Emu' book has "Nawu Nawalabik kerrngehkeni djadmuniy, bu nungka kumwam kore kakbi.", but Jill confirms this should be djadmud. "He was single for a long time in his country".
+\id DK
+\id JNg
+\dt 27/Jul/2019
 
 \lx djak
 \pr kun-
@@ -8116,6 +8389,25 @@ dry time has properly arrived. The seeds may be eaten raw.
 \dt 13/Oct/2003
 \dm 10/Mar/2019
 
+\lx djedj
+\pr man-
+\ps n.
+\re kapok tree
+\re fi:Cochlospermum fraseri
+\de Yellow kapok bush; a slender deciduous shrub or small tree to 7 m high; flowering and fruiting when the plant is leafless. The edible fleshy taproots are collected only from small plants, usually less than 30 cm tall. They are roasted in hot coals and the outer skin peeled. Kapok wool from the seed pods is used for body decoration in certain ceremonies. Young stems can be used as firestick drills. Bark used for paint brushes.
+\xv Buluk dorrengh anbu an-djedj, Lorrkkon Kunabibi karri-bulukmang.
+\xe The kapok tree has down used for body decoration in the hollow log and Kunabibi ceremonies.
+\xv Yika kundulk ngarrinan kanguybun wanjh ngarriyime kunj kabalem, bu manbu mandjedj kundulk kanguybun.
+\xe Or sometimes flowers can tell us that the kangaroos are fat (and ready to hunt). That's the case with kapok flowers. 
+\so Andrew Manakgu, Injalak Arts painting documentation.
+\sc Cochlospermum fraseri
+\ee good for making dugout canoes
+\uv W,I
+\ur Djnj, Kdj= andjedj
+\sd plant
+\dt 12/Jun/2007
+\dm 07/Sep/2019
+
 \lx djedje
 \ps n.
 \re child, son, daughter
@@ -8139,6 +8431,23 @@ dry time has properly arrived. The seeds may be eaten raw.
 \nt DK: Etherington has 'smile' as the meaning. 
 \dt 31/Dec/2008
 \dm 15/Dec/2018
+
+\lx djelmi
+\pr man-
+\ps n.
+\sn 1
+\re cold water
+\de Cold water, such as at the bottom of a deep stream
+\sn 2
+\re cold substance
+\de Any cold substance, eg. the air from an air conditioner.
+\xv Mahni kunkanj mandjelmiken, yoy kore kunkedjelk. 
+\xe That meat is cold, it's been in the fridge. 
+\so Jill Nganjmirra
+\cf -djelmirranj
+\ce become cool
+\dt 13/Oct/2003
+\dm 01/Sep/2019
 
 \lx djen
 \pr kun-
@@ -8258,6 +8567,18 @@ dry time has properly arrived. The seeds may be eaten raw.
 \pdn kk = mandjil
 \dt 01/Jan/2009
 \dm 15/Dec/2018
+
+\lx djibdjib
+\ps n.
+\re black termite mound
+\de Termite mound, black. These are freestanding termite mounds and very hard, so they are not favoured for use in ground ovens. 
+\xv Djibdjib kaboydjabdi.
+\xe There is a black termite mound standing there.
+\so Jill Nganjmirra 
+\cf bambam
+\sd geographic
+\nt DK: Jill says "minj kabirrimang, manrayek", in contrast to the other type of black termite hills, 'bambam', which she describes as 'manboykerlk'. 
+\dm 27/Jul/2019
 
 \lx djidjnguk
 \ps n.
@@ -8592,6 +8913,22 @@ dry time has properly arrived. The seeds may be eaten raw.
 \xv Kubarrarndjokko.
 \xe A narrow passage.
 \dm 14/Sep/2018
+
+\lx djokkohmikan
+\ps v.t.
+\re herd together
+\de Herd together into a narrow place (as when hunting animals). 
+\xv Kunak kabendjokkohmikan kunj.
+\xe The fire herds all the kangaroos together into a narrow place [where they can be speared]
+\xv Kunj kabarridjokkohmikan.
+\xe They herd the kangaroos into a narrow place. 
+\so Djnj
+\xv Kunak kabandjokkohmikan kunj, kabandjokkome kabandjirrkkan kure
+bininj kabarridi kure kukebrok.
+\xe The fire herds the kangaroos together and presses them into a narrow place where there are people waiting ahead [to spear them]. 
+\so Djnj
+\nt DK: Jill seemed more comfortable with "kabirridabdabke" as a general term, but then agreed with "Kunak kabendjokkohmikan kunj."
+\dm 11/Aug/2019
 
 \lx djoleng
 \ps adj.
@@ -9035,6 +9372,25 @@ dry time has properly arrived. The seeds may be eaten raw.
 \bw from Macassan, sura? 'letter'.
 \dm 14/Sep/2018
 
+\lx djurrh
+\pr kun-
+\ps n.
+\ng incorporable
+\re current
+\re running water
+\de Current, running water.
+\xv Kadjurrhbume.
+\xe Waterfall.
+\xv Kamdjurrhre.
+\xe Flood water is coming up.
+\xv Ngalbu ngalyod ngalkka kumdjalrey kore manberrk, wanjh manbu kukku kundjurrh kumdjalbokimukmeni. 
+\xe The Rainbow Serpent kept coming inland, and the sea kept flooding in (behind her as she went). 
+\so Nganjmirra, Jill & Tildemann, Sonia, ‘Old Woman Emu and other Kunwinjku stories’, Batchelor Press, Batchelor, N.T, 2005, p. 70
+\cf djurrhbume
+\uv I, Kdj, Djnj
+\dt 06/May/2006
+\dm 07/Sep/2019
+
 \lx djurrhbume
 \ps v.i.
 \re waterfall
@@ -9063,6 +9419,26 @@ dry time has properly arrived. The seeds may be eaten raw.
 \xv Mahni yidjurrkdjurrkmeng.
 \xe You've just made this too quickly [without care].
 \dt 12/Jul/2013
+
+\lx djurrkwon
+\ps v.i.,v.t.
+\sn 1
+\re get excited
+\re be enthusiastic
+\de Get excited, be enthusiastic.
+\xv Yawurrinj, yun yalmo ngurriborrkke, ngurridjurrkwo, ngurriwernhmelmen!
+\xe You young men, don't dance quietly, but really get into it and stomp hard!
+\xv Birrimarrwe doweng rowk, wanjh birrinang manme kambebmeng, birridjurrkwong.
+\xe Everybody was hungry and then they saw the food (tucker truck) arrive and they were all excited.
+\sn 2
+\re enthuse or encourage someone
+\de Enthuse someone, encourage to act.
+\xv Ma ngarrbendjurrkwon yawurrinj.
+\xe Come on, let's go and stir those guys up, get them going.
+\cf djurrkworren
+\ce enthuse or encourage each other, get each other excited
+\dt 13/Oct/2003
+\dm 14/Sep/2018
 
 \lx djurrubuk
 \ps n.
@@ -9285,6 +9661,40 @@ mandulkbalabala, kabirrikadjedme rowk.
 \dt 13/Oct/2003
 \dm 14/Sep/2018
 
+\lx Kabulwarnamyo
+\ps n.
+\re Kabulwarnamyo
+\re outstation in the Liverpool River region
+\de Kabulwarnamyo, an outstation in the upper Liverpool River region.
+\xv Kabulwarnamyo makka kunred kabolkngeyyo, kore bolkkime bininj kabirrihni. Kerrekenh birribolkngeybuni Norne, wanjh birringeyborledkeng manu kunbolkngey duninjh birribolkngeykurrmeng Kabulwarnamyo. Dja manbu Norne makka djang, mankung djang. Korroko dabborrabbolk birriyimi.  
+\xe Kabulwarnamyo is the name of a country, where there are currently people living. People used to call it Norne for a while, but they changed the name back to its proper place name, Kabulwarnamyo. 'Norne' is the name of a fi:djang [in that area], it's a sacred area for honey. That's what the old people told us. 
+\so Jill Nganjmirra
+\cf Norne
+\id DK
+\id JNg
+\dt 06/Jul/2019
+
+\lx kabun
+\ps v.t.
+\sn 1
+\re hold a child close
+\de Hold a child close, e.g. on one's lap or lying down with an arm around the child. 
+\xv Ngalbadjan bimarneyimeng wurdyaw ngalengarre “Yimray kabun”. 
+\xe The mother said to her child "Come here, I'll hold you". 
+\so Jill Nganjmirra
+\xv Ngad bininj ngarridaddornamerren kumekke wurdyaw ngarriyawkurrme kore kundad ngadberre bu ngarrikabun. 
+\xe We cross our legs and put our young children on our lap, and hold them like that. 
+\so Jill Nganjmirra
+\sn 2
+\re sit on eggs
+\de Sit on eggs.
+\xv Manimunak kakabun wirlarrk. 
+\xe The magpie goose is sitting on eggs. 
+\so Jill Nganjmirra
+\sy dabukabun
+\nt DK: Previous [sn] 1 was "Sit OBJ on lap." Jill described this as a parent holding a child, often on the lap but not necessarily. She translated her sentence as "come, I’ll nurse you", but I don't think there's necessarily breastfeeding involved. Jill said sometimes when they’re sitting up, or sometimes when they lay down, they put them on their lap and kabindikabun kunberl, or when they’re lying down, their arms just go around the baby. 
+\dm 11/Aug/2019
+
 \lx kadberre
 \ps poss. pron.
 \re us
@@ -9501,6 +9911,19 @@ mandulkbalabala, kabirrikadjedme rowk.
 \nt [va] kalarlba deleted from mini-dic on Jill's advice.
 \dt 06/May/2006
 \dm 10/Mar/2019
+
+\lx Kalarabirr Djowkkeng
+\ps place n.
+\re Cahill's Crossing
+\re place name in East Alligator river region
+\de Cahill's Crossing [downstream from], where the road from Jabiru to Kunbarlanja crosses the East Alligator river, and the surrounding area. The place name literally means 'Where the old woman crossed (the river)', and refers to an Ancestral woman who did 'women's business' at Manbiyarra ('Border Store area') on the east side of the river, before crossing over and placing herself (fi:kurrmerrinj) in Manilakarr country on the west side of the river.The word 'kalarabirr' usually implies that a woman has had many children, but this woman did not have any children.
+\xv Kabolkngeyyo bu kunbolkngeybininj Kalarabirr Djowkkeng.
+\xe The Aboriginal name for the area is Kalarabirr Djowkkeng.
+\so Jill Nganjmirra
+\nt DK: Evans has [xv] Kalarabirr djowkeng [xe] Where the old lady crossed. (name for Cahill's crossing).
+\id DK
+\id JNg
+\dt 06/Jul/2019
 
 \lx kalarrwirdwird
 \ps n.
@@ -9905,6 +10328,23 @@ mandulkbalabala, kabirrikadjedme rowk.
 \xe The fishing line caught up/entangled the tree.
 \dt 13/Oct/2003
 \dm 14/Sep/2018
+
+\lx -kari
+\ps adv.
+\re stuck through penetration
+\de Stuck in an object, penetrated into object, stay stuck into something e.g. a hook in the mouth of fish, a spear in the body of prey. Used in verbs such as fv:karidi (be stuck into) and fv:karikarrme (have something stuck, e.g. on the end of one's spear).
+\xv Bininj kabirrire Karrik, kabirriyawan manbiri. Bu kabirringalke wanjh kabirridanjbun wanjh kunyarl kadororrke dja manbu fi:harpoon kakaridi kore kungalng ngalengarre. 
+\xe People go to the Garig area (on the coast north of Gunbalanya) and hunt sea turtles. When they find them, they spear them and the turtle pulls the harpoon string behind it while the harpoon stays stuck in its shell. 
+\so Jill Nganjmirra
+\xv Korroko dabborrabbolk birrinami kebbord kore kukeb bedberre. Kaluk birrimangi kunj kundadmurrng bu bindikebdjudmi, wanjh birrikebkaridi munguyh. 
+\xe In the old days, our ancestors would put nose pegs in their noses. They would take a sharp bone from a kangaroo's leg and pierce their nose, and then leave it stuck there. 
+\so Jill Nganjmirra
+\se karikarrme
+\de Have something stuck or penetrated on an object (such as a spear).
+\xv  Djidjnguk nakka ngabimbom, djidjnguk djenj kangun. Yinan djenj kakarikarrme nakka kukyirrek nani kaddum mayh kukyirrek. Djenj nawu woh namekke kabanirohrok, nani kukyirrek name djenj kabanirohrok konda kadelengkarrme.
+\xe  I’ve painted the Djidjnguk spirit, the one who eats fish. You can see here the fish he's got stuck on the end of his spear, including an eel he is holding up. The eel is a kind of fish. You can see the fish he has caught [in the painting]
+\nt DK: Jill translated "djenj kakaridi" as "the spear stuck on the fish". Kari seems to have some durational sense, because Jill was a bit confused why Djidjnguk would leave it stuck there and not pull it off and eat it, but maybe -kari is used in this case because it's a picture, and it's not going to move any time soon!
+\dt 10/Sep/2019
 
 \lx karlang
 \pr kun-
@@ -11686,6 +12126,19 @@ birrikilelh namekke.
 \dt 29/May/2017
 \dm 14/Sep/2018
 
+\lx kombakke
+\ps v.t.
+\ng The food etc. being choked on is the subject, and the person choking or body part is the object, so that the construction is literally e.g. ‘the food broke my windpipe.’
+\re choke
+\de Get stuck in throat, choke.
+\xv Ngalbadjan kayime "Aa nakka wurdyaw njale kahdakarrme kore kudang nuye? Wardi kabikombakke". 
+\xe The mother says "Ah, what's that kid got in his mouth? It might choke him". 
+\so Jill Nganjmirra
+\sy komlorrkbakke
+\nt Etherington has ‘kombakkeng-choked on something’
+\id DK
+\dt 24/Jul/2017
+
 \lx kombukdowen
 \ps v.i.
 \re be thirsty
@@ -11967,6 +12420,23 @@ birrikilelh namekke.
 \sd mammal
 \dt 27/Feb/2006
 \dm 14/Sep/2018
+
+\lx koro
+\pr kun-
+\re long thing
+\de Elongated winding shape, e.g. the body of a snake.
+\sy kunbardmo
+\lx Korodjardahmeng kunred kabolkngeyyo kore Manmoyi ngalengarre. Korroko dabborrabbolk birrimulewani bu ngalmekke ngalyod korodjardahmeng kumekke wanjh djang yimerranj. 
+\xe Korodjardahmeng is the name of a place near Manmoyi. In the old days, our ancestors would tell the story of how the Rainbow Serpent got her body stuck there and became a sacred site. 
+\so Jill Nganjmirra
+\se korokuyengken
+\re long
+\de Long (of snakes etc). 
+\uv W
+\ur I,E= korono
+\nt DK: Jill: kunkoro -> mayh nawu kawake kanjdji minj kakarrme feet (bardmokuyeng). Definition from [lx] korono. Not sure if there could be a mankoro. Jill says of the placename example sentence "She tried to travel other way but she caught up kore kuwardde, kore gap, or little hole karrmi. In between Kamarrkawarn and Manmoyi but in the middle. Mankabo kore. Minj kabirriwarddebun." 
+\dt 31/Dec/2018
+\dm 01/Sep/2019
 
 \lx korroko
 \ps adv.
@@ -12328,6 +12798,34 @@ birrikilelh namekke.
 \re get up early
 \de Get up early.
 \dm 09/Dec/2018
+
+\lx kukadje
+\va kukadjeh
+\ps adj.
+\re abundant
+\re too many
+\re in a large group
+\de Lots of, abundant, too many, in a large group.
+\xv Bulkay djenj kukadje.
+\xe At Bulkay there are lots of fish.
+\xv Ngalkudji ngalkohbanj wam yawani mandudjmi wanjh dulkngalkeng, nang yakarrbom kukadjeh mirndeyoy kore kurorre. 
+\xe An old woman went looking for green plums. She found a tree and saw that there were lots of them that had fallen on the ground. 
+\so Jill Nganjmirra
+\sn 2
+\ps n.
+\re city
+\re town 
+\de City, town. Literally "where there are lots of things", such as buildings, cars, shops etc. 
+\xv "Kakkak, kamak kare kokok kukadjeh kabinan doctor?” 
+\xe “Kakkak, is it okay if older brother goes into town to see
+the doctor?”
+\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 56-59
+\xv Ngandikurrmeng kured kore ngaye ngahyoy, dja bedman benedurndi kukadjeh.
+\xe They dropped us off at my home where I lived, and they went back into town. 
+\so Manakgu, Andrew, ‘Bu Ngurriborlhme Kunwinjku: Learning Kunwinjku’, Kunwinjku Language Centre, Gunbalanya, 1994
+\nt DK: Jill explained the connection between these senses as being because the 'city' sense means something like "manrurrkwern, kubolkkimuk. Kore lots of things. Muddika, shop manwern." "Manwernken". It's hard to say the part of speech here... 
+\dt 29/Mar/2007
+\dm 11/Aug/2019
 
 \lx kukbele
 \ps n.
@@ -13765,6 +14263,15 @@ purposes. Also once used for circumcision ceremonies.
 \dt 27/Feb/2006
 \dm 14/Sep/2018
 
+\lx lorrhmiyo
+\ps v.i.
+\re sleep lightly
+\de Sleep lightly, half asleep.
+\xv Ngadjalkaklorrhmiyoy.
+\xe I only slept lightly last night, I didn't sleep well. 
+\so Jill Nganjmirra
+\dm 14/Sep/2018
+
 \lx lowkmang
 \ps v.t.
 \re peel bark
@@ -13830,6 +14337,35 @@ purposes. Also once used for circumcision ceremonies.
 \re wait
 \de Wait.
 \dm 14/Sep/2018
+
+\lx maddeng
+\ps v.t.
+\sn 1
+\re hang onto something
+\re not want to give away
+\de Not want to give something up, hang onto something, not want to leave something.  
+\xv Nawu Nakodjok kukmaddengi nawu duruk. Minj djareniwirrinj benwoyi nawu duruk. 
+\xe Nakodjok was hanging onto that dog, he didn't want to give it away. 
+\so Jill Nganjmirra
+\xv Wurdyaw maddi fi:phone ngalengarre daluk. Wanjh ngalbadjan kayime "Med ngakerlkkerlkbun ngadjawan wanjh nganwon dja won."
+\xe The child was hanging onto the woman's phone, he didn't want to give it back. So his mother said "Wait, I'll talk it off him, he'll give it to me and then I'll give it back to you". 
+\so Jill Nganjmirra
+\xv Bonj, kanmaddeng.
+\xe That’s enough, you are delaying me from leaving.
+\cf bolkmaddeng
+\sn 2 
+\re accompany
+\de Accompany.
+\xv Nawu wurdyaw kahdjare kabihmaddeng nakornkumo. 
+\xe The boy wants to go with his father. 
+\so Jill Nganjmirra
+\xv Ngalwakadj bimarneyimeng Ngalkangila "Ngaye maddeng bu ngarrdjarrkre balbbara". 
+\xe Nalwakadj said to Ngalkangila "I'll go with you, we can accompany each other".
+\so Jill Nganjmirra
+\nt DK: Jill translated "Ngaye maddeng bu ngarrdjarrkre balbbara" as "I'll make you company", and the dog sentence as "he didn't want to give away the dog, he wanted to keep it."
+\id DK
+\id JNg
+\dt 01/Sep/2019
 
 \lx maddjurn
 \ps n.
@@ -15361,6 +15897,22 @@ kahdi.
 \dt 06/Dec/2016
 \dm 14/Sep/2018
 
+\lx mikan
+\ps v.t.
+\re accompany
+\re come along
+\de Accompany, come along, go with someone. 
+\xv Ngalwakadj yimeng "Ngare nganan ngalkohbanj". Wanjh Ngalngarridj ngalengmanwali yimeng "Ngamre kab mikan".
+\xe Ngalwakadj said "I'm going to visit the old woman", and Ngalwakadj said "I'll come along with you". 
+\so Jill Nganjmirra
+\xv Boyenni kornkumo bimarneyimeng, "Korlonj, kab ngarre djenj, kanmikan ngarranjbun." "Yoh Ngabba, ngarray."
+\xe One day the father said "Son, let's go fishing. Come along with me, I'm going to spear some fish". "Sure dad, let's go". 
+\so Manakgu, Andrew, ‘Beywurd dja Kornkumo Benewam Djenj’, in ‘Kabirrihwarlbun’, Oenpelli Literary Project, 1974
+\nt Jill translated her sentence as "I'll come and walk with you" or "company". 
+\id DK
+\id JNg
+\dt 11/Aug/2019
+
 \lx mikme
 \ps v.i.
 \re use mother-in-law avoidance register
@@ -16268,6 +16820,35 @@ causes lightning by throwing the axes with great force).
 \dm 23/Aug/2018
 \dt 06/May/2006
 
+\lx murnungu
+\pr na-
+\lc na-murnungu
+\ps n.
+\de 'The one who did it', eg. the murderer, the right one, person responsible (male).
+\cf ngalmurnungu
+\nt DK: Split out na- and ngal- headwords for purposes of dictionary file parsing. 
+\dm 14/Sep/2018
+
+\lx murnungu
+\pr ngal-
+\lc ngal-murnungu
+\ps n.
+\de 'The one who did it', eg. the murderer, the right one, person responsible (female).
+\cf namurnungu
+\nt DK: Split out na- and ngal- headwords for purposes of dictionary file parsing. 
+\dm 14/Sep/2018
+
+\lx murnungumulewarren
+\ps v.refl.
+\re confess
+\de Confess.
+\xv Nawalabik bibom Nangordyawok bidjurddjobkeng wanjh doweng. Ngalbadjan nuye Nangordyawok durndi kore namud ngalengarre benmarneyimeng "Nawalabik nganmarneyawbom". Wanjh Nawalabik bebmeng murnungumulewarrinj. Yimeng "Ngaye ngabom Nangordyawok". 
+\xe Nawalabik killed Nangordyawok, he chopped his neck and he died. Nangordyawok's mother went back to her family and told them "Nawalabik killed my son". Then Nawalabik appeared and confessed his deed, he said "I killed Nangordyawok". 
+\so Jill Nganjmirra
+\id DK
+\id JNg
+\dt 11/Aug/2019
+
 \lx murrng
 \pr kun-
 \lc kunmurrng
@@ -16680,6 +17261,16 @@ causes lightning by throwing the axes with great force).
 \dm 23/Aug/2018
 \dt 13/Oct/2003
 
+\lx Nawalabik
+\ps prop. n.
+\re mythological character
+\re Nawalabik
+\de Name of mythological character of Kamarrang subsection, in-law of fv:Ngurdyawok from well known Mayali myth.
+\sd mythology
+\dt 13/Oct/2003
+\dm 14/Sep/2018
+
+
 \lx nawarlah
 \ps n.
 \re stingray
@@ -17021,6 +17612,26 @@ causes lightning by throwing the axes with great force).
 \de Brother, sister, sibling (referent only).
 \sd kinship
 \dm 10/Mar/2019
+
+\lx ngadduhke
+\ps v.i.
+\re make trouble
+\re start a fight
+\de Make trouble, start a fight, pick a fight. 
+\sy yidngalke
+\xv Nungka wanjh ngadduhkeng ngadberre.
+\xe He started trying to pick a fight with us.
+\so Jill Nganjmirra
+\xv Ngad ngarrihni kore kudjurle ngarrihnguni mayh wanjh nakudji bininj kumwam ngadduhkeng ngadberre bu nganduy rowk.
+\xe We were just sitting in the shade eating some meat, when a man came up to us and started swearing at us and making trouble. 
+\so Jill Nganjmirra
+\xv Yuwn yire yimarnengadduhke nabuyika bininj.
+\xe Don’t you go start a fight with another man.
+\so Quoted in Etherington, Steve, ‘Learning to be Kunwinjku: Kunwinjku people discuss their pedagogy’, PhD Thesis, Charles Darwin University, 2006
+\nt DK: This is a common word in Steve's thesis, and Jill confirms it means the same thing as 'yidngalke', "he started making trouble for us". So "kumwam yidngalkeng ngadberre" would mean the same thing in the [xv] above. 
+\id DK
+\dt 19/Nov/2018
+\dm 05/Jun/2019
 
 \lx ngadman
 \ps refl. pron.
@@ -17666,11 +18277,49 @@ kunj karndakidj la karndakarndayh. Ngarridj yibengkan? Kakodbebuldi kahdi. Nakka
 \dt 16/Mar/2007
 \dm 14/Sep/2018
 
+\lx ngarrkmang
+\ps v.t.
+\re get lots of food or game
+\de Be successful in obtaining large numbers of hunted game, fish or fruit and vegetable foods. 
+\sy dudmang
+\xv Nawu daluhdaluk birriwam birringarrkmey manme. Wanjh birrimyirrurndi kured.
+\xe The women went and got lots of bush foods, then brought them home. 
+\so Jill Nganjmirra 
+\nt DK: Jill says 'dudmang' would mean the same thing. 
+\dt 06/May/2006
+\dm Sep/2019
+
 \lx ngarrku
 \ps poss. pron.
 \re us
 \de Us (you sing. and me), ours (for you and me).
 \dm 14/Sep/2018
+
+\lx ngarrnghmang
+\ps v.i.
+\re pass through
+\re take path
+\de Pass through, go through, take a particular path in order to come out somewhere else. E.g. Find a route through stone country with many dissected gorges and narrow passes.
+\xv Nakohbanj benmarneyimeng yawurrinj "Karrire manih karringarrnghmang". 
+\xe The old man told the young men "Let's take this path (to get there)".
+\so Jill Nganjmirra
+\xv Anbarrarn yika kabarrarnwarre marrek bale karriyime karringarrnghmang.
+\xe Some gorges are no good to walk through, sometimes the gorge comes to a dead end and we can't find a route through it.
+\so Kundedjnjenghmi
+\xv Ngurriderrehmen ba ngangarrnghmang.
+\xe Move aside so I can come through.
+\so Jill Nganjmirra
+\sn 2
+\re get through 
+\re get out of situation
+\de Get out of a situation, successfully get through a process and attain something etc. 
+\xv Yikukdjorlokkendanj, minj baleh yingarrnghmang.
+\xe You're stuck in that situation now, there's no getting out if it. 
+\so Jill Nganjmirra
+\uv Djnj, W, Kdj
+\nt DK: Jill described the sentence with the old man as "mulewani manbu manbolh (they were walking along the road through the bush, there was no other way to go out, so he said "We'll go through this road". "This is the way out". "we'll have to take this road".) She said it's not specific to rocky country/gorges, "manberrk warridj". "Ngurriderrehmen ba ngangarrnghmang" could be said for example if there was someone with an avoidance relation in the group. It seems to be W as well, and it's in the Kdj dictionary. Metaphorical uses seem to be fairly common in Etherington's thesis, and Jill said her example sentence "Yikukdjorlokkendanj, minj baleh yingarrnghmang" would be used when someone "kakarrme lot of problems", for example they married the wrong person and were stuck in that situation now. "You don't have a chance, you have to stay there one place." "You got stuck there. Kadjare kabebme, but he can't". Etherington examples are a bit harder to translate exactly, e.g. "Because bu kabirribawon school minj bedda mak kabirringarrhmang", but it seems like a similar idea. 
+\dt 13/Oct/2003
+\dm Oct/2019 
 
 \lx ngayawkme
 \ps v.t.
@@ -17703,6 +18352,33 @@ kunj karndakidj la karndakarndayh. Ngarridj yibengkan? Kakodbebuldi kahdi. Nakka
 \xe That's my own business!
 \dt 29/Dec/2007
 \dm 14/Sep/2018
+
+\lx ngayke
+\ps v.i.
+\sn 1
+\re daybreak
+\de Sunrise, daybreak.
+\sy barrhbun
+\xv Bu ngarrinan kinhkinh kambebme ngalbu ngalmimkimuk wanjh ngarriburrbun bu kamhngayke. 
+\xe When we see the Morning Star rise, we know that daybreak is coming. 
+\so Jill Nganjmirra
+\xv Bangaykeng ngurridolkka!
+\xe It's just before dawn, get out of bed!
+\so Kundedjnjenghmi
+\sn 2
+\va kodjngayke
+\re stay awake until dawn
+\de Stay awake at night, until dawn breaks.
+\sy barrhbun
+\xv Kabirrikodjngayke. 
+\xe They stay awake all night until daybreak. 
+\so Jill Nganjmirra
+\xv Karringayke, njale o dedjdjumbung karridadjdje?
+\xe What will we do, stay up till dawn or cut things short (and go to sleep).
+\uv I, E, Djnj, Kdj
+\nt DK: Jill notes that barrhbun is a synonym (or perhaps ur W?), and that kodjngayke is a [va]. It seems to be occasionally spelled 'ngayhke', but Jill doesn't recognise this pronunciation. 
+\dm 01/Sep/2019
+\dt 07/Jun/2014
 
 \lx ngehke
 \ps v.t.
@@ -17852,6 +18528,30 @@ kunj karndakidj la karndakarndayh. Ngarridj yibengkan? Kakodbebuldi kahdi. Nakka
 \xv Ngurrimngimen karrangrurrk.
 \xe Come in, the door's open.
 \dm 14/Sep/2018
+
+\lx ngimihwe
+\va ngimiwe
+\ps v.t.
+\sn 1
+\re insert
+\de Insert through a hole or opening. 
+\xv Yimngimiwemen!
+\xe Bring it through the hole.
+\sn 2
+\re put inside
+\re bring inside
+\de Bring inside, put inside, take inside (through the door of a building etc). 
+\xv Ngalkohbanj bimarneyimeng nawu wurdyaw "Yimray ngimihwe kururrk". 
+\xe The old woman said to the child "Come here, I'll take you inside". 
+\so Jill Nganjmirra
+\sn 3
+\re admit into
+\de Admit someone (to ceremony etc). 
+\xe “Bonj, wanjh, ngudda yikimuk. Ngundingimihwe.” Wanjh ngandingimihweng, la ngandibukkang.
+\xe “OK then, you’re a big man now, we’ll admit you.” So they admitted me (into the ceremony), and taught me.
+\so Quoted in Etherington, Steve, ‘Learning to be Kunwinjku: Kunwinjku people discuss their pedagogy’, PhD Thesis, Charles Darwin University, 2006 
+\nt DK: Jill says this always has a glottal, 'ngimihwe', but I can see you've transcribed it without in various places, so it's probably a variation. Jill confirms that the 'admit' [xv] is a normal and natural phrasing. 
+\dm Sep/2019
 
 \lx ngimowon
 \ps v.t.
@@ -18397,6 +19097,37 @@ bengkahbengkang?
 \id DK
 \dt 06/Mar/2017
 
+\lx njabke
+\va njebke
+\ps v.t.
+\re plop
+\re squirt
+\re dollop
+\re paint thickly
+\de Plop, squirt or dollop a viscous or wet substance onto a surface, paint on thickly.
+\xv Yinjabkemen!
+\xe Put on lots! [Of peanut butter, jam etc onto the toast]
+\so Jill Nganjmirra
+\xv Nakudji bininj bimarneyimeng nawu wurdyaw "Yimray ba delek barung bu njabke kore kukeb dja kuburrk ke". 
+\xe One man said to the child "Come here so I can paint you up with white ochre, I'm going to splatter it onto your face and body". 
+\so Jill Nganjmirra
+\xv Bikebnjebkeng.
+\xe He plopped it onto his face.
+\nt DK: Jill would say 'njabke'. Or is this a dialect difference? "Yinjabkemen - make the delek a bit wet... paint all over body, sprinkle kayime, paste".
+\dm 23/Jun/2019
+
+\lx njaknjakme
+\ps v.i.
+\re chatter
+\re jabber
+\de Chatter incessantly.
+\sy njakkurlme
+\xv Birriwern kabirrinjaknjakme kumekke kururrk.
+\xe There's a big crowd of people chattering away in there. 
+\so Jill Nganjmirra
+\nt DK: Jill said 'njakkurlme' was a synonym. The Gunbalanya club would be an example of "Birriwern kabirrinjaknjakme kumekke kururrk." according to Jill. 
+\dm 11/Aug/2019
+
 \lx njale
 \ps interrog.
 \re what
@@ -18559,6 +19290,18 @@ ngalngamed' etc. is used.
 \re sad
 \de Sad, upset. 
 \dm 14/Sep/2018
+
+\lx njirrke
+\ps v.t.
+\re hate
+\re avoid
+\de Hate someone, avoid talking to someone out of hatred.
+\sy njirrhmiwon
+\xv Kabinjirrke.
+\xe She hates her, she doesn't want to talk to her. 
+\so Jill Nganjmira
+\id DK, JNg
+\dt 28/Oct/2018
 
 \lx njokme
 \va ngokme
@@ -20599,6 +21342,19 @@ chain. Kunwinjku speakers refer to their variety by this label fv:Kunwinjku. Kun
 \xe Let's drag the old logs.
 \dm 14/Sep/2018
 
+\lx wodjorrhme
+\ps v.t.
+\re shake
+\de Shake something. 
+\sy djorrhme
+\xv Aa karrihrokan. Mahni bula kabolkwodjorrhme kadberre.  
+\xe Ahh, everything's moving. It's an earthquake [that's shaking the ground]. 
+\so Jill Nganjmirra
+\nt DK: Etherington has "wodjorrhmeng - shook something", and Talk about Health book lists it too. Jill tells a story about how dabborrabbolk used to test how bad an earthquake would be: "birrimangi kundulk manmirrhmak, dig a hole up to elbow, put their ear to the hole and feel if it was heavy or light. Ngabennang one time kore Madjinbardi."
+\id DK
+\id JNg
+\dt 11/Aug/2019
+
 \lx -woh
 \ps adv. pref.
 \sn 1
@@ -22552,6 +23308,33 @@ kuk.
 \xe Kune and Dangbon are neighbouring languages.
 \dm 14/Sep/2018
 
+\lx yirrk
+\pr kun-
+\lc kun-yirrk
+\ps n.
+\sn 1
+\re string bag
+\de String bag.
+\xv Nawu kunyirrk yiman kayime djerrh nayahwurd nawu korroko birrikani dabborrabbolk bu birriwarlbuni. Wanjh kore kunyirrk bedberre kahdahkendi nawu yiman kayime lawk, ngolin, dja kunyarl. 
+\xe 'Kunyirrk' is like a small string bag, that our ancestors used to take when they went hunting. In their string bags they would carry things like stone knives, beeswax and string. 
+\so Jill Nganjmirra
+\xv Kunyirrk kabernalkan.
+\xe She's carrying a string bag over her shoulder.
+\cf marlakka
+\cf djerrh
+\sn 2
+\re ceremonial tools
+\re ceremonial artefacts
+\de Artefacts used during ceremony, ceremonial tools that are kept in a string bag until the ceremony when they are taken out. 
+\xv Bu Kunabibi, Yabburlurrwa dja Mardayin kahyo, nawu dabborrabbolk bedberre wanjh yawuhyawurrinj kabindibukkan. Kaluk nawu dabborrabbolk kabindibengyolyolme bu kabindimarneyime "Yuwn bu ngurrikolke mahni kunyirrk ngadberre, wardi ngurridowen".
+\xe When there is a Kunabibi, Yabburlurrwa or Mardayin ceremony, the old people teach the young men. They instruct them by saying "Don't fool around with our ceremonial tools, or you might die". 
+\so Jill Nganjmirra
+\sd material_culture
+\nt DK: I understand from Jill that the ceremonial example sentence refers to the tools themselves, rather than the bag (probably in a similar way that we use 'toolbox' in English to imply the contents of the toolbox, set of skills etc). Jill translated 'kunyirrk' as "tools for ceremony". She says "bu on kayime ceremony, all the tools kabirribebbebke", then after the ceremony they put them back into the string bag. Perhaps it's a general way to refer to tools carried in a string bag. 
+\id DK
+\id JNg
+\dm Sep/2019
+
 \lx yirrke
 \pr kun-
 \ps n.
@@ -22742,6 +23525,30 @@ kuk.
 \nt DK: There is an entry [lx] yoyo, just making a W version. Also Kuninjku? MG- I think both are used in Kuninjku.
 \id DK
 \dt 20/Jan/2019
+
+\lx yorrke
+\ps v.t.
+\re gather a group
+\de Gather a group.
+\xv Bu ngarrbek ngarrikakyawani wanjh ngarriyorrkeyi duruk nawu birriburddjinomi dja birriburddjiburrbuni ngarrbek.
+\xe When we used to hunt echidnas at night, we would get together a pack of dogs that could smell out echnidnas and recognise their scent. 
+\so Jill Nganjmirra
+\xv Djilikuybi kawirlarrkngukdeng karrkad kurralk. Wanjh nawu wirlarrk kabehbebun yayaw kabebmerren wanjh ngalbadjan kabenyorrke ngalengarre yayaw kore manlabbarl manme kabenbukkan kabirringun.
+\xe Whistle ducks lay their eggs in the grass up away from the water. Then when the eggs hatch, the mother gathers the chicks together at the billabong and shows them what foods to eat. 
+\so Andrew Manakgu, Injalak Arts painting documentation
+\nt DK: Jill describes yorrke as "big mob dogs ngarrbenkani". Not sure if this word is restricted to describing animals, or if it's used for people as well. 
+\id DK
+\id JNg
+\dt 06/Jul/2019
+
+\lx yorrme
+\ps v.i.
+\re mass together in a group
+\de Mass together in a group.
+\xv Kayorryorrme kuluban.
+\xe The flying foxes are massing together.
+\dt 10/Jul/2005
+\dm 14/Sep/2018
 
 \lx yowayh
 \va yoweyh
