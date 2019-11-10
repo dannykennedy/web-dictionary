@@ -11,6 +11,19 @@
 \id DK, entered master file by MG
 \dt 13/Aug/2016
 
+\lx aba
+\ps interj.
+\re oh no
+\re no way
+\de Oh, oh no, the thing is, no way (conveys that the speaker is shocked or wants to contradict something that has been said).
+\xv "Aba, yaw kinga nganang. Marndi wurdyaw kayawbaye kadberre warreh," yimeng ngalbu Ngalwakadj bedberre.
+\xe “Oh, I saw a young crocodile. It might bite our kids” Ngalwakadj told them.
+\xv "Kandadju kundad dja ngamarrwedoweng." "Aba, minj won, ngaye mak ngamarrwedoweng."
+\xe "Give me a [turtle] leg, because I'm hungry” “No way. I can't give you any. I'm hungry too." 
+\so Manakgu, Andrew, ‘Bu Ngurriborlhme Kunwinjku: Learning Kunwinjku’, Kunwinjku Language Centre, Gunbalanya, 1994
+\id DK, entered master file by MG
+\dt 13/Aug/2016
+
 \lx adjbud
 \va wadjbud
 \ps n.
@@ -2956,7 +2969,7 @@ the Alligator Rivers region. 'Anbinik', the Kundedjnjenghmi/Kundjeyhmi version o
 \xe When we hunt animals like long-necked turtles and magpie geese, we don't cook them while the flames of the fire are high, we wait until the flames die down and the wood is broken down into hot coals, and that's when we cook them. 
 \so Jill Nganjmirra
 \xv Wanjh bu bolkkime karrihnan nawu karrkkanj, nungka nadjawonjbeh dja mak kadjaldolkan bu kakerrkmang yiman bu yimihyimi kerrkmahkerrkmangi mankoleh. Kaluk bu kunak kabirriwurlhke, nungka kare kore kunak dja kamang nawu mayh wolbu kaluk manbu kunak wanjh makkah minj kabimang bu karung, dja kadjalwohdolkan kakerrkbawon manbu manbirliwoldjen.
-\xv These days when we see a brown falcon, we say he's of the Jawoyn tribe, and he still flies around as if he were dodging spears. When people burn off the bush, he flies above the fire front catching insects, but the fire won't catch him because he can just jump and dodge the flames. 
+\xe These days when we see a brown falcon, we say he's of the Jawoyn tribe, and he still flies around as if he were dodging spears. When people burn off the bush, he flies above the fire front catching insects, but the fire won't catch him because he can just jump and dodge the flames. 
 \so Nganjmirra, Jill & Tildemann, Sonia, ‘Karrkanj Yimerranj’ in ‘Old Woman Emu and other Kunwinjku stories’, Batchelor Press, Batchelor, N.T, 2005, p. 90
 \nt DK: Kdj dictionary has 'kunwoldjen'. Jill always used 'manbirliwoldjen', but I didn't ask about alternatives, will ask and could be added in later. Jill confirms that there's the same tongue metaphor as in English here, 'yiman kundjen'. 
 \id DK
@@ -8909,11 +8922,11 @@ dry time has properly arrived. The seeds may be eaten raw.
 \xe The fire herds all the kangaroos together into a narrow place [where they can be speared]
 \xv Kunj kabarridjokkohmikan.
 \xe They herd the kangaroos into a narrow place. 
-\so Djnj
+\so Kundedjnjenghmi
 \xv Kunak kabandjokkohmikan kunj, kabandjokkome kabandjirrkkan kure
 bininj kabarridi kure kukebrok.
 \xe The fire herds the kangaroos together and presses them into a narrow place where there are people waiting ahead [to spear them]. 
-\so Djnj
+\so Kundedjnjenghmi
 \nt DK: Jill seemed more comfortable with "kabirridabdabke" as a general term, but then agreed with "Kunak kabendjokkohmikan kunj."
 \dm 11/Aug/2019
 
@@ -12413,7 +12426,7 @@ birrikilelh namekke.
 \re long thing
 \de Elongated winding shape, e.g. the body of a snake.
 \sy kunbardmo
-\lx Korodjardahmeng kunred kabolkngeyyo kore Manmoyi ngalengarre. Korroko dabborrabbolk birrimulewani bu ngalmekke ngalyod korodjardahmeng kumekke wanjh djang yimerranj. 
+\xv Korodjardahmeng kunred kabolkngeyyo kore Manmoyi ngalengarre. Korroko dabborrabbolk birrimulewani bu ngalmekke ngalyod korodjardahmeng kumekke wanjh djang yimerranj. 
 \xe Korodjardahmeng is the name of a place near Manmoyi. In the old days, our ancestors would tell the story of how the Rainbow Serpent got her body stuck there and became a sacred site. 
 \so Jill Nganjmirra
 \se korokuyengken
@@ -15359,10 +15372,11 @@ Namanjmiken kakanjkinje mankudji kunkanj bulikki bu wolewoleh kore Kunbalanja. I
 
 \lx marrabbi
 \ps n.
-\de Sand Palm.
+\re sand palm
+\de Sand Palm (<b>duwa</b> lect term).
 \sc Livistonia humilis
 \ee <b>duwa</b> lect term
-\uv yirridjdja =djendek, man-djandadj
+\uv yirridjdja= djendek, mandjandadj
 \sd plant
 \dt 06/May/2006
 \dm 14/Sep/2018
@@ -16809,8 +16823,8 @@ causes lightning by throwing the axes with great force).
 
 \lx murnungu
 \pr na-
-\lc na-murnungu
 \ps n.
+\re the man responsible
 \de 'The one who did it', eg. the murderer, the right one, person responsible (male).
 \cf ngalmurnungu
 \nt DK: Split out na- and ngal- headwords for purposes of dictionary file parsing. 
@@ -16818,8 +16832,8 @@ causes lightning by throwing the axes with great force).
 
 \lx murnungu
 \pr ngal-
-\lc ngal-murnungu
 \ps n.
+\re the woman responsible
 \de 'The one who did it', eg. the murderer, the right one, person responsible (female).
 \cf namurnungu
 \nt DK: Split out na- and ngal- headwords for purposes of dictionary file parsing. 
@@ -18534,7 +18548,7 @@ kunj karndakidj la karndakarndayh. Ngarridj yibengkan? Kakodbebuldi kahdi. Nakka
 \sn 3
 \re admit into
 \de Admit someone (to ceremony etc). 
-\xe “Bonj, wanjh, ngudda yikimuk. Ngundingimihwe.” Wanjh ngandingimihweng, la ngandibukkang.
+\xv “Bonj, wanjh, ngudda yikimuk. Ngundingimihwe.” Wanjh ngandingimihweng, la ngandibukkang.
 \xe “OK then, you’re a big man now, we’ll admit you.” So they admitted me (into the ceremony), and taught me.
 \so Quoted in Etherington, Steve, ‘Learning to be Kunwinjku: Kunwinjku people discuss their pedagogy’, PhD Thesis, Charles Darwin University, 2006 
 \nt DK: Jill says this always has a glottal, 'ngimihwe', but I can see you've transcribed it without in various places, so it's probably a variation. Jill confirms that the 'admit' [xv] is a normal and natural phrasing. 
