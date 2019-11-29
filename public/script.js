@@ -1,3 +1,10 @@
+var youtubeVideos = {
+    ngarrbek: ["UDTDC0g7lhc"],
+    kurdukadji: ["OLN4F3TAIlI"]
+}
+
+
+
 function fetchAudio() {
     var sound = document.createElement("audio");
     sound.controls = "controls";
@@ -7,6 +14,35 @@ function fetchAudio() {
     this.style.display = "none";
     sound.play();
 }
+
+function embedVideo(headword, cardButton) {
+    var videoSources = youtubeVideos[headword];
+    console.log("headword", headword);
+    console.log("videos", videoSources);
+    console.log(cardButton);
+    if (!videoSources) {
+        return;
+    }
+    var mediaDiv = document.createElement("div");
+    mediaDiv.classList = "media-item resp-container";
+    for (var i = 0; i < videoSources.length; i++) {
+        var frame = document.createElement("iframe");
+//        frame.setAttribute("width", "560");
+//        frame.setAttribute("height", "315");
+        frame.setAttribute("src", "https://www.youtube.com/embed/" + videoSources[i]);
+        frame.setAttribute("frameborder", "0");
+        frame.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture");
+        frame.setAttribute('allowFullScreen', '');
+        frame.classList = "resp-iframe";
+        mediaDiv.appendChild(frame);
+    }
+    var contentArea = cardButton.parentElement.getElementsByClassName("content")[0];
+    if (contentArea){
+        contentArea.appendChild(mediaDiv);
+    }
+}
+
+
 
 // Add "fetchAudio"
 var coll = document.getElementsByClassName("audio-button");
@@ -19,10 +55,10 @@ for (i = 0; i < coll.length; i++) {
 function processUrl() {
     //Open card that we're navigating to.
     if (window.location.hash) {
-        const wordToOpen = window.location.hash.split("#")[1];
+        var wordToOpen = window.location.hash.split("#")[1];
         console.log(wordToOpen);
 
-        let card = document.getElementById(wordToOpen);
+        var card = document.getElementById(wordToOpen);
 
         if (card) {
             //Need to pad the top, otherwise navbar will hide them
@@ -35,7 +71,7 @@ function processUrl() {
 }
 
 // Remove padding from hash elements
-window.onscroll = function() {
+window.onscroll = function () {
     if (document.getElementsByClassName("padded")) {
         if (document.getElementsByClassName("padded")[0]) {
             document.getElementsByClassName("padded")[0].style.paddingTop =
@@ -62,6 +98,10 @@ for (i = 0; i < coll.length; i++) {
 }
 
 function openCard() {
+    
+    var headword = this.getElementsByClassName("lx")[0].innerHTML;
+    embedVideo(headword, this);
+    
     this.classList.toggle("active");
     var content = this.nextElementSibling;
 
@@ -136,17 +176,17 @@ var btn = document.getElementById("help");
 var span = document.getElementsByClassName("close")[0];
 
 // When the user clicks on the button, open the modal
-btn.onclick = function() {
+btn.onclick = function () {
     modal.style.display = "block";
 };
 
 // When the user clicks on <span> (x), close the modal
-span.onclick = function() {
+span.onclick = function () {
     modal.style.display = "none";
 };
 
 // When the user clicks anywhere outside of the modal, close it
-window.onclick = function(event) {
+window.onclick = function (event) {
     if (event.target == modal) {
         modal.style.display = "none";
     }
