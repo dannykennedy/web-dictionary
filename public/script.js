@@ -23,9 +23,19 @@ var youtubeVideos = {
     bobbidj: ["B99MHf4SAfY"],
     kawk: ["Is-qGjF02_E"],
     adjbud: ["rmLVxRS_Sxs"],
+    delek: ["tVkLnvX0SFs"],
+    djamun: ["YOVNtmqai6g"],
+    kaluk: ["e-4_pR1ZdTs"],
+    kunmadj: ["na8Wxv3hQ2c"],
+    mandudjmi: ["gDlWqvLGMzU"],
     manme: ["h_y9nnPOz6A"],
+    mawah: ["eY17eNqrDKQ"],
+    Nawalabik: ["AmpQV-m8CgA"],
+    ngalmangiyi: ["YvDSKag58p0"],
+    ngun: ["-g9VEeWgHK4"],
     norne: ["zVsqfFa7VyY"],
-    ngardderrhwo: ["AYGd4yqAEmI"]
+    ngardderrhwo: ["AYGd4yqAEmI"],
+    wirlarrk: ["cHrA6ADAIvg"]
 }
 
 function fetchAudio() {
