@@ -20,6 +20,7 @@ var youtubeVideos = {
     nabiwo: ["B99MHf4SAfY"],
     bobbidj: ["B99MHf4SAfY"],
     kawk: ["Is-qGjF02_E"],
+    adjbud: ["v=rmLVxRS_Sxs"]
 }
 
 
@@ -52,7 +53,7 @@ function embedVideo(headword, cardButton) {
         mediaDiv.appendChild(frame);
     }
     var contentArea = cardButton.parentElement.getElementsByClassName("content")[0];
-    if (contentArea){
+    if (contentArea) {
         contentArea.appendChild(mediaDiv);
     }
 }
@@ -113,10 +114,10 @@ for (i = 0; i < coll.length; i++) {
 }
 
 function openCard() {
-    
+
     var headword = this.getElementsByClassName("lx")[0].innerHTML;
     embedVideo(headword, this);
-    
+
     this.classList.toggle("active");
     var content = this.nextElementSibling;
 
