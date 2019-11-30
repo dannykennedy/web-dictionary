@@ -1,6 +1,19 @@
 var youtubeVideos = {
     ngarrbek: ["UDTDC0g7lhc"],
-    kurdukadji: ["OLN4F3TAIlI"]
+    kurdukadji: ["OLN4F3TAIlI"],
+    manmorlak: ["ef9BTppiNOs"],
+    kudjewk: ["s8f-E6MX_u0"],
+    mankolhde: ["s8f-E6MX_u0"],
+    Manginburru: ["oAnYGo9tM68"],
+    kinga: ["yYZvaEVQ5Jo"],
+    kinje: ["jUndhLHRMxk"],
+    rdardda: ["SVncU6il89M"],
+    nan: ["-9uBU6M4eb4"],
+    duruk: ["-9uBU6M4eb4"],
+    re: ["mBw-vGTiiAs"],
+    kokok: ["mBw-vGTiiAs"],
+    dja: ["2jFWd9UQRkY"],
+    wurdurd: ["7k8t2kt0uY8"]
 }
 
 
@@ -17,9 +30,6 @@ function fetchAudio() {
 
 function embedVideo(headword, cardButton) {
     var videoSources = youtubeVideos[headword];
-    console.log("headword", headword);
-    console.log("videos", videoSources);
-    console.log(cardButton);
     if (!videoSources) {
         return;
     }
@@ -27,8 +37,6 @@ function embedVideo(headword, cardButton) {
     mediaDiv.classList = "media-item resp-container";
     for (var i = 0; i < videoSources.length; i++) {
         var frame = document.createElement("iframe");
-//        frame.setAttribute("width", "560");
-//        frame.setAttribute("height", "315");
         frame.setAttribute("src", "https://www.youtube.com/embed/" + videoSources[i]);
         frame.setAttribute("frameborder", "0");
         frame.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture");
