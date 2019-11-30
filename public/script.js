@@ -1,4 +1,5 @@
 var youtubeVideos = {
+    barrk: ["fdT36gy5Iwk"],
     ngarrbek: ["UDTDC0g7lhc"],
     kurdukadji: ["OLN4F3TAIlI"],
     manmorlak: ["ef9BTppiNOs"],
@@ -21,7 +22,9 @@ var youtubeVideos = {
     bobbidj: ["B99MHf4SAfY"],
     kawk: ["Is-qGjF02_E"],
     adjbud: ["rmLVxRS_Sxs"],
-    manme: ["h_y9nnPOz6A"]
+    manme: ["h_y9nnPOz6A"],
+    norne: ["zVsqfFa7VyY"],
+    ngardderrhwo: ["AYGd4yqAEmI"]
 }
 
 function fetchAudio() {
