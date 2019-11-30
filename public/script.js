@@ -29,6 +29,8 @@ var youtubeVideos = {
     djenj: ["cULr5HWMB7E"],
     kaluk: ["e-4_pR1ZdTs"],
     kunmadj: ["na8Wxv3hQ2c"],
+    kunj: ["kKmISBjkl_o"],
+    kunkerri: ["IecCxA2_riE"],
     mandudjmi: ["gDlWqvLGMzU"],
     manme: ["h_y9nnPOz6A"],
     mawah: ["eY17eNqrDKQ"],
