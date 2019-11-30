@@ -20,10 +20,9 @@ var youtubeVideos = {
     nabiwo: ["B99MHf4SAfY"],
     bobbidj: ["B99MHf4SAfY"],
     kawk: ["Is-qGjF02_E"],
-    adjbud: ["rmLVxRS_Sxs"]
+    adjbud: ["rmLVxRS_Sxs"],
+    manme: ["h_y9nnPOz6A"]
 }
-
-
 
 function fetchAudio() {
     var sound = document.createElement("audio");
