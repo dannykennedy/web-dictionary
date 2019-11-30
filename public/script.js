@@ -18,7 +18,8 @@ var youtubeVideos = {
     bonome: ["B2FD6qgXyTM"],
     nawaran: ["CUg-fwXSdmc"],
     nabiwo: ["B99MHf4SAfY"],
-    bobbidj: ["B99MHf4SAfY"]
+    bobbidj: ["B99MHf4SAfY"],
+    kawk: ["Is-qGjF02_E"],
 }
 
 
@@ -41,6 +42,7 @@ function embedVideo(headword, cardButton) {
     var mediaDiv = document.createElement("div");
     mediaDiv.classList = "media-item resp-container";
     for (var i = 0; i < videoSources.length; i++) {
+        console.log(videoSources[i]);
         var frame = document.createElement("iframe");
         frame.setAttribute("src", "https://www.youtube.com/embed/" + videoSources[i]);
         frame.setAttribute("frameborder", "0");
