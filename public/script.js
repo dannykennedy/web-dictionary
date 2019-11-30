@@ -13,7 +13,12 @@ var youtubeVideos = {
     re: ["mBw-vGTiiAs"],
     kokok: ["mBw-vGTiiAs"],
     dja: ["2jFWd9UQRkY"],
-    wurdurd: ["7k8t2kt0uY8"]
+    wurdurd: ["7k8t2kt0uY8"],
+    kakkak: ["oDFW5c0eynQ"],
+    bonome: ["B2FD6qgXyTM"],
+    nawaran: ["CUg-fwXSdmc"],
+    nabiwo: ["B99MHf4SAfY"],
+    bobbidj: ["B99MHf4SAfY"]
 }
 
 
