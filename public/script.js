@@ -20,7 +20,7 @@ var youtubeVideos = {
     nabiwo: ["B99MHf4SAfY"],
     bobbidj: ["B99MHf4SAfY"],
     kawk: ["Is-qGjF02_E"],
-    adjbud: ["v=rmLVxRS_Sxs"]
+    adjbud: ["rmLVxRS_Sxs"]
 }
 
 
