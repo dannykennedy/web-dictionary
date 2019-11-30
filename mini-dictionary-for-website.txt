@@ -10878,6 +10878,7 @@ mandulkbalabala, kabirrikadjedme rowk.
 \de Rufous Night Heron and also the sound made by this bird. 
 \xv Awurd, mayh namekke ngankodjborledke Kawk Kabim Djang
 \xe So dear to me is that bird, its call reminds me of the rufous night heron dreaming at Kawk Kabim (a place).
+\so Nabarlek Band, 'Brown Bird', from the album 'Manmoyi Radio', 2007
 \uv W
 \ur I= durukmud, E= karkkarawk
 \sc Nycticorax caledonicus
@@ -11967,8 +11968,8 @@ birrikilelh namekke.
 \re skin name (male)
 \re subsection (male) of fv:yirridjdja patri-moiety and fv:ngarradjku matri-moiety
 \de Male subsection or 'skin' name of fv:yirridjdja patri-moiety and fv:ngarradjku matri-moiety.
-\xe Kodjok! Kodjok. Oho kadedjbayeng Kodjok! Kodjok, narrarnkolo.
-\xv Kodjok! Kodjok. Oh for goodness sake, that dear man, it’s Kodjok! Kodjok of the Darnkolo clan. 
+\xv Kodjok! Kodjok. Oho kadedjbayeng Kodjok! Kodjok, narrarnkolo.
+\xe Kodjok! Kodjok. Oh for goodness sake, that dear man, it’s Kodjok! Kodjok of the Darnkolo clan. 
 \so Bardayal Nadjamerrek [while looking at old Wubarr ceremony film footage], quoted in Neale, Margo & Thomas, Martin (eds), ‘Exploring the Legacy of the 1948 Arnhem Land Expedition’, ANU Press, Canberra, 2011
 \sd kinship
 \uv I, E, Djnj
