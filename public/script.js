@@ -42,7 +42,8 @@ var youtubeVideos = {
     njalehnjale: ["UCliPHwJbio"],
     norne: ["zVsqfFa7VyY"],
     ngardderrhwo: ["AYGd4yqAEmI"],
-    wirlarrk: ["cHrA6ADAIvg"]
+    wirlarrk: ["cHrA6ADAIvg"],
+    yuwn: ["UCliPHwJbio"],
 }
 
 function fetchAudio() {
