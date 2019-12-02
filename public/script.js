@@ -27,6 +27,8 @@ var youtubeVideos = {
     baleh: ["3PMhYgLNCR0"],
     bang: ["UCliPHwJbio"],
     bangkerreng: ["TWQYlrxnVs0"],
+    baye: ["8rKQDUetQLQ"],
+    bobo: ["btPBmE6zWHY"],
     borrkke: ["PRuAXIukjT0"],
     daluk: ["iZOHcpzzbAI"],
     delek: ["tVkLnvX0SFs"],
@@ -47,6 +49,7 @@ var youtubeVideos = {
     norne: ["zVsqfFa7VyY"],
     ngardderrhwo: ["AYGd4yqAEmI"],
     wirlarrk: ["cHrA6ADAIvg"],
+    wurdyaw: ["xpTJydky31I"],
     yuwn: ["UCliPHwJbio"],
 }
 // other potential videos:
