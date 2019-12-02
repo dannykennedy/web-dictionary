@@ -20,16 +20,20 @@ var youtubeVideos = {
     bonome: ["B2FD6qgXyTM"],
     nawaran: ["CUg-fwXSdmc"],
     nabiwo: ["B99MHf4SAfY"],
+    bininj: ["PRuAXIukjT0"],
     bobbidj: ["B99MHf4SAfY"],
     kawk: ["Is-qGjF02_E"],
     adjbud: ["rmLVxRS_Sxs"],
     baleh: ["3PMhYgLNCR0"],
     bang: ["UCliPHwJbio"],
     bangkerreng: ["TWQYlrxnVs0"],
+    borrkke: ["PRuAXIukjT0"],
+    daluk: ["iZOHcpzzbAI"],
     delek: ["tVkLnvX0SFs"],
     djenj: ["cULr5HWMB7E"],
     kaluk: ["e-4_pR1ZdTs"],
     karrme: ["UCliPHwJbio"],
+    kunborrk: ["PRuAXIukjT0"],
     kunmadj: ["na8Wxv3hQ2c"],
     kunj: ["kKmISBjkl_o"],
     kunkerri: ["IecCxA2_riE"],
@@ -45,6 +49,8 @@ var youtubeVideos = {
     wirlarrk: ["cHrA6ADAIvg"],
     yuwn: ["UCliPHwJbio"],
 }
+// other potential videos:
+// https://www.youtube.com/watch?v=mvot4Bwi4Jg
 
 function fetchAudio() {
     var sound = document.createElement("audio");
