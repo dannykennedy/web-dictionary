@@ -2,6 +2,7 @@ var youtubeVideos = {
     barrk: ["fdT36gy5Iwk"],
     dilebang: ["LLf6Ww3DOZg"],
     ngarrbek: ["UDTDC0g7lhc"],
+    kukku: ["bR1eFi3AZJE?start=210"],
     kurdukadji: ["OLN4F3TAIlI"],
     manmorlak: ["ef9BTppiNOs"],
     kudjewk: ["s8f-E6MX_u0"],
@@ -55,20 +56,8 @@ var youtubeVideos = {
     nuk: ["U18WbIbQKSA"],
     wirlarrk: ["cHrA6ADAIvg"],
     wurdyaw: ["xpTJydky31I"],
-    yuwn: ["UCliPHwJbio"]
-}
-// other potential videos:
-// https://www.youtube.com/watch?v=mvot4Bwi4Jg
-// https://www.youtube.com/watch?v=SNXVi1zdub0
-
-function fetchAudio() {
-    var sound = document.createElement("audio");
-    sound.controls = "controls";
-    sound.src = this.getAttribute("data-src");
-    sound.type = "audio/mpeg";
-    this.parentElement.appendChild(sound);
-    this.style.display = "none";
-    sound.play();
+    yuwn: ["UCliPHwJbio"],
+    
 }
 
 var vimeoVideos = {
@@ -84,6 +73,19 @@ var vimeoVideos = {
     rongmang: ["90834965"],
     rarrk: ["100871631"],
     ngalwakadj: ["180011184"]
+}
+// other potential videos:
+// https://www.youtube.com/watch?v=mvot4Bwi4Jg
+// https://www.youtube.com/watch?v=SNXVi1zdub0
+
+function fetchAudio() {
+    var sound = document.createElement("audio");
+    sound.controls = "controls";
+    sound.src = this.getAttribute("data-src");
+    sound.type = "audio/mpeg";
+    this.parentElement.appendChild(sound);
+    this.style.display = "none";
+    sound.play();
 }
 
 function embedVideo(headword, cardButton) {
