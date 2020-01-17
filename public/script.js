@@ -55,7 +55,7 @@ var youtubeVideos = {
     nuk: ["U18WbIbQKSA"],
     wirlarrk: ["cHrA6ADAIvg"],
     wurdyaw: ["xpTJydky31I"],
-    yuwn: ["UCliPHwJbio"],
+    yuwn: ["UCliPHwJbio"]
 }
 // other potential videos:
 // https://www.youtube.com/watch?v=mvot4Bwi4Jg
@@ -71,17 +71,40 @@ function fetchAudio() {
     sound.play();
 }
 
+var vimeoVideos = {
+    manngukmanj: ["94624139"],
+    mandjedj: ["62984950"],
+    mandjungkurrk: ["62984950"],
+    burdebme: ["205979348"],
+    kunak: ["205979348"],
+    kunngobarn: ["160059928"],
+    dowen: ["105725482"],
+    ngalwalngurru: ["49297350"],
+    bim: ["49526055"],
+    bukirri: ["49526055"],
+    rongmang: ["90834965"],
+    rarrk: ["100871631"],
+    ngalwakadj: ["180011184"]
+}
+
 function embedVideo(headword, cardButton) {
-    var videoSources = youtubeVideos[headword];
-    if (!videoSources) {
+    var baseUrl, videoSources;
+    if (youtubeVideos[headword]){
+        baseUrl = "https://www.youtube.com/embed/";
+        videoSources = youtubeVideos[headword];
+    } else if (vimeoVideos[headword]){
+        baseUrl = "https://player.vimeo.com/video/";
+        videoSources = vimeoVideos[headword];
+    } else {
         return;
     }
+
     var mediaDiv = document.createElement("div");
     mediaDiv.classList = "media-item resp-container";
     for (var i = 0; i < videoSources.length; i++) {
         console.log(videoSources[i]);
         var frame = document.createElement("iframe");
-        frame.setAttribute("src", "https://www.youtube.com/embed/" + videoSources[i]);
+        frame.setAttribute("src", baseUrl + videoSources[i]);
         frame.setAttribute("frameborder", "0");
         frame.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture");
         frame.setAttribute('allowFullScreen', '');
