@@ -79,9 +79,8 @@ var vimeoVideos = {
     kunak: ["205979348"],
     kunngobarn: ["160059928"],
     dowen: ["105725482"],
-    ngalwalngurru: ["49297350"],
     bim: ["49526055"],
-    bukirri: ["49526055"],
+    bukirri: ["92009110"],
     rongmang: ["90834965"],
     rarrk: ["100871631"],
     ngalwakadj: ["180011184"]
