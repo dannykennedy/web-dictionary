@@ -12282,13 +12282,14 @@ birrikilelh namekke.
 
 \lx konjdja
 \ps n.
-\re red ant bed
-\de Red ant bed.
+\re red termite mound
+\de Termite mounds in country where the soil is red thus the mounds are also reddish in colour.
 \sy kambe
-\uv I,E
+\uv I,E?
 \ur W= kunboy
-\nt DK: Is this different from a termite mound? Jill says this is a 'Kune' word for kunboy, "Konjdja makka kunboy". 
-\dm 01/Feb/2020
+\sd insect
+\nt DK: Jill says this is a 'Kune' word for kunboy, "Konjdja makka kunboy". 
+\dt 01/Feb/2020
 
 \lx konjkonj
 \ps n.
