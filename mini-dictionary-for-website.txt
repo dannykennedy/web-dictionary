@@ -12280,6 +12280,16 @@ birrikilelh namekke.
 \dt 19/Jun/2018
 \dm 15/Dec/2018
 
+\lx konjdja
+\ps n.
+\re red ant bed
+\de Red ant bed.
+\sy kambe
+\uv I,E
+\ur W= kunboy
+\nt DK: Is this different from a termite mound? Jill says this is a 'Kune' word for kunboy, "Konjdja makka kunboy". 
+\dm 01/Feb/2020
+
 \lx konjkonj
 \ps n.
 \re young catfish
