@@ -350,6 +350,32 @@ University of Melbourne, Melbourne.
 \id DK
 \dt 01/May/2017
 
+\lx badjdjukkali
+\ps n.
+\re drum
+\de Drum (metal container).
+\xv Manbu mannjam makka mankuyeng birridjirridjbuni kore kurrula birridjobdjobkeyi birrikinjeyi kore banikkin nakimuk badjdjukkali.
+\xe The intestines (of the sea turtle) are very long, people used to wash them in the salt water, then chop them up and cook them in a large drum.
+\so Andrew Manakgu, Injalak Arts painting documentation. 
+\et From a compound of Makassarese fi:pating ‘chest case’ and fi:kalling ’tin can’.
+\nt DK: I don’t remember this word, but Andrew uses it twice in different stories. The other is to do with pandanus dyeing: “Kabirriyirrme rowk kabirrimang drum badjdjukkali nawu nakimuk kabirrikinje mandjurndum dorrengh kabirrikinje yika widilwidil dorrengh”
+\id DK
+\dt 04/Mar/2018
+
+\lx badjubadju
+\ps n.
+\re shirt
+\de Shirt.
+\xv Nawu kunmadj ngarringeybun badjubadju nawu kaddumkah kabirridjongburren.
+\xe The piece of clothing that we call 'badjubadju' (a shirt) is something people wear on their upper body. 
+\so Jill Nganjmirra
+\uv I
+\un This word is becoming obsolete and is only used by some Kuninjku speakers.
+\bw from Makassarese fi:bajubaju, 'men's short-sleeved shirt, jacket.'
+\nt DK: Etherington also lists this word.
+\dt 06/Oct/2007
+\dm 14/Oct/2019
+
 \lx bakke
 \ps v.t.
 \sn 1
@@ -490,6 +516,17 @@ roast [the meat]. It was the elder brother [who did this].
 \sy kunbinjbalak, kunmikme
 \dt 08/Oct/2007
 \dm 15/Dec/2018
+
+\lx balakbun
+\ps v.t.
+\re give daughter in marriage
+\de Give daughter in marriage.
+\sy berrebbun
+\xv Ngalkurrng nganbalakbun. 'Ngayi won daluk,' kayime.
+\xe (My) cousin (MMBDD) will give me her daughter in marriage. She'll say, 'I'll give the girl to you.'
+\nt DK: Is this the same as 'berrebbun'? Etherington thesis has 'Most of them know to which male she has been “promised” (balakbom) as future wife, and the girl may initiate a challenge to that arrangement either passively or actively.'
+\dt 07/Oct/2007
+\dm 05/Jun/2019
 
 \lx balanda
 \ps n.
@@ -1784,6 +1821,19 @@ or exclusively and 'in contrast'.
 \sd reptile/amphibian
 \dt 06/May/2006
 
+\lx belewon
+\ps v.t.
+\sn 1
+\re whiten
+\de Make something white, whiten.
+\sn 2
+\re clean
+\de Make something clean or clear, remove dirt from something.   
+\xv Mak bu kadjalbuleyo munguyh, wanjh kunmayorrk kamre mankimuk, kabuleworlhme rowk bu kabolkbelewon. 
+\xe When there's ash lying on the ground for a while, a big wind will come and blow it away and clean up the area. 
+\so Jill Nganjmirra
+\dm 14/Oct/2019
+
 \lx beleyerrkan
 \ps v.i.
 \re become numb
@@ -2886,6 +2936,24 @@ the Alligator Rivers region. 'Anbinik', the Kundedjnjenghmi/Kundjeyhmi version o
 \dt 09/Oct/2007
 \dm 14/Oct/2018
 
+\lx birdubbirdu
+\pr man-
+\ps n.
+\re fi:Melaleuca_nervosa
+\de Species of Melaleuca which includes the water tree fv:djidjerok. Water was obtained from one variety of this tree in times of drought by breaking open the side of the tree with an axe.
+\sy mandjinh
+\sc Melaleuca nervosa
+\xv Bu ngarrire manberrk ngarrinan manbu kundulk kadulkngeyyo manbirdubbirdu. Kawohdulkdjinh. Ngarridulklowkmang wanjh kukku kambobebme bu ngarribongun. 
+\xe When we go walking in the bush, we see Melaleuca nervosa trees. Where we see a lump partway up the tree, we peel off the bark and water comes out that we can drink. 
+\so Jill Nganjmirra
+\uv I,W
+\ur Djnj= anbirdubbirdu, ankurlkurlh
+\sd plant
+\p Melaleuca_nervosaTREE.JPG, Melaleuca_nervosaFLOWER.JPG
+\nt DK: I've split out the an- and man- entries into different headwords. They both have example sentences. An- entry is in the working file. Jill explained that 'mandjinh' was another way of saying manbirdubbirdu, because of the water filled-hump on the tree. I've added this sense to mandjinh in the working file. 
+\dt 23/Jun/2007
+\dm 14/Oct/2019
+
 \lx birl
 \pr na-
 \ps n.
@@ -3081,6 +3149,15 @@ the plateau which is dominated more by open savanna forest.
 \nt DK: I remember the Injalak cleaners using this word when they swept an area as well. 
 \dm 15/Dec/2018
 
+\lx Birrirddak
+\ps place n.
+\re place name in Birrirddak Creek region \de Riverine savanna area to the east of where the Nabarlek road crosses Birraduk [Birrirddak] Creek and leading southeast to the valley entrance. A creek flows through the area, surrounded by sandstone outliers. It has significance as an Aboriginal walking route (fv:Bininj_manbolh) as well as being a camping and fishing area. The topographic map place name of ‘Birraduk Creek’ is derived from Birrirddak.
+\xv …en Kabo Kaworrkdjubmirri, kahre ngamed kore Djimerre ya. Kuredkuken arriyongoyoy. Ngalengman kanjdji kadjale. Koreh bukka manberrk manekke kaberrkyirriyo makka Birrirddak, konda kakarri, kawukkarri nanu Birrirddak.
+\xe …and Kabo Kaworrkdjubmirri which goes on to Djimerre, yeah. We camped in these important camping places. Downstream the sites continue. But in the open savanna area, where all the savanna forest is located, that’s Birrirddak, to the west (of the previously mentioned sites). Birrirddak is to the west (of Kabo Kaworrkdjubmirri and Djimerre).
+\so Kundedjnjenghmi
+\sd placename
+\dt 13/Jun/2015
+
 \lx birrkala
 \ps n.
 \re sacred boomerangs
@@ -3140,6 +3217,21 @@ the plateau which is dominated more by open savanna forest.
 \dt 20/Jan/2018
 \dm 27/Jul/2019
 
+\lx birrmurlu
+\pr man-
+\ps n.
+\re spear, shovel spear
+\de Shovel spear type with a long stone blade for the head. These may be the predecessors of the famous ‘shovel-nosed’ spears of Arnhem Land which have heads made of iron or other metal originally obtained from the Macassans. The stone blade is attached to the shaft via a socket made of fibre string ironwood resin and beeswax.
+\xv Manu manbirrmurlu makka kunwardde birridongi nawu dabborrabbolk birrimarnbuni manmirrhmak wanjh birridjarlkkenami kore mankole bu birriyami kunj. 
+\xe To make ‘manbirrmurlu’ type spears, people used to strike stones to make sharp stone flakes, then attach them to spear shafts in order to hunt kangaroos. 
+\so Jill Njanjmirra
+\uv I,W
+\ur Kdj, Djnj = anbirrmurlu
+\nt [xv] Added DK. An- and man- entries separated for dictionary. 
+\id MG
+\id JNg
+\dm 14/Oct/2019
+
 \lx biwudj
 \ps n.
 \sn 1
@@ -3191,6 +3283,17 @@ the plateau which is dominated more by open savanna forest.
 \pdn kk= namawul
 \dt 06/May/2006
 \dm 14/Sep/2018
+
+\lx bobele
+\pr man-
+\ps n.
+\re clear water
+\re spring water
+\de Spring water, clear water.
+\xv Bu korroko dabborrabbolk birringadkarungi birribongalkeyi kanjdji kore kurorre, wanjh birrinani bu manboburlerri wanjh kunngobarn birrimangi birridjuhkeyi wanjh bobelemeninj bu manbobele wanjh ngarribonguni.
+\xe In the old days when our ancestors used to dig wells to find water under the ground, if they saw that the water was dirty then they would gather some pandanus leaves and put them into the water. Then the water would become clear (the dirt would sink to the bottom) and we could drink the clear water. 
+\so Jill Nganjmirra
+\dm 14/Oct/2019
 
 \lx bobidbun
 \ps v.i.
@@ -3595,6 +3698,20 @@ the plateau which is dominated more by open savanna forest.
 \xe There is a little girl from a Jawoyn clan / who left her country / And who has stayed for a long time on Manginburru land
 \so Wildflower Band, ‘Ngaldjawonj ‘The Jawoyn Girl’’, from the Album ‘Maningburru Bininj’, Skinnyfish Music, 2009 
 \dm 28/Oct/2018
+
+\lx bolkmang
+\ps v.t.
+\re reach a place
+\de Reach a place, get to a place. 
+\xv Bu ngabolkmang kured ngambun ke. 
+\xe When I get home, I'll call you. 
+\so Jill Nganjmirra
+\xv Bu benebolkmey kumekke kunred fi:Nitmiluk beneyibmeng kanjdji kurorre dja benebawong manbu manlabbarl kahlabbarlyo kore kanjdji kabenehyo kumekke wanjh ngalbu Ngalyod bokenh kabenehyo munguyh kore manlabbarl.
+\xe When they reached Nitmiluk, they sank down into the earth and left behind a waterhole there. They're still there underneath the water, those two Rainbow Serpents are still there in the waterhole.
+\so Andrew Manakgu, Injalak Arts painting documentation
+\id DK
+\id JNg
+\dt 14/Oct/2019
 
 \lx bolknahnan
 \ps v.t.
@@ -4424,6 +4541,23 @@ this). They flew up into the sky and they left her on the ground to walk around.
 \dt 03/May/2017
 \dm 28/Oct/2018
 
+\lx buled
+\pr man-
+\ps n.
+\sd plant
+\re fi:Triglochin_dubia
+\de Aquatic grass-like herb, with small edible reddish tuber. Extracted from clayish soils by hand and with digging sticks by women. The many small tubers are washed and roasted lightly before eating. They have a crunchy texture when eaten.
+\sc Triglochin dubia
+\xv Manwern manbu manme ngarriburrbun manwern manme manbu minj ngarrikukngun yiman karrbarda mankinjdjek mankodjbang manbuled mankongkong dja manwern manbu minj ngarrikukngun. Manwern manme ngarriwilkdeng. Badjdjo dja mankurladj makka ngarrikukngun.
+\xe We know lots of types of vegetables, there are lots of vegetables which we don’t eat raw, like long yams, cheeky yams, water peanuts, fi:Triglochin_dubia and bush potatoes. We cook lots of vegetables in hot coals. fi:Brachystelma_glabriflorum and spike rush corms are two vegetable foods which we eat raw.
+\so Andrew Manakgu, Injalak Arts painting documentation
+\uv W
+\ur I= manbidwok
+\nt Etherington has it with two l’s, manbulled-vine with edible fruit. I am getting the definition from the Kdj version of [lx] manbidwok in this dictionary. It seems to mesh with Andrew’s [xv] though, as well as Jill’s description “kore mankabo… manrakelkuyeng… ngarrimang bu yiman bangkerreng kayimerran.”
+\id DK
+\dt 17/Apr/2017
+\dm 14/Oct/2019
+
 \lx burlerri
 \ps adj.
 \re black
@@ -4573,6 +4707,20 @@ this). They flew up into the sky and they left her on the ground to walk around.
 \so Quoted in Etherington, Steve, ‘Learning to be Kunwinjku: Kunwinjku people discuss their pedagogy’, PhD Thesis, Charles Darwin University, 2006
 \nt DK: I would say this is also transitive? E.g. Etherington thesis has "Ngarriburnbuni school".
 \dm 28/Oct/2018
+
+\lx bungkurl
+\va bungkul
+\ps n.
+\re dance style, music style
+\de Genre of dance and music associated with people living to the south-east and east of the Arnhem Land plateau including Rembarrnga, Burarra and all Yolngu groups. Used in opposition to the musical genre called fv:kunborrk in Bininj Kunwok.
+\xv Manbu mankare bungkul, manwern kakarrengeyyo. Yiman nangale karrowen wanjh kabindimarnekayhme nawu bungkul kabirriwayini, bu kabirrire kabirridahdahme. 
+\xe There are many old songs with different names. For example when someone passes away they go and sing, calling out things relating to their clan while clapping clapsticks. 
+\so Jill Nganjmirra
+\bw From Eastern languages, e.g. Burarra = bunggul, Yolŋu Matha = buŋgul
+\sd music
+\nt DK: What is the official Rembarrnga/Burarra orthography for this word? MG- Burarra is bunggul, I think.
+\dt 13/Jun/2015
+\dm 14/Oct/2019
 
 \lx bunje
 \ps n.
@@ -4739,6 +4887,30 @@ this). They flew up into the sky and they left her on the ground to walk around.
 \id DK
 \dt 17/Apr/2017
 \dm 28/Oct/2018
+
+\lx burre
+\pr man-
+\va nganburre
+\ps n.
+\sn 1
+\ge plant.sp.
+\re fi:Ipomoea_dunlopii
+\de Slightly woody vine climbing high in surrounding trees; very closely related to fi:Ipomea_abrupta. The leaves are narrow to broadly ovate or triangular, blade 50-150 mm long x 15-120 mm wide, sometimes with rounded spear shaped lobes at the base, petiole 25-75 mm long. The flowers are funnel-shaped, mauve to purple with darker throat, petals 65 mm to 85 mm long.The fruit is a globular capsule, 10-14 mm diameter with 4 black seeds to 7 mm long covered in long dense sinuous white to pale brown hairs to 4 mm long. The tubers or 'yams' are roasted on coals before being eaten. The name may also be applied to fi:Stephania_japonica and fi:Decaschistia_byrnesii.
+\xv An-burre makka an-kimuk, makka an-yayawno, bininjken. Barrk ngaleng kaworrngun, djukerre ka-worrngun.
+\xe fi:Ipomoea_dunlopii is much bigger but this one I'm talking about, something people can eat, is much smaller. fv:an-burre is for humans but the black wallaroo would eat the leaves of it.
+\xv An-warddewaken, bad mimih ke ka-ngun, ka-ngun ngalekke mimih, an-yong, ngan-burre, nguddah, bulanj, yi-ngeybun, karri-ngeybun mah ngan-burre.
+\xe It grows in the rock country but mimih eat it, those mimih (women) eat it, that bush radish tuber, Bulanj, you eastern people call it ngan-burre [manburre], well we all call it that.
+\xv Dja bu bolkkime nawu daluhdaluk yawkyawk minj kabirriburrbun manbu manme kabirringeybun mahni mankongkong manburre mankodjbang manbuled mankinjdjek, larrk mankudji karrbarda kabirribengkan.
+\xe But these days most women and girls don't know about mankongkong (Ipomoea graminea), manburre (Ipomoea dunlopii), mankodjbang (Aponogeton elongatus), manbuled (Triglochin dubia) or mankinjdjek (Dioscorea bulbifera). They only know about long yams, that's it. 
+\so Andrew Manakgu, Injalak Arts painting documentation
+\sd plant
+\so Bardayal Nadjamerrek
+\sy an-yong
+\sc Ipomoea dunlopii
+\uv W, I, E
+\ur Djnj= anyong, nganyong; Kdj= anburre
+\dt 25/Apr/2007
+\dm 14/Oct/2019
 
 \lx burren
 \ps v.refl.
@@ -5533,6 +5705,25 @@ kabirrimang kabirribiddadjkerren karlba kore kunbende kare kore kunbid.
 \so Mangiru, Hannah, ‘Nawakadj Dja Nabulanj Benewam Djenj’, Oenpelli Literature Production Centre.
 \dm 11/Nov/2018
 
+\lx darl
+\pr man-
+\ps n.
+\re broad-leaved paperbark
+\re paperbark sp.
+\re fi:Melaleuca_viridiflora
+\de A small, erect or straggly tree, 3-10 metres high,, also known as broad-leaved paperbark or broad-leaved tea-tree, grows along streams, in swampy areas and often in dense stands in open woodlands where the land may be seasonally flooded.
+\sc Melaleuca viridiflora
+\sy (m)an-darlbborrongko
+\xv Kundulk manbu kunkod kahkarrme ngarrinan kunmalaworr, wanjh ngarriburrbun, yiman kayime yilbinj, mandarl, mankorrko dja mandjinh.
+\xe When we see the leaves of paperbark trees, we can recognise them, for example whether a tree is fv:yilbinj, fv:mandarl fi:(Melaleuca_viridiflora), fv:mankorrko fi:(Melaleuca_argentea) or fv:mandjinh fi:(Melaleuca_nervosa).
+\so Jill Nganjmirra  
+\sd plant
+\uv I,E,W
+\ur Kdj,Djnj= andarl, Djnj= andarlbborrongko
+\nt DK: Mandarl/andarl entries split out. 
+\dt 26/Apr/2007
+\dm 14/Oct/2019
+
 \lx darleh
 \ps adj.
 \re dry
@@ -5625,6 +5816,17 @@ kabirrimang kabirribiddadjkerren karlba kore kunbende kare kore kunbid.
 \xe We followed the buffalo tracks until we arrived and actually saw it (the buffalo).
 \dt 20/Mar/2007
 \dm 11/Nov/2018
+
+\lx dawe
+\ps v.t.
+\re put out in the sun
+\de To put something out in the sun, dry something in the sun.
+\xv Yirrmeng rowk wanjh mey daweng, dayohdayoy dayonginj rowk darlehminj. 
+\xe She split it all [the pandanus leaves] into strips, then put them in the sun to dry. They lay there in the sun and all dried out. 
+\so Maralngurra, Dolly, ‘Ngalngarridj Marebu Marnbom’, Oenpelli School and Oenpelli Literacy Centre, Gunbalanya, 1975
+\id DK
+\dt 3/Sep/2016
+\dm 14/Oct/2019
 
 \lx dayken
 \pr kun-
@@ -7674,6 +7876,23 @@ birridukkarrukkarrinj.
 \sd material_culture
 \nt DK: Andrew, Steve and LAAL texts all spell this ‘djakkorl’. Jill also prefers this variant.
 \dm 10/Mar/2019
+
+\lx djakkorl
+\pr man-
+\va mandjahkorl
+\ps n.
+\re fire stick tree
+\re fi:Premna_acuminata
+\de Fire stick tree.
+\sc Premna acuminata
+\xv Bu korroko dabborrabbolk birribakkeyi mandjakkorl kundulk manbu mandarle, manyende wanjh birrimarnbuni bokenh bu birriburdebmi, birriwurlhkeyi kunak.
+\xe In the old days, people used to break off dry branches from the fire stick tree, and rub one against the other in a drilling motion to make a fire. 
+\pdn kk= kun-bembem
+\so Jill Nganjmirra
+\nt DK: Andrew, Steve, Jill and LAAL texts all spell this ‘djakkorl’. 
+\sd plant
+\dt 13/Oct/2003
+\dm 14/Oct/2019
 
 \lx djakarna
 \ps n.
@@ -10068,11 +10287,25 @@ mandulkbalabala, kabirrikadjedme rowk.
 
 \lx Kamarrkawarn
 \ps prop. n.
+\ge place name
 \re placename
-\re Kamarrkawarn
 \de Place and outstation community in Kodwalewale estate on the Mann River.
+\xv Kamarrkawarn makka kunred kabolkngeyyo kunbolkngeyyaw, dja manbu kunbolkngeykimuk ngarringeybun Kodwalewale. 
+\xe Kamarrkawarn is the name of a place, a smaller locality which is part of the larger estate called Kodwalewale. 
+\so Jill Nganjmirra
 \sd placename
 \dt 08/Jan/2014
+\dm 14/Oct/2019
+
+\lx kambani
+\ps n.
+\re land ownership sharing relationship
+\de Sharing relationship usually referring to land ownership jointly held by members of different clans.
+\xv Kondanj nakurrngh ke kunred, ngarrewoneng 'kambani'.
+\xe This is your cousin's country which I hold with him in a 'company' relationship.
+\bw from English 'company'
+\dt 13/Oct/2003
+\dm 14/Oct/2019
 
 \lx kambuk
 \ps n.
@@ -10209,6 +10442,16 @@ mandulkbalabala, kabirrikadjedme rowk.
 \re heart
 \de Heart.
 \dt 23/Jan/2009
+
+\lx kangemak
+\ps pred. adj.
+\re happy
+\de Happy, be in good spirits.
+\xv Karrikangemak.
+\xe We are happy. 
+\so Title of a book by James Iyuna, Maningrida, N.T.: Maningrida Community Education Centre, 1991
+\dt 23/Jan/2009
+\dm 14/Oct/2019
 
 \lx kangila
 \pr na-
@@ -10498,6 +10741,23 @@ mandulkbalabala, kabirrikadjedme rowk.
 \dt 02/Oct/2016
 \dm 14/Sep/2018
 
+\lx karndum
+\pr kun-
+\ps n.
+\re fog
+\re mist
+\de Fog, mist.
+\xv Bu yekke dja wurrkeng kayimerran wanjh kunkarndum kayongen. Kukak yerrih. Wanjh bu malamalaywi ngarridolkkan ngarrinan kabolkbarrkbun kunkarndum. Wanjh ngarriyime "Aa, kunkarndum kankarrme". 
+\xe In the seasons of fv:Yekke and fv:Wurrkeng, there is fog. Also at night. And when we get up in the morning and see the land covered in fog, we say "Ah, it's all foggy". 
+\so Jill Nganjmirra
+\xv Kunkarndum kamre dja kukku kabokurrme.
+\xe The fog comes and leaves the ground wet with dew. 
+\so Jill Nganjmirra
+\nt Etherington has ‘kunkarndum - fog, mist’. Is this is W equivalent of [lx] djurlurl? Jill would say bolkbarrkbun - she says barrkbun and barrhbun are different words. 
+\id DK
+\dt 29/May/2017
+\dm 01/Jun/2019
+
 \lx karnubirr
 \ps n.
 \re freshwater mussel
@@ -10572,6 +10832,16 @@ mandulkbalabala, kabirrikadjedme rowk.
 \so Mangiru, Hannah, ‘Kuhni Kayolyolme Bu Kabirriwarlbunkenh’, Oenpelli Literature Production Centre, Gunbalanya, 1974 
 \pdn kk = lurribme
 \dm 15/Dec/2018
+
+\lx karrakbal
+\ps n.
+\re moon
+\de Moon.
+\uv Djnj, E, I
+\ur W= dird
+\nt DK: Jill described this as 'Kundedjnjenghmi and Kune', but probably it's Kuninjku as well? 
+\nt MG: I think it’s a synonym in Kuninjku and Kune. More common in Djnj.
+\dm 14/Oct/2019
 
 \lx karramalk
 \ps n.
@@ -10871,6 +11141,32 @@ mandulkbalabala, kabirrikadjedme rowk.
 \so Maralngurra, Gabriel, 'The Kunwinjki Counting Book', Injalak Arts, Gunbalanya, 2016
 \dm 22/Apr/2019
 
+\lx karrurru
+\ps n.
+\re sail
+\de Sail (of a ship).
+\xv Ngaye ngabimbun manekke Macassar kabbala, kundulk, burrkyak engine, karrurruwi. Minj fi:anchor duninjh dja manwodj kundulk. Bu kunmayorrkkimuk kamre minj kabirrikarrikme.
+\xe I will draw that Macassan boat, a wooden one with no engine, only a sail. Not a real anchor, just a log of wood. If a big strong wind comes up, they don't have to paddle.
+\so Nganjmirra, Nawakadj, ‘Kunwinjku Spirit’, Melbourne University Press, 1997, p. 246
+\bw from Makassarese fv:karoro, a type of sail cloth. Iwaidja= karrurru, Yolngu Matha= garrurru.
+\nt Kunwinjku Spirit has ‘mawodj’, I’m guessing this is manwodj. Nicholas Evans makes the connection between the Macassan word and the Iwaidja ‘karoro’ in his article ‘Some distinctive characteristics of the vocabulary of Australian languages’, in Lexicology, Volume 2, Walter de Gruyter, New York/Berlin, p. 1079. Original translation in KS is ‘I will draw that Macassan boat, a wooden one with no engine. Sailing boat and not really with an anchor, a log of wood. If a big strong wind comes up, they don't have to paddle.’
+\id DK
+\dt 15/May/2017
+\dm 14/Sep/2018
+
+\lx kawadj
+\pr kun-
+\ps n.
+\re sand
+\de Sand.
+\uv I
+\uv W= kunkayalanj
+\cf kukawadj
+\ce in the sand
+\sd geographic
+\dt 06/May/2006
+\dm 14/Sep/2018
+
 \lx kawk
 \ps n.
 \re rufous night heron
@@ -11067,6 +11363,19 @@ mandulkbalabala, kabirrikadjedme rowk.
 \sd bird
 \dt 27/Mar/2014
 
+\lx kebbord
+\ps n.
+\re nose peg
+\de Nose peg (wooden) or ring (pandanus fibre) placed through a pierced nasal septum as a form of bodily adornment.
+\xv Korroko dabborrabbolk birrinami kebbord kore kukeb bedberre. Kaluk birrimangi kunj kundadmurrng bu bindikebdjudmi, wanjh birrikebkaridi munguyh. 
+\xe In the old days, our ancestors would put nose pegs in their noses. They would take a sharp bone from a kangaroo's leg and pierce their nose, and then leave it stuck there. 
+\so Jill Nganjmirra
+\sd material_culture
+\nt Jill would say ‘kebbord’. ‘How to write Kundjeyhmi’ book also has a fill-in-the-blanks exercise ‘kebbo_d — pandanus nose-ring’. LAAL Kunbarlang book "Djurra kuyi Lerrk Kun-barlang" also spells it this way. Jill says that with the kangaroo bone, "birrimarnbuni sharp kore kunwardde", then once it had been in for a while, people would replace it with wood "bu walakki birrimokdoweni wanjh kundulk birrikurrmi".
+\id DK
+\dt 22/May/2018
+\dm 14/Oct/2019
+
 \lx kebdjirned
 \va kebdjened, kebdjined
 \ps n.
@@ -11117,6 +11426,20 @@ mandulkbalabala, kabirrikadjedme rowk.
 \xe An attractive woman.
 \nt DK: I removed the prefixes na- and ngal- and made it [ps] adj, see what you think. 
 \dt 27/Jan/2012
+
+\lx kebnarren
+\ps v.refl.
+\sn 1
+\re look at self
+\de Look at oneself, e.g. in the mirror.
+\sn 2 
+\re urinate
+\re piss
+\de Go for a piss, urinate.
+\xv Ngare ngakebnarren.
+\xe I'm going for a piss.
+\so Jill Nganjmirra
+\dt 19/Nov/2018
 
 \lx kebrok
 \pr ku-
@@ -11249,6 +11572,19 @@ mandulkbalabala, kabirrikadjedme rowk.
 \xe They were frightened.
 \dm 14/Sep/2018
 
+\lx kelewawme
+\ps v.i.
+\re cry out in fright
+\de Cry out in fright.
+\xv Nang nakimuk nayin kahyo, kelewawmeng yimeng, "Waw, waw, waw."
+\xe He saw a big snake was there and cried out “Waw waw waw!”
+\so Maralngurra, Rachel, ‘Wurdwurd Bedberre’, C.M.S, Gunbalanya, 1974.
+\cf wawme
+\nt also in Etherington
+\id DK
+\dt 02/Oct/2016
+\dm 14/Sep/2018
+
 \lx ken
 \va kenh
 \ps interj.
@@ -11324,6 +11660,18 @@ mandulkbalabala, kabirrikadjedme rowk.
 \de Become soft, go flat (of tyres).
 \dt 13/Oct/2003
 \dm 14/Sep/2018
+
+\lx kerlk
+\pr kun-
+\ps n.
+\re 'soft' dialect
+\de Term used by eastern Mayali speakers to describe the variety of Kunwinjku/Mayali spoken in the west,
+such as at Kunbarlanja (Oenpelli).
+\xv Kunkerlk kabirriyime 'ngaburrbun' la ngad kunrayek ngarriyime 'ngabengkan'.
+\xe The soft dialect speakers say 'ngaburrbun' but we hard dialect speakers use the word 'ngabengkan'.
+\uv E= nakerlk.
+\dt 06/May/2006
+\dm 14/Oct/2019
 
 \lx kerlkdan
 \ps v.i.
@@ -11430,6 +11778,14 @@ mandulkbalabala, kabirrikadjedme rowk.
 \dt 13/Aug/2016
 \dm 14/Sep/2018
 
+\lx kewkme
+\ps v.i.
+\re doubt
+\de Doubt, not believe.
+\xv Yibenmarneyimen wurdurd kinga kahyo. Korroko ba kabirrikewkkewkme.
+\xe Tell those children there's a crocodile there. I did already but they don't believe it.
+\dm 14/Sep/2018
+
 \lx keyo
 \ps v.i.
 \re sleep
@@ -11454,6 +11810,22 @@ mandulkbalabala, kabirrikadjedme rowk.
 \xv Kunkare kondanjkunu kunred ngalkudji daluk bibayeng nabang nayin yirrbardbard wanjh doweng. Minj burudjang bibayemeninj dowimeninj dja korroko kidni birridanjbom.
 \xe A long time ago here at this place, a woman was bitten by a venomous snake, a taipan, and she died. It wasn’t just an accidental incident which killed her because some people had already killed her through sorcery.
 \dt 25/July/2012
+
+\lx kidjikme
+\va kidjihkidjikme
+\ps v.t.
+\re tickle
+\de Tickle.
+\xv Kabirringorrkkidjihkidjikmerren.
+\xe People tickle each other's sides. 
+\so Jill Nganjmirra
+\xv Kidjihkidjikme ngarriyime bu wurdyaw kabirrimarnbun kadjekme. Wanjh kabirrinjamkidjihkidjikme. 
+\xe 'Kidjihkidjikme' is the word we use when people make babies laugh by tickling their bellies. 
+\so Jill Nganjmirra
+\nt DK: Evans (gidjikme - W, M - “Gangidjikme”) and Etherington both have this word. Etherington has the reduplicated form.
+\id DK
+\dt 02/Oct/2016
+\dm 14/Oct/2019
 
 \lx kidjkidj
 \pr na-
@@ -11586,6 +11958,38 @@ birrikilelh namekke.
 \re fat
 \de fat (lit. big intestines) 
 \dm 15/Dec/2018
+
+\lx kimukmen
+\ps v.t.
+\sn 1
+\re become large
+\re get bigger
+\de Become large, get bigger. 
+\xv Baladj... kabirrikimukmen kore ngadbeh kunkurlba bu kandibaye ngad.
+\xe Leeches get big from drinking our blood when they bite us. 
+\so Nganjmirra, Nawakadj, ‘Kunwinjku Spirit’, Melbourne University Press, 1997
+\sn 2
+\re grow
+\re grow up
+\de Grow, grow up.
+\xv Yikimukminj ngudda. Mayh wanjh yibidbun.
+\xe You're grown up now. It's time for you to go to ceremony. 
+\so Quoted in Etherington, Steve, ‘Learning to be Kunwinjku: Kunwinjku people discuss their pedagogy’, PhD Thesis, Charles Darwin University, 2006 
+\sn 2
+\re become heavy (rain)
+\de Become heavy (of rain).
+\xv Wam djarreh wanjh mandjewk kumhwam nayahwurd wanjh yerre kimukminj.
+\xv He went far away and it started to rain, first a little and then it became heavy. 
+\so Andrew Manakgu, Injalak Arts painting documentation.
+\sn 3
+\re rise (water)
+\de Rise (of water). 
+\xv Wanjh bomarnbom manbu kukku bokimukminj bobarlmeng wanjh nawu daluk bokenh benekebngakmeng.
+\xe [The Rainbow Serpent] made the water rise up and the two women drowned. 
+\so Andrew Manakgu, Injalak Arts painting documentation
+\id DK
+\dt 20/Jan/2018
+\dm 14/Oct/2019
 
 \lx kinbarlen
 \pr ngal-
@@ -11937,6 +12341,18 @@ birrikilelh namekke.
 \dt 19/Jun/2018
 \dm 10/Mar/2019
 
+\lx kodjmurrng
+\pr kun-
+\ps n.
+\re skull
+\de Skull.
+\ur W
+\uv I= kodjmurrngno
+\sd body_part
+\nt from ‘Bininj Gunwok talk about health’. Only kodjmurrngno listed below.
+\id DK
+\dt 06/Jan/2018
+
 \lx kodjngalme
 \ps v.i.
 \re be born
@@ -12071,6 +12487,21 @@ birrikilelh namekke.
 \nt DK: I= ?
 \dt 20/Jun/2007
 \dm 14/Sep/2018
+
+\lx kolhde
+\pr man-
+\re shoot (of plant)
+\re sprout
+\de Shoot, sprout. New shoot sprouting out from a plant, seed etc.
+\xv Kakolhdebebme.
+\xe A little shoot comes up.
+\so Jill Nganjmirra
+\uv W
+\ur I,E= kolhdeno
+\nt DK: [lx] kolhdeno has 'New shoot sprouting out from a plant', but Jill used the example of a seed "seed bu kamankan, kadjakdung, wanjh kakolhdebebme". Jill confirms 'mankolhde' is the W version of kolhdeno.
+\id DK
+\id JNg
+\dt 11/Aug/2019 
 
 \lx korlobbarr
 \ps n.
@@ -12449,6 +12880,25 @@ birrikilelh namekke.
 \nt DK: Jill: kunkoro -> mayh nawu kawake kanjdji minj kakarrme feet (bardmokuyeng). Definition from [lx] korono. Not sure if there could be a mankoro. Jill says of the placename example sentence "She tried to travel other way but she caught up kore kuwardde, kore gap, or little hole karrmi. In between Kamarrkawarn and Manmoyi but in the middle. Mankabo kore. Minj kabirriwarddebun." 
 \dt 31/Dec/2018
 \dm 01/Sep/2019
+
+\lx korrko
+\pr man-
+\ps n.
+\re silver-leaved paperbark tree
+\re fi:Melaleuca_argentea
+\de Silver-leaved paperbark tree.
+\sy mardderr
+\xv Kundulk manbu kunkod kahkarrme ngarrinan kunmalaworr, wanjh ngarriburrbun, yiman kayime yilbinj, mandarl, mankorrko dja mandjinh.
+\xe When we see the leaves of paperbark trees, we can recognise them, for example whether a tree is yilbinj, mandarl (Melaleuca viridiflora), mankorrko (Melaleuca argentea) or mandjinh (Melaleuca nervosa).
+\so Jill Nganjmirra 
+\ee Flowers of fi:Melaleuca_argentea have nectar that attracts fv:lorlbban bees.
+\sc Melaleuca argentea
+\sd plant
+\uv W,I
+\ur Djnj= ankorrko
+\nt DK: I've split out the an- and man- entries into different headwords. An- entry is in the working file. Jill confirmed that mardderr and mankorrko are the same tree. 
+\dt 22/Jun/2007
+\dm 14/Oct/2019
 
 \lx korroko
 \ps adv.
@@ -14876,6 +15326,22 @@ purposes. Also once used for circumcision ceremonies.
 \dt 17/Apr/2017
 \dm 14/Sep/2018
 
+\lx mandolhdolh
+\ps n.
+\re cucumber
+\re wild cucumber
+\re fi:Curcumis_melo
+\de Bush cucumber vine with an edible fruit available in the wet season; annual climbing or trailing herb with simple tendrils.
+\sc Curcumis melo
+\xv Wanjh benebalwam benebolknang yimankek bu kungarre benebalngimeng, benenang mandolhdolh.
+\xe So they went and had a look around and were about to go into the jungle thicket. They saw some bush cucumbers. 
+\so Mangiru, Hannah, 'Djakku dja Nabulanj Benewam', Oenpelli Literary Project, Gunbalanya 1976
+\uv W
+\ur I= man-dawk, Djnj, Kdj= an-dawk
+\sd plant
+\dt 30/Nov/2008
+\dm 14/Oct/2019
+
 \lx manekke
 \ps dem.
 \re that
@@ -15409,6 +15875,13 @@ Namanjmiken kakanjkinje mankudji kunkanj bulikki bu wolewoleh kore Kunbalanja. I
 \nt DK: This seems to be one of the those complex words in terms of dialects and different sizes of the same tree. Mini dictionary currently has manku(r)lurrudj [uv] I,W [ur] I= marrabbi, djendek, Kdj,Djnj= ankulurrudj [ee] In Kuninjku this name is a synonym for the more commonly used name fv:djendek, but in Kundedjnjenghmi and Kundjeyhmi fv:ankulurrudj refers to the shorter varieties or juvenile specimens whilst the larger specimens are called anmarrabbi.
 \dm 01/Jun/2019
 
+\lx marradjiri
+\ps n.
+\re exchange ceremony of diplomacy
+\de Exchange ceremony of diplomacy which involves the final presentation of a long decorated ceremonial pole. The performers dance for their hosts each evening over a period of weeks to celebrate the rite of passage of a young boy. A small lock of the child's hair is held in a small woven bag and this or other token is also referred to as the fv:marradjiri or in the case of the fv:mamurrng ceremony the token is called the fv:mamurrng.
+\dt 13/Oct/2003
+\dm 14/Sep/2018
+
 \lx marrakkak
 \ps n.
 \re seagull
@@ -15573,8 +16046,7 @@ up to here 27th
 \re become confused
 \de Become lost, confused, dazed.
 \xv Konda nuk ngandibawong ngamayahmayahme.
-\xe They must have deserted me, now I am confused and lost (Words of
-<b>wurrurrumi</b> song).
+\xe They must have deserted me, now I am confused and lost (Words of <b>wurrurrumi</b> song).
 \sn 2
 \re be unaware
 \de Be ignorant, unaware.
@@ -18994,9 +19466,21 @@ the other will go away somewhere else. He was not able to steal the female, no.
 \dt 09/Sep/2007
 \dm 10/Mar/2019
 
+\lx ngulken
+\ps adv.
+\re camp overnight or for few days
+\de Camping overnight or for a few nights in order to gather or hunt a particular resource.
+\xv Karrire karridjarrkyo ngulken balbbara.
+\xe Let's all go and stay there together for a couple of days. 
+\so Jill Nganjmirra 
+\xv Birribuyika bininj birrirey birringuni djenj namekke ngulken.
+\xe Other people would go and eat fish there, camping for a day or two.
+\dt 30/Jan/2015
+\dm 14/Oct/2019
+
 \lx ngurl
-\va kunngul
 \pr kun-
+\va kunngul
 \ps n.
 \re heart
 \de Heart.
@@ -19079,6 +19563,19 @@ bengkahbengkang?
 \ps poss. pron.
 \re you, yours
 \de You 2, yours (you 2).
+\dm 14/Sep/2018
+
+\lx ngurrurdu
+\ps n.
+\ge emu
+\re emu
+\re fi:Dromaius_novaehollandiae
+\de Emu.
+\sc Dromaius novaehollandiae
+\uv E= wurrbbarn, W=kurdukadji, Kdj= alwandjuk
+\pdn kk = kurduyulu
+\sd bird
+\dt 06/May/2006
 \dm 14/Sep/2018
 
 \lx nguy
@@ -19343,6 +19840,46 @@ ngalngamed' etc. is used.
 \nt DK: Etherington has njanyan - you're cute (said to infant). I heard it something like “Annjanj” in Gunbalanya I thought, but at any rate with an “a” sound. Probably need to change spelling in [xv]? Jill says we use all three variants, including annjanj. 
 \dm 28/Oct/2018
 
+\lx njonj
+\pr man-
+\re soft food which has been pounded
+\re mincemeat
+\de Soft plant material or meat which has been pounded.
+\xv Kabirrinjonjme manme wanjh mannjonj kayimerran.
+\xe They pound food into a pulp. 
+\so Jill Nganjmirra
+\uv W
+\ur Djnj= annjonj, I,E= njonjno
+\nt DK: Jill said njonjno was also used, guessing at dialect usage. She said it could also be used for 'mincemeat'. 
+\dt 30/Sep/2019
+
+\lx njonjme
+\ps v.t.
+\re mash up, make into mash
+\de Make into a mash, ground to a pulp.
+\sy njonjwon
+\xv Djurrubuk manbu manyawwarddeyahwurd, manbu korroko dabborrabbolk birridongi manme, dja mak mayh birrimurrngdongi, bu birrimurrngnjonjmi.
+\xe 'Djurrubuk' is what we call the small rocks that our ancestors used to use for pounding food, or also pounding and grinding bones into a mash (so they can be eaten).
+\so Jill Nganjmirra  
+\nt DK: I'm not quite sure what the focus of this word is (pounding, grinding, softening, generally processing with djurrubuk?), but that seems to be the general semantic domain. Jill translated it as "kunmurrng birrimarnbuni kilehkilel". Obviously related to [lx] annjonj, I'll have to make a mannjonj entry too. 
+\id DK
+\id JNg
+\dt 30/Sep/2019
+
+\lx njonjwon
+\ps v.t.
+\re mash up, make into mash
+\de Make into a mash, ground to a pulp.
+\sy njonjme
+\xv Kabirrihdong, kabirrinjonjwon wanjh kabirrikurrme kore "pannikin"
+\xe They pound it, mash it up and they put it into a pot.
+\xv Birrirawoni kunkanj dja kunmurrng, birridongi wanjh birrinjonjwoni ba bu birringuni kamak rowk. 
+\xe They would mix the meat and the bones together, pound them and mash them so they could eat it. 
+\so Jill Nganjmirra
+\nt DK: Jill would spell this 'njonjwon', and that makes sense in terms of the existing 'an-njonj' entry?
+\dt 06/Mar/2016
+\dm 30/Sep/2019
+
 \lx rdardda
 \va rdardah
 \va dardda
@@ -19484,6 +20021,56 @@ kore kunbalandakenh.
 \dt 19/Feb/2017
 \dm 14/Sep/2018
 
+\lx rayek
+\pr kun-
+\lc kun-rayek
+\ps n.
+\re 'hard' dialect
+\de Description of language dialects as 'hard'. The eastern dialects of Mayali are described by westerners as fv:kunrayek. The Kuninjku describe the Kune dialect as fv:kunrayek when comparing it to their own but call their own dialect fv:kunrayek when comparing it to that spoken for example at Kunbarlanja.
+\xv Kunkerlk kabirriyime 'ngaburrbun' la ngad kunrayek ngarriyime 'ngabengkan'.
+\xe The soft dialect speakers say 'ngaburrbun' but we hard dialect speakers use the word 'ngabengkan'.
+\uv E= narayek
+\dt 06/May/2006
+\dm 14/Oct/2019
+
+\lx rayekmen
+\ps v.i.
+\re harden
+\re solidify
+\re turn to stone
+\de Become hard, solid or tight, solidify. Turn to stone or other hard object. This is often used to describe Ancestors who became rocks or other aspects of the landscape in the Dreamtime. 
+\xv Kabbay birribelbmi rey bukmeni rayekmeni.
+\xe They would stick ironwood resin on [the top of the spearthrower to attach the spur], and it would dry and harden.  
+\so Andrew Manakgu, Injalak Arts painting documentation
+\xv Bininj nakudji kumdolkang kumwam rerrkang wanjh bonabonani, bonabonani kumekbe wanjh kunwarde yimerranj kunwarde yimerranj wanjh kahni rayekminj.
+\xe A man came up and sat down. He just sat there looking at the water, and he turned to stone. He turned to stone and he’s [still] there. 
+\so The example phrase comes from some texts Peter Carroll has deposited with AIATSIS. 
+\id DK
+\dt 19/Feb/2017
+
+\lx rayekwon
+\ps v.t.
+\sn 1
+\re tighten
+\re strengthen
+\re harden
+\re turn to stone
+\de Harden, tighten or strengthen something, turn to stone.  
+\xv Wanjh benedjalwam la benekukrayekminj benkukrayekwong djang. 
+\xe The two (sisters) went on and turned to stone, he (Nimbuwa) turned them both to stone at that sacred site. 
+\so Mick Kubarkku, recorded at Kubumi by Peter Cooke and Rory McGuinness, August 1991.
+\sn 2
+\re formalise
+\re speak firmly
+\de Affirm or formalise a decision or law, say something firmly and with authority.
+\sy wokrayekwon
+\xv Korroko dabborrabbolk birriwokdi birrikarremarnbuni wanjh karremakni bu birriwokmarnburreni. 
+Dja mak kunwok bedberre wanjh birrirayekwoni minj nangale mak bakkemeninj bedberre manbu kunwok. 
+\xv The old people would get together and make decisions, and they would come to an agreement about what should be permitted. They fixed their decision, and no one would break the laws they made. 
+\so Jill Nganjmirra
+\nt DK: Jill described 'rayekwon' here as similar to 'stamping a paper' in Balanda law. Etherington also has 'karremakni - allowed , permitted', which is used in Jill's [xv], but I'm finding the definition of this a little slippery. Jill just described it as "all agreed birriyimi, all kamak". Bible has "God biwokrayekwong bininj, yimeng, "Ngudda kamak yingun mandjalwern manbubuyika manbarnem... [But just don't eat from the tree of knowledge, etc.]"
+\dm 14/Oct/2019
+
 \lx re
 \ps v.i.
 \sn 1
@@ -19552,6 +20139,20 @@ kore kunbalandakenh.
 \ps n.
 \re traditional owner of land
 \de The traditional owner or person responsible for a place or tract of land. Requires a pronoun prefix such as <b>birriredweleng</b>, 'the traditional owners’, <b>naredweleng</b> ‘male traditional owner’.
+
+\lx Rembarrnga
+\ps prop. n.
+\ge Rembarrnga
+\re Rembarrnga
+\re language name
+\de Language name, spoken to the east and south-east of Bininj Kunwok territory.
+\xv Ngalkka djal Rembarrnga wurrbbarn.
+\xe She [the emu] is called fv:wurrbbarn in Rembarrnga language.
+\ee Almost all Rembarrnga speakers can speak a dialect of, or understand Bininj Kunwok. 
+\sd metalinguistic
+\so Peter Biliss
+\dt 05/May/2007
+\dm 14/Sep/2018
 
 \lx rerrkan
 \va yerrkan
@@ -19687,6 +20288,18 @@ kore kunbalandakenh.
 \ce earthquake
 \id DK
 \dt 07/Aug/2017
+
+\lx rokayhwon
+\ps v.t.
+\re shake
+\de Make something shake, make something move, shake something.
+\xv Bu kabirrirurrkname kunkodbarre wanjh kunmayorrk mankimuk kamre karokayhwon manbu kururrk kamarnbun karokan. 
+\xe When people make a bark shelter, a big wind can come along and shake it, making it move. 
+\so Jill Nganjmirra
+\cf rokan
+\nt DK: Etherington dictionary has "rokayhweng - made something move", but Jill uses 'rokayhwon'. 
+\id DK
+\dt 19/Nov/2018
 
 \lx ronj
 \pr kun-
@@ -21096,6 +21709,20 @@ matri-moiety. Equivalent to <b>ngarridj</b> in the eastern system.
 \dt 06/May/2006
 \dm 14/Sep/2018
 
+\lx widjung
+\ps v.t.
+\re point
+\re poke
+\de Point or poke.
+\xv Dabborrabbolk birrikukmarnbuni djaworndjaworn yiman kayime bininj. Bu nangale doweni, wanjh nungka bolkwidjungi bedberre bu benbengdayhkeyi kore birrikukdudjengi nawu doweni bininj.
+\xe Our ancestors used to make djaworn-djaworn figures in the shape of people. When someone passed away, then that figure would be used to point to the place where the dead person had been buried, to let people know. 
+\so Jill Nganjmirra  
+\xv Kabiwayudwayudme kawohnan kabinan kayimarnebolkwidjung.
+\xe He waves to him as he watches out for him and points at the place for him. (Words of fv:wurrurrumi song).
+\nt DK: Etherington has 'widdjuy - blamed', and 'widjuy - pointed to', but it seems unlikely that stop length would distinguish these words. It does sound a bit like a long stop to me when Jill says it, perhaps this is a [va]. But not sure if it should be widdjung or widjdjung. E.g. [xv] Nawu wurdyaw widdjuy kunj. [xe] The kid pointed at the kangaroo. [xv] Ngalkangila ngaye nganwiddjuy bu nganwelengnameng. [xe] Ngalkangila pointed at me and blamed me. [so] Jill Nganjmirra. 
+\dt 13/Oct/2003
+\dm 14/Oct/2019
+
 \lx widnan
 \ps v.t.
 \re hate
@@ -22005,6 +22632,17 @@ nguddangke kunred yiworhnan.
 \id DK
 \dt 14/Jul/2016
 \dm 23/Jun/2019
+
+\lx wurrbbarn
+\ps n.
+\re emu
+\de Emu.
+\sc Dromaius novaehollandiae
+\uv E
+\ur W= kurdukadji, I, Djnj= ngurrurdu, Kdj= alwanjdjuk
+\ee Rem = wurrbbarn
+\dt 27/Feb/2006
+\dm 14/Sep/2018
 
 \lx wurrk
 \pr man-
@@ -23072,6 +23710,23 @@ speaker.
 \dt 10/Jul/2017
 \dm 14/Sep/2018
 
+\lx yilbinj
+\ps n.
+\re paperbark species
+\de Paperbark species, bark has a multitude of uses as for other paperbark species.
+\sc Melaleuca sp. (or possibly several species)
+\xv Yilbinj makka kakarrme manwern kunkod. 
+\xe Yilbinj is a type of paperbark tree that has a lot of paperbark on it. 
+\so Jill Nganjmirra 
+\xv Kundulk manbu kunkod kahkarrme ngarrinan kunmalaworr, wanjh ngarriburrbun, yiman kayime yilbinj, mandarl, mankorrko dja mandjinh.
+\xe When we see the leaves of paperbark trees, we can recognise them, for example whether a tree is yilbinj, mandarl (Melaleuca viridiflora), mankorrko (Melaleuca argentea) or mandjinh (Melaleuca nervosa).
+\so Jill Nganjmirra 
+\sd plants
+\nt DK: Kdj dictonary has this word, but lists it as "Thin paperbark saplings, possibly of various species, thin individuals growing in dense groves." Jill says though it's a tall tree with long leaves "mandulkkimuk, kunmalaworr mankuyengkuyeng."
+\id DK
+\id JNg
+\dt 30/Sep/2019
+
 \lx yilk
 \pr man-
 \ps n.
@@ -23538,6 +24193,17 @@ kuk.
 \nt DK: There is an entry [lx] yoyo, just making a W version. Also Kuninjku? MG- I think both are used in Kuninjku.
 \id DK
 \dt 20/Jan/2019
+
+\lx yorndidj
+\ps n.
+\re stone spear tip
+\re stone knife
+\de Stone tipped spear or long stone tipped knife.
+\xv Bu korroko dabborrabbolk birrikarrmi yorndidj bu birriwarddedongi wanjh birrimarnbuni yiman kayime mandjawak, karramalk, barrawu bu mayhken bu birridjobkeyi dja mak bindidadjkeyi nawu lakkayen bindimarnbuni. 
+\xe In the old days, people would strike stones to make stone knives, just like they had regular knives, stone axes or spear tips, and they used them for things like cutting up meat or circumcising young men. 
+\so Jill Nganjmirra
+\sd material_culture
+\dm 14/Oct/2019
 
 \lx yorrke
 \ps v.t.
