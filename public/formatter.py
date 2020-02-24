@@ -342,10 +342,11 @@ for entry in entries:
 # # Sort by headword with prefix
 sorted_entries = sorted(clean_entries, key=itemgetter('sorting-headword'))
 
-
+import json
+json_str = json.dumps(sorted_entries)
 # ADD CSS HEADER TO FILE
-with open("entries.txt", 'w') as f:
-    f.write(str(sorted_entries))
+with open("entries.json", 'w') as f:
+    f.write(json_str)
 f.close()
 
 
