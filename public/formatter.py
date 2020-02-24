@@ -323,6 +323,7 @@ with open(mynewfile,'r') as f:
             entries.append(entry)
 
 
+
 # ADD CSS HEADER TO FILE
 with open("header.html") as f:
     with open("index.html", "w") as f1:
@@ -340,6 +341,12 @@ for entry in entries:
 
 # # Sort by headword with prefix
 sorted_entries = sorted(clean_entries, key=itemgetter('sorting-headword'))
+
+
+# ADD CSS HEADER TO FILE
+with open("entries.txt", 'w') as f:
+    f.write(str(sorted_entries))
+f.close()
 
 
 with open("index.html", 'a') as f:
