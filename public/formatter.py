@@ -3,6 +3,8 @@
 
 import sys, re, json, os.path
 from operator import itemgetter
+from shutil import copyfile
+
 
 if len(sys.argv) < 2:
     print("Usage: " + sys.argv[0] + " file-to-modify")
@@ -551,8 +553,13 @@ with open("index.html", 'a') as f:
             if "ps" in entry:
                 is_verb = (entry["ps"] == 'v.t.') or (entry["ps"] == 'v.i.') or (entry["ps"] == 'v.refl.')
 
-            if os.path.exists('media/audio/' + entry["full-headword"] + '.mp3'):
+            media_path = 'media/all-audio/' + entry["full-headword"] + '.mp3'
+            matching_media_path = 'media/audio/' + entry["full-headword"] + '.mp3'
+            if os.path.exists(media_path):
+                copyfile(media_path, matching_media_path)
+
                 media_counter = media_counter + 1
+
                 print(media_counter)
                 f.write('<div>')
                 f.write('<button class="audio-button"')
