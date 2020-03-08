@@ -20965,7 +20965,7 @@ Dja mak kunwok bedberre wanjh birrirayekwoni minj nangale mak bakkemeninj bedber
 \ps n.
 \re water
 \de Water.
-\xv Nahni daluk boken benemdolkang kakbi, benemrey kunronj beneboyawani.
+\xv Nahni daluk boken benemdolkkang kakbi, benemrey kunronj beneboyawani.
 \xe Those two women came from the north, they came looking for water.
 \so Peter Carroll AIATSIS collection
 \uv I,E
