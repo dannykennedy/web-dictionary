@@ -2010,13 +2010,16 @@ or exclusively and 'in contrast'.
 \dt 24/Feb/2017
 
 \lx bengkan
-\ps v.i.
+\ps v.t.
 \sn 1
 \re know
 \re understand
-\de Understand, know.
+\de Know, understand.
 \xv Yibengkan konda Kurrurldul yibengkan kahyo Balang, la kaddum djang kahdi.
 \xe You know here at Kurrurldul where Balang lives, well upstream from there is that sacred site.
+\xv Nakohbanj Tommy yimeng kabibengkan namekke <b>skipper</b> kore kabbala, kangeyyo Burray.
+\xe Old Tommy said he remembers the skipper of the boat, his name is Burray.
+\so Nganjmirra, Nawakadj, ‘Kunwinjku Spirit’, Melbourne University Press, 1997
 \sn 2
 \re know how to
 \re can
