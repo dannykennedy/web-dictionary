@@ -23567,7 +23567,7 @@ speaker.
 \xv Wam djarreh wanjh mandjewk kumhwam nayahwurd wanjh yerre kimukminj.
 \xe He went a long way away and it started to rain a little, then the rain got heavy. 
 \so Andrew Manakgu, Injalak Arts painting documentation
-\lx yahwurdmen
+\se yahwurdmen
 \re get smaller
 \re shrink
 \de Get smaller, shrink. 
