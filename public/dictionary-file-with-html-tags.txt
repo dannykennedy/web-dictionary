@@ -397,6 +397,20 @@ University of Melbourne, Melbourne.
 \dt 06/Oct/2007
 \dm 14/Oct/2019
 
+\lx Badmardi
+\va Badmarddi
+\ps prop. n.
+\re clan name
+\de Name of a <b>yirridjdja</b> moiety patriclan.
+\xv Weyakweyak bakurlbakani kurlba barey. Bayimi 'yuy yuy' bakayhmi bayuyhmirey, <i>that</i> kurlba bakadjungi <i>line up</i> anekke kunwardde <i>line</i> kadjale bayibmeng konda, kalkberd, nakkan Nawarray-beh barrolkang dabborrabbolk nuye bu Nangukwirridj nakohbanj na-Badmardi, ya Bangardi nawu. Na-Badmardini, nangamed nuye Nayombolmi nuye kornkumo barroweng makka nungka beywurd Nayombolmi.
+\xe Black-faced cuckoo shrike fi:(Coracina_novaehollandiae) followed the trail of blood. He groaned 'yuy yuy', and went along calling out 'yuy' and he followed the blood and these rocks are all lined up [indicating the route the kangaroo took] and he keeps going and sank here, that male euro who came from Nawarray. It belonged (the dreaming) to that old Badmardi clansman Nangukwirridj, yeah
+Bangardi. He was Bangardi, Nayombolmi's father, and his son was Nayombolmi.
+\ee <b>Wuluwulubirddi</b> is the Badmardi clan <b>kundangwok</b> interjection.
+\sd clan_name
+\so LBN, Badmardi/Worrkorl site survey
+\dt 30/Dec/2007
+\dm 14/Sep/2018
+
 \lx bakke
 \ps v.t.
 \sn 1
@@ -666,6 +680,13 @@ roast [the meat]. It was the elder brother [who did this].
 \xv Konda bedman na-Barabba, Kurrkdjurle, kunred nuye Wamud na-Barabba, nawernwarre ngarduk Kurrkdjurle. Kunred nuye Mimburrng.
 \xe This [land] here belongs to the Barabba clan, this place Kurrkdjurle was for Wamud of the Barabba clan who was my eldest brother, Kurrkdjurle [was his place]. His country was Mimburrng [an estate name].
 \ee A <b>yikurrumu</b> name equivalent for Barabba clan is <b>wanjngurra</b>
+\sd clan_name
+\dt 28/Oct/2007
+
+\lx Barangh
+\ps prop. n.
+\re clan name
+\de A <i>duwa</i> moiety Jawoyn speaking patriclan on the southern Arnhem Land plateau in the upper Mann River region.
 \sd clan_name
 \dt 28/Oct/2007
 
@@ -1288,6 +1309,15 @@ which has grown during the wet season)
 \dt 28/Oct/2007
 \dm 14/Oct/2018
 
+\lx Barradj
+\ps prop. n.
+\re clan name
+\de Name of a <i>yirridjdja</i> moiety patriclan on the Arnhem Land plateau.
+\xv Duwa, bedberre Worrkorl Warddjak. Kaddum wam wanjh bebmeng bu Barradj, kubuldjdjarn. Kadjale kaddum Kayerrngwe kaddum badjalwam duwa.
+\xe That's the <i>duwa</i> moiety area for the Worrkorl and Warddjak clans. It goes upstream and becomes Barradj in the middle [of the East Alligator river].  It goes all the way to Kayerrngwe and belongs to <i>duwa</i> moiety upstream [from there].
+\sd clan_name
+\dt 29/Oct/2007
+
 \lx barrarn
 \pr man-
 \ps n.
@@ -1344,6 +1374,34 @@ nominal predicate <b>kabarrarn</b> 'there is a gorge'
 \nt DK: Andrew spells it 'barrdjungka' ("Bu kamarnbun manbu mandem wanjh barrdjungka kamarnbun kabirrimimngun."), it sounds like this to me as well. This is definitely regarded as a 'part' of the waterlily in Kunwinjku, but I can't quite work out what it is. At Injalak I translated it as 'waterlily seeds', but that's not entirely it either. Jill: Manmim kawarrhme wanjh kadjordmen - manekke barrdjungka ngarringeybun. Mandem manu mankuk. Mandem mankimuk, barrdjungka nayahwurd. Young waterlily plant when just growing from seed. Yika ngarriwilkdeng, yika ngarridjalngun. Dabborrabbolk birrimarnbuni kandidjdjawa.
 \dt 25/Dec/2007
 \dm 15/Dec/2018
+
+\lx barrhbarrhmang
+\ps v.t.
+\re hit
+\re clap
+\re swat
+\de Hit, clap, swat.
+\xv Mandubang kunmalaworr kabirrimalaworrhkinje wanjh  kabindikukbarrhbarrhmang nawu bininj kundolng dorrengh. 
+\xe They burn ironwood branches and swat people with the smoking branches.
+\so Jill Nganjmirra
+\xv Kabirribobarrhbarrhmang.
+\xe They hit the water (so it splashes up). 
+\so Jill Nganjmirra
+\xv Yibarrhbarrhma.
+\xe Hit it [ritually hit the sacred site with the branch].
+\so Jill Nganjmirra
+\se bidbarrhbarrhmarren
+\re clap hands
+\de Clap one's hands together
+\sy biddowkme
+\se kurlahbarrhbarrhmarren
+\de clap
+\de Make a clapping sound by hitting one part of the body against another. 
+\nt DK: Jill said "Yibarrhbarrhma" could be glossed as "yidongohdo", and "kabirribobarrhbarrhmang" was similar to "kabirribowkme". Related to djambarrhmang. Jill didn't dispute 'barrhmang', but seemed more comfortable with 'barrhbarrhmang'. She said that hitting a sacred site and smoking people were two typical and common usages. 
+\id DK
+\id JNg
+\dt 23/Jun/2019 
+\dm 29/Feb/2020
 
 \lx barrhbun
 \ps v.i.
@@ -2166,6 +2224,17 @@ or exclusively and 'in contrast'.
 \ur I,E= berdno
 \sd body_part
 \dm 14/Oct/2018
+
+\lx Berdberd
+\ps prop. n.
+\re clan name
+\de Name of a patriclan with territory on the Arnhem Land plateau.
+\xv Nayuhyungki nawu nungan bangehngeybuni bu bahdjangweyi. Ngabbard barridjangweyi, na-Mok na-Berdberd. Ngayi mak bolkki ngamidjbun. Bad marrek kandimidjbun ngandiburrknan nawu kunred ngare.
+\xe The first ancestors called their names and performed increase rituals for them [nectar-bearing flowering trees]. My father [and his brothers] performed increase rituals, they were of Mok and Berdberd clans. Today I don't recognise some [of the places]. But they [the ancestors] still recognise me as I go about the country.
+\ee the Berdberd clan <b>kun-dangwok</b> interjection is <b>belkngun</b>
+\sd clan_name
+\dt 17/May/2007
+\dm 14/Sep/2018
 
 \lx berddjenj
 \pr ngal-
@@ -3603,6 +3672,19 @@ the plateau which is dominated more by open savanna forest.
 \de Follow a path or road.
 \dt 22/Apr/2019
 
+\lx Bolmo
+\ps prop. n.
+\re clan name
+\de Name of (at least) three <i>duwa</i> moiety patriclans- one on the central Arnhem Land plateau, one a Jawoyn speaking clan to the south and another on the upper East Alligator River.
+\xv Kondanj wanjh Kayerrngwe wanjh Bolmo.
+\xe Here the place is called Kayerrngwe and then it is Bolmo clan land [neighbouring].
+\xv Mamamh nganmarnemurrngkang ngalyikbolmo nani Rarrkal nganeyaw weleng yakminj kumekke kuwardde ngarri-murrngkurrmeng. Namekke kukurlk.
+\xe My mother's father's sister of the Bolmo clan put those [kangaroo] bones there, Rarrkal and I were her grandchildren but she died and so we put all these bones in the rock there. Those there on the ground.
+\ee The Bolmo clan <b>kundangwok</b> interjection (Marlkawo lineage) is <b>ngabbarna</b> or <b>barna</b>
+\sd clan_name
+\dt 10/Jun/2007
+\dm 14/Sep/2018
+
 \lx borliblib
 \ps n.
 \re Australian Magpie Lark
@@ -3619,6 +3701,18 @@ the plateau which is dominated more by open savanna forest.
 \id MG, AM
 \dt 21/Sept/2016
 \dm 10/Mar/2019
+
+\lx Born
+\ps prop. n.
+\re clan name
+\de Name of a <b>duwa</b> moiety patriclan in the lower Liverpool River region.
+\xv Nani Born wanjh yoh na-Born, mani kubolkngamed...Mirwi.
+\xe This [place] belongs to the Born clan, and this here is for whatsit, the Mirwi clan.
+\xv Nabangardi nangalayngu nakka kahdi Namokardabu na-Born.
+\xe Nabangardi the one who is our mother's brother [you being my brother] and who lives at Namokardabu, the man of the Born clan.
+\sd clan_name
+\dt 18/May/2007
+\dm 14/Sep/2018
 
 \lx bolk
 \pr kun-
@@ -4643,6 +4737,17 @@ this). They flew up into the sky and they left her on the ground to walk around.
 \dt 17/Apr/2017
 \dm 14/Oct/2019
 
+\lx Bulumo
+\ps prop. n.
+\re clan name
+\de Name of a patriclan on the southern Arnhem Land plateau.
+\xv Kabanibirliyingarrnghmang kabolkbulumo.
+\xe Kabanibirliyingarrnghmang is a place belonging to the Bulumo clan.
+\sd clan_name
+\so LBN
+\dt 10/Jun/2007
+\dm 14/Sep/2018
+
 \lx burlerri
 \ps adj.
 \re black
@@ -4821,6 +4926,16 @@ this). They flew up into the sky and they left her on the ground to walk around.
 \dt 13/Jun/2015
 \dm 14/Oct/2019
 
+\lx Bunidj
+\ps prop. n.
+\re clan name
+\de A name for two geographically discontiguous clans in Kakadu National Park and north-western Arnhem Land, the latter associated with the Amurdak language and former with the Gaagadju language.
+\xv Birri-Bunidj kunred bedberre yiman kayime Madjikkarra. Nayidjdji nungka na-Bunidj.
+\xe The Bunidj people have country such as at Madjikkarra. [Bill] Nayidjdji is a Bunidj clansman.
+\sd clan_name
+\dt 10/Jun/2007
+\dm 14/Sep/2018
+
 \lx bunje
 \ps n.
 \re blind person
@@ -4881,6 +4996,18 @@ this). They flew up into the sky and they left her on the ground to walk around.
 \pdn kk= bidjirrbonghme
 \dt 13/Oct/2003
 \dm 28/Oct/2018
+
+\lx Burdoh
+\va Bordoh
+\ps prop. n.
+\re clan name
+\de Name of a patriclan with territory on the Arnhem Land plateau.
+\xv Manih birri-Burdoh bedberre birribidkuykmerrinj.
+\xe These hand stencils here were made by people of the Burdoh clan.
+\sd clan_name
+\so Mick Kubarkku
+\dt 09/Jun/2007
+\dm 14/Sep/2018
 
 \lx burlume
 \ps v.t.
@@ -5289,6 +5416,16 @@ this). They flew up into the sky and they left her on the ground to walk around.
 \dm 23/Jun/2019
 \dt 13/Oct/2003
 
+\lx Dadjbaku
+\ps prop. n.
+\re clan name
+\de Name of a patriclan located in Kakadu National Park.
+\xv Bunidj mak birriburrbuni en, nakka nawu Kakudju nawu birriwokdi, njamed, ah Murumburr, birrihbengkang, Djindibi, Dadjbaku birriburrbuni nani Kunwinjku nawinjku konda Kunbarlanja Mengerrdji nakka birri-burrbom manekke <i>story</i>.
+\xe The Bunidj clan people knew that [story about the knob-tailed gecko dreaming] and the people who used to speak Gaagadju, and also whatsit, the Murumburr clan, they knew and the Djindibi clan, Dadjbaku clan, they knew and the people who spoke Kunwinjku here at Kunbarlanja, and also those such as the Mengerrdji language people, they all knew that story.
+\sd clan_name
+\dt 10/Jun/2007
+\dm 14/Sep/2018
+
 \lx dadjke
 \ps v.t.
 \sn 1
@@ -5489,6 +5626,16 @@ kabirrimang kabirribiddadjkerren karlba kore kunbende kare kore kunbid.
 \xe Women.
 \pdn kk = ngaldjubdjubken
 \dm 11/Nov/2018
+
+\lx Danek
+\ps prop. n.
+\re clan name
+\de Name of a patriclan to the north of the Arnhem Land plateau.
+\xv Kubomerlem kumekke kadjobme Warddjak. Ngalengman beh Danek. Danek wanjh kayimerran. Kukalak manu.
+\xe The place Kubomerlem is where the Warddjak clan finishes. Then further on its Danek. It becomes Danek land then. That is Kukalak [a regional estate name].
+\sd clan_name
+\dt 18/May/2007
+\dm 14/Sep/2018
 
 \lx danek
 \pr man-
@@ -5910,6 +6057,26 @@ they are Marrirn sites.
 \so Jill Nganjmirra
 \dm Sep/2019
 
+\lx darrinj
+\ps adj.
+\re public
+\re non-restricted
+\re non-secret
+\de In the public domain, non-secret knowledge or a place which is open to general public access.
+\xv Kubolkdarrinj. 
+\xe A non-sacred place, outside the ceremonial area. 
+\so Jill Nganjmirra
+\xv Narrarrinj bonj kamak daluk kabarriwokbekkan.
+\xe That's non-secret [language], women are allowed to hear those words.
+\xv A: Morrdjdjanjno kakarrme Wubarr, ngabengkan. Andjamun. Nakudji morrdjdjanjno narrarrinj daluk kabirribekkan. B:  Andarrinj makka, mak anbuyika ngakalalameng andjamun manu Wubarr.
+\xe A: The Ubarr ceremony has <i>morrdjdjanjno</i> songs, I know them. They are secret. Only the public <i>morrdjdjanjno</i> songs can be heard by women. B: They are in the public domain, but those other special songs I just sang are from the Ubarr ceremony and are secret.
+\an djamun, na-djamun
+\uv Djnj, E, W
+\ur I= -yarlang
+\nt DK: Jill describes young men leaving a ceremonial ground "from kubolkdjamun to kubolkdarrinj. Wanjh kabirrikukdarrinjmen. / first in sacred ground kabirrikukdjamun."
+\dt 13/Mar/2007
+\dm 29/Feb/2020
+
 \lx darrkid
 \ps pred. adj.
 \sn 1
@@ -5955,6 +6122,19 @@ they are Marrirn sites.
 \ur I= derbadno, kunderbad
 \sd body_part
 \dm 11/Nov/2018
+
+\lx dayo
+\ps v.i.
+\re lie in sun
+\de Lie in the sun
+\xv Yirrmeng rowk wanjh mey daweng, dayohdayoy dayonginj rowk darlehminj. 
+\xe She split it all [the pandanus leaves] into strips, then put them in the sun to dry. They lay there in the sun and all dried out. 
+\xv Burarr karrinan kakukdayo kore kunwardde kukorlh kore manwodj kahwodjyo kundulk.
+\xe We see water goannas lying in the sun on flat rocks by the river or where there are logs. 
+\so Andrew Manakgu, Injalak Arts painting documentation 
+\uv W
+\cf dakurrme
+\ce Place in the sun.
 
 \lx dedded
 \ps n.
@@ -6441,6 +6621,15 @@ Burrkyak. Kabirridjalngeybun. Minj kabirridebikarren, burrkyak.
 \uv W
 \ur I= dirnadirna 
 \dm 14/Sep/2018
+
+\lx Dinjhmi
+\ps prop. n.
+\re clan name
+\de Clan name associated with Jawoyn language and the upper Mann River region.
+\xv Djal Mann River. Nawu Dinjhmi Bokmarnde, anekke Mann River.
+\xe Still on the Mann River. Those Dinjhmi and Bokmarnde clans are on the Mann River.
+\sd clan_name
+\dt 10/Mar/2012
 
 \lx dird
 \ps n.
@@ -7630,6 +7819,17 @@ birridukkarrukkarrinj.
 \dt 06/May/2006
 \dm 10/Mar/2019
 
+\lx Durlmangkarr
+\va Dulmangkarr
+\ps prop. n.
+\re clan name
+\de Clan name name of a patriclan on the Arnhem Land plateau.
+\xv Ngalkirdimu, kabarrarn ngaleng yinan kunu Bod Kadjangdi, yoh anbarrarn. Makka wanjh na-Burdohken. Kilhken na-rrurlmangkarr karrkad na-Rol karrkad koyek. Kure Durlmangkarrken dulumno ya karrkad kure yirridjdja na-Rolken.
+\xe At Ngalkirdimu, there is a gorge you can see, that's Bod Kadjangdi, yes a gorge. That's then for the Burdoh clan. The lower area [in the catchment] is Durlmangkarr and up on top to the east is Rol clan. The hills there are for Durlmangkarr but once you're on top that's <i>yirridjdja</i> moiety Rol estate.
+\sd clan_name
+\dt 10/Jun/2007
+\dm 14/Sep/2018
+
 \lx durndeng
 \ps v.i.
 \ng In Kune dialect, there is no use of the directional'-m-' marker as in Kunwinjku and Kuninjku. Thus, in Kune, <b>yidurnde</b>! may mean either 'come back' or 'go back'. The meaning is made clear by the context.
@@ -7878,6 +8078,18 @@ birridukkarrukkarrinj.
 \sd fish
 \dt 06/May/2006
 \dm 25/Nov/2018
+
+\lx djaberle
+\ps n.
+\ng no prefix
+\re bone yam knife
+\de Yam knife made from the shoulder blade bone of a kangaroo.
+\xv Korroko dabborrabbolk birrimangi kunj djaberlemurrng, birrimarnbuni djaberle bu birridadjkeyiken manme. Yiman kayime mankinjdjek birridadjkeyi. 
+\xe In the old days, our ancestors would get the shoulder blades of kangaroos and use them to make bone knives for cutting food, for example cheeky yams. 
+\so Jill Nganjmirra
+\sd material_culture
+\nt DK: Jill says people would keep them and carry them around with them in their string bags. 
+\dm Jan/2020
 
 \lx djaberle
 \pr kun-
@@ -9111,6 +9323,23 @@ dry time has properly arrived. The seeds may be eaten raw.
 \nt Jill notes she would spell it ‘djirla’. Andrew and Kunwinjku Spirit also spell it this way. 
 \dm 10/Mar/2019
 
+\lx djilawarnbed
+\ps n.
+\re millipede
+\de Giant millipede.
+\xv Djilawarnbed nakka mayh nawu nungan kayo kore kuwardde dja njilhmi, yiman kakukyime djalarr. Kaluk nungan dedjdjumbung minj kanbaye dja bu karrikarrme karribidyayme dja karribidburlurlhme.
+\xe Millipedes are insects that live in rocky country and by springs. They look a bit like centipedes, but they're shorter and don't bite. But they can make your hands itchy and swollen if you handle them. 
+\so Jill Nganjmirra
+\xv Korroko dabborrabbolk bindimarneyimi nawu yawuhyawurrinj bu kunborlidj birrikarrmi kore kuberrekalk dja kukarlang bokenh, birriyimi "Kunborlidj ke yiman kayime djilawarnbed kahyo".
+\xe In the old days, our ancestors used to tell the young men who had ritual scars on their chest and shoulders [when their scars had healed and come up] "Your scars are like millipedes". 
+\so Jill Nganjmirra
+\xv Djilwarnbed nadjinem, nadjinem kangun kamarnbun kunbalem.
+\xe The black wallaroo eats millipedes and it makes them fat.
+\so Bardayal Nadjamerrek
+\sd insect
+\nt DK: Jill doesn't know about wallaroos eating millipedes, she wonders if this is mixed up with djilard-djilard (which they eat). I was a little bit confused about millipedes making you itchy, but research does turn up that some millipedes can give off irritant secretions to avoid being eaten. Jill says the millipede scar 'compliment' would be given "bu birrimokdoweni, kunborlidj kumbebmi". Jill describes the insect as "No hairs, bidwern bidwern warridj. Dark brown, dja yawkukkuyeng." MG- I presume Lofty Bardayal Nadjamerrek was not mixed up when providing this information.
+\dm 29/Feb/2020
+
 \lx djilidjilih
 \ps n.
 \ge grass.sp.
@@ -9181,6 +9410,16 @@ dry time has properly arrived. The seeds may be eaten raw.
 \xe In the east wind season the wind blows from the east.
 \ur Yolngu Matha= dhimurru
 \sd weather
+\dm 14/Sep/2018
+
+\lx Djindibi
+\va Yindiwi
+\ps prop. n.
+\re clan name
+\de Name of four different patriclans, one in Kakadu National Park, another associated with the Amurdak language and pronounced <b>Yindiwi</b>, the third a Kunwinjku <i>yirridjdja</i> moiety clan located in the region near the mouth of the Goomadeer [Kumadderr] River, and the fourth an extinct Kunwinjku Djindibi in the Kuborlomborlom region.
+\ee The clan known as <b>Yindiwi</b> on Van Diemen's Gulf is cognate with <b>Djindibi</b> and is the Iwaidja and Amurdak version of the same name, the 'dj' and ''b' having undergone a process of lenition.
+\sd clan_name
+\dt 22/May/2007
 \dm 14/Sep/2018
 
 \lx djinem
@@ -9380,6 +9619,17 @@ dry time has properly arrived. The seeds may be eaten raw.
 \dt 30/Jul/2016
 \dm 14/Sep/2018
 
+\lx Djok
+\ps prop. n.
+\re clan name
+\de Name of three different <i>duwa</i> moiety patriclans, one in the Tin Camp Creek and Myra Falls region, the second in Kakadu National Park and a third on the lower Liverpool River.
+\ee The Liverpool River Djok clan is also known by the synonym <b>Djokwarndarr</b> and also has an equivalent <b>yikurrumu</b> (ritualistic) name of <b>Namelkmelk</b>
+\xv A:Birrikodbarrebom dolobbo, birridakmeng. B:Kumekke Ngalirrikewern? A: Yo wanjh kunred bedberre birrimey, na-Djokyih.
+\xe A: They made house with stringy bark, they peeled it off the trees. B: There at Ngalirrkewern? A: Yes, they made their camp there, in Djok country.
+\sd clan_name
+\dt 11/Jun/2007
+\dm 14/Sep/2018
+
 \lx djokko
 \ps adj.
 \re narrow
@@ -9560,6 +9810,15 @@ bininj kabarridi kure kukebrok.
 \de Stretch oneself, stretch out. 
 \id AM
 \dt 14/Mar/2017
+
+\lx Djorrorlam
+\ps prop. n.
+\re clan name
+\de Name of a <i>yirridjdja</i> moiety patriclan on the Arnhem Land plateau (upper Mann River region). Major totem is <b>narlangak</b> 'frilled-neck lizard'.
+\xv Ngandibukkang bu dolobbo Ngabbard nganbukkang en kakkak ngayahwurdni dja yakminj nawu nawernwarre en birri-Djorrorlam and na-Mowalangu Bangardi.
+\xe They all showed me how to paint on bark, my father and my mother's mother's brothers, one of whom died when I was small. And also my Djorrorlam clan relatives and a Bangardi subsection man of the Mowalangu clan [whom I call mother's mother's brother also].
+\sd clan_name
+\dt 11/Jun/2007
 
 \lx djowkke
 \ps v.t.
@@ -10007,6 +10266,16 @@ bininj kabarridi kure kukebrok.
 \nt DK: Simplified to one variation here based on Health book. Jill would spell it durddu though?
 \dt 08/May/2018
 \dm 10/Mar/2019
+
+\lx Ildukidj
+\va Yulukidj
+\ps prop. n.
+\re clan name
+\de Name of an Iwaidja patriclan in north-west Arnhem Land.
+\ee The Iwaidja name <b>Ildukidj</b> (spelt <b>Ildugij</b> in Iwaidja orthogrphy) is cognate with the Bininj Kunwok name <b>Yulukidj</b> but the latter name refers to another territory discontiguous with the Iwaidja clan.
+\sd clan_name
+\dt 19/May/2007
+\dm 14/Sep/2018
 
 \lx ka
 \pr kun-
@@ -12584,6 +12853,18 @@ birrikilelh namekke.
 \nt DK: Etherington and Kunwinjku spirit have 'kodjduhmeng', but Etherington also has kukdukmeng - ducked away from a blow. I've changed the [xv] above to reflect the [lx]. Jill agrees with the 'dukme' spelling. Original place name spelling in [xv] is 'Wayyirra', but that seems like bad spelling. I'm thinking it might be North Goulburn Island, 'Twined Together' includes a story where 'Wayirran' is North Goulburn Island, and the Maung word is 'Weyirra'. 
 \dm 23/Jun/2019
 
+\lx Kodjkarndi
+\va Kodjkandi
+\ps prop. n.
+\re clan name
+\de Name of a <i>yirridjdja</i> moiety Kundjeyhmi patriclan in Kakadu National Park.
+\xv Mardbaluk, kundulk anmardba kabolkngeykenkan. Bolkkodjkandi kumekke.
+\xe The place Mardbaluk takes its name from the tree <i>an-mardba</i> [<i>-luk</i> is a locative suffix in Jawoyn]. It is a place in the Kodjkandi clan's territory.
+\sd clan_name
+\nt DK: Jill notes “Kodjkarndi” and Etherington spells it this way too. Kundjeyhmi dictionary also has this [va], with the definition “Clan name in north-eastern Kakadu National Park, fv::yirridjdja moiety, now extinct.” MG- okay, I’ve swapped the variants around to make Kodjkarndi the headword.
+\dt 19/Jun/2018
+\dm 14/Sep/2018
+
 \lx kodjkewarre
 \ps adj.
 \re sleepy
@@ -14527,6 +14808,17 @@ to die.’ Etherington has ‘kunukka - about that, this’ and ‘kunukka - in 
 \dt 19/Mar/2018
 \dm 14/Sep/2018
 
+\lx Kurulk
+\ps prop. n.
+\re clan name
+\de Name of a <i>duwa</i> moiety patriclan on the lower and middle Mann River.
+\xv Yoh, Kabarrebarre, birrikoluyi, birriniwirrinj. La bedberre kunred, Kela, Kela, Kela, Wamud. Yoh, bedberre kunred. Birri-Kurulk. 
+\xe Yes, they went down to Kabarrebarre (on the Mann River) and stayed there. It was all their country, Kela, Kela, Kela and Wamud. Yes all of those people of Kurulk clan.
+\ee <i>yikurrumu</i> clan equivalents are <b>Kandadjdja</b>, <b>Manayamarra</b> and <b>Wurrkku</b>.
+\sd clan_name
+\dt 19/May/2007
+\dm 14/Sep/2018
+
 \lx kururrk
 \ps loc.
 \re inside
@@ -15205,6 +15497,17 @@ purposes. Also once used for circumcision ceremonies.
 \de Wait.
 \dm 14/Sep/2018
 
+\lx Maddalk
+\ps prop. n.
+\re clan name
+\de Name of a <i>duwa</i> moiety patriclan on the upper East Alligator River region.
+\xv Manih yinan kabore Ngalngordbudjum. Mankabo kawanjdjadduluburren, Kukalangak, kaddum kure na-Maddalk kunred. Kaddum manwanjdjad Maddalk Karlbakarridjam, Kalawan Kamik, Worrkorl kilhken.
+\xe You see this [creek] it goes to Ngalngordbudjum. The confluence of this creek [with the river] is at Kukalangak and upstream from there it is Maddalk clan country. Following that creek upstream are the Maddalk clan sites of Karlbakarridjam, Kalawan Kamik, and the Worrkorl clan land is downstream.
+\so Bardayal Nadjamerrek
+\sd clan_name
+\dt 11/Jun/2007
+\dm 14/Sep/2018
+
 \lx maddeng
 \ps v.t.
 \sn 1
@@ -15311,6 +15614,17 @@ purposes. Also once used for circumcision ceremonies.
 \dt 22/May/2007
 \dm 10/Dec/2019
 
+\lx Madjba
+\ps prop. n.
+\re clan name
+\de Name of a <i>duwa</i> moiety patriclan.
+\xv Anbolh ngarribunjyidurndengi, arridadjkeyi arrikolemirndemey, Marranboy. Ngarridjohdjorrngmi Djulnuk o maitbi ngamed, barridjorrngmi, ankole arridjorrngmi Wurlbbum. Ngale mak ngakordidjmerren kumekke, ngalekke mak berlbarli ngadburrung Madjba kumekke kangeyyo [laughter]. Ya, ngabolkdarrame ke.
+\xe We'd follow the route back, carrying the bundles of bamboo spear shafts having cut large numbers of them coming from Marranboy. We'd straighten out the shafts at Djulnuk or maybe whatsit, we'd straighten them out at Wurlbbum. I've just sworn at myself because my sister of the Madjba clan has the same name as that place [laughs]. Yes, I'm referring to her for you by saying the name of that
+place.
+\sd clan_name
+\dt 19/May/2007
+\dm 14/Sep/2018
+
 \lx mahbilil
 \ps n.
 \re ocean wind
@@ -15353,6 +15667,45 @@ purposes. Also once used for circumcision ceremonies.
 \pdn kk = kamarlang
 \dm 14/Sep/2018
 
+\lx mak
+\ps conj.
+\sn 1
+\re as well
+\re (and) also
+\re too
+\de Also, too, as well, and also.
+\xv Ngarwunja rolk djang mak ngurrurdu djang.
+\xe There are maggot and also emu sacred sites at Ngarwunja.
+\xv "Kandadju kundad dja ngamarrwedoweng." "Aba, minj won, ngaye mak ngamarrwedoweng."
+\xe "Give me a [turtle] leg, because I'm hungry” “No way. I can't give you any. I'm hungry too." 
+\so Manakgu, Andrew, ‘Bu Ngurriborlhme Kunwinjku: Learning Kunwinjku’, Kunwinjku Language Centre, Gunbalanya, 1994
+\sn 2
+\re alternatively
+\de Alternatively, or alternatively, or also. Often preceded by <b>yika</b>. 
+\xv Bu korroko nawu dabborrabbolk birrimarnbuni kuluyambi bu kudjewk yimerrangeni. Wanjh birrikarrikmi, yika mak birribolkdjudmi mandulkkuyeng bu birrirey.
+\xe In the old days our ancestors used to make rafts in the wet season. Then they would row them, or alternatively use a long stick to push off from the river bed and pole the raft.
+\so Jill Nganjmirra
+\sn 3 
+\re either
+\de Either (in negative phrases, i.e. 'not either'). 
+\xv Malalam ngarriyime yiman kayime kabbal mankabbalwarlah dja mankimuk. Minj kundulk kadi dja kunrorre dja kunkayalanj kadjalyo. Mak minj kukku kaboyo yiman kabolkdarlehmen ngarrinan kundjulng kadolkarren mak kamirrhmirrhme. Dja mak karrinan yiman kukku kaboyo kore kabbal.
+\xe What we call a desert is like a large, wide floodplain without trees, only dirt and sand. There's no water either, it's a dry place where the dust rises in clouds and the heat shimmers in the air. It can also look as if there is water there, like a floodplain [a mirage]. 
+\so Jill Nganjmirra
+\se minj mak
+\re not either
+\re not any more
+\re not any further
+\re not again
+\de Not either, not any more, not any further, not after that, not again. 
+\xv Ngalbu ngarrbek kumyirrurndengi manbu manme dja mayh dja ngalbu ngalmangeyi minj mak bibalmadbuyi, dja marrwedoweng. Wanjh bimarneyawnguneng.
+\xe The Echidna was bringing back food and meat for the Long-necked Turtle, but the turtle couldn't wait any more, she was hungry so she ate the Echidna's baby. 
+\xv Nayawurrinj bu mokdoweni, wanjh kunborlidj munguyh djaldi. Minj mak yakmeninj. 
+\xe When the young man's cuts had healed, the scarification would remain. It wouldn't disappear again.
+\so Jill Nganjmirra 
+\nt DK: Etherington has mak (independent words) - also, mak (independent words) - as well,  mak (independent words) too. I've added the senses of 'alternatively', 'either' and 'not any more' based on example sentences, but maybe they could be refined. 
+\id DK
+\dt 22/Jan/2020
+\dm 29/Feb/2020
 
 \lx makali
 \ps n.
@@ -15477,6 +15830,25 @@ purposes. Also once used for circumcision ceremonies.
 \so Jimmy Kalarriya, quoted in Murray Garde (ed.), Something about emus : Indigenous knowledge of emus from western Arnhem Land, Canberra, A.C.T. Aboriginal Studies Press, 2017, p. 19 (Kundedjnjenghmi)
 \cf kunmalaworr
 \dm 27/Dec/2019
+
+\lx malalam
+\ps n.
+\re desert
+\re dry area
+\de Dry land often on gentle slopes or undulating country either on the plateau or on lowlands; typically brown to reddish soils with little grass. Some speakers describe it as covered with thin tall trees especially Eucalypts whilst others say there are no trees, only dry open sandy or dusty country, especially on the lowland regions.
+\sy kubolkmalalam
+\xv Malalam ngarriyime yiman kayime kabbal mankabbalwarlah dja mankimuk. Minj kundulk kadi dja kunrorre dja kunkayalanj kadjalyo. Mak minj kukku kaboyo yiman kabolkdarlehmen ngarrinan kundjulng kadolkarren mak kamirrhmirrhme. Dja mak karrinan yiman kukku kaboyo kore kabbal.
+\xe What we call a <b>malalam</b> is like a large, wide open area without trees, only dirt and sand. There's no water either, it's a dry place where the dust rises in clouds and the heat shimmers in the air. It can even look as if there is water there, like a floodplain [a mirage]. 
+\so Jill Nganjmirra
+\xv Minj ngaye ngare kore walem kubolkmalalam. Minj kadjurledi.  
+\xe I'm not going down south to those desert areas. There's no shade. 
+\so Jill Nganjmirra
+\xv Belendjerre kure malalam kahdi kukebkali.
+\xe <b>Belendjerre</b> grass grows in the dry eucalypt areas at the base of rocky outcrops.
+\nt DK: Jill says this is how the old people who'd visited southern areas used to describe it, like a big floodplain without trees. 
+\id JNg
+\id DK
+\dt 29/Feb/2020
 
 \lx malay-
 \ps temp. adv.
@@ -15741,6 +16113,18 @@ purposes. Also once used for circumcision ceremonies.
 \sd material_culture
 \dm 01/Jun/2019
 
+\lx Mandjulngunj
+\ps prop. n.
+\re clan name
+\de Name of possibly 4 different patriclans; a Kunwinjku <i>duwa</i> moiety Mandjulngunj in the region to the east and north-east of Kunbarlanja, another a Mengerr <i>yirridjdja</i> moiety Mandjulngunj on which the settlement of Kunbarlanja (Oenpelli) is situated, the third, a Mawng Mandjulngunj, <i>yirridjdja</i> moiety in the King River and Wellington Ranges district of western Arnhem Land and the fourth a now extinct Ngaduk language patriclan in north-east Kakadu National Park.
+\xv Bu Kunbarlanja ngarre, Kunbarlanja ngarrbendjawan bininj ngadjawan and bininj nakohbanj minj nakohbanj bad yawurrinj, minj kakodjbulu kadjalbengkan. Ngarridjawan konda nangale nuye kunred, 'Mandjulngunj' kayime. 
+\xe If you and I go to Kunbarlanja and we ask people there, an old person and not just an older person, a young man also, someone who doesn't have grey hair, they would know [immediately]. If we ask 'Whose country is this [here at Kunbarlanja] he would say 'Mandjulngunj'.
+\xv Bonj wanjh konda bu konda Mandjulngunj kunred bonj manu mani ngarrbidbun nungka wanjh Maningkali manu mane manberrk.
+\xe This is all Mandjulngunj country here, but if we go up [upstream in the catchment] it is Maningkali- all of this open forest savanna here.
+\sd clan_name
+\dt 10/Jun/2007
+\dm 14/Sep/2018
+
 \lx mandjurrukkumarlba
 \ps n.
 \re Antidesma_ghaesembilla
@@ -15778,6 +16162,16 @@ purposes. Also once used for circumcision ceremonies.
 \ps dem.
 \re that
 \de That previously referred to, that known topic of discourse (agrees with vegetable class nouns).
+\dm 14/Sep/2018
+
+\lx Manengkarerrbe
+\va Manengkarerrben
+\ps prop. n.
+\re clan name
+\de Name of a <i>yirridjdja</i> moiety patriclan in the mouth of the Liverpool River associated with the Kunibídji and Kundjirrbara (the latter now extinct) languages. Manengkarerrbe clan members today speak the Ndjébbana language.
+\ee Manengkarerrbe clan members today speak the Ndjébbana language.
+\sd clan_name
+\dt 11/Jun/2007
 \dm 14/Sep/2018
 
 \lx mani
@@ -15822,6 +16216,16 @@ purposes. Also once used for circumcision ceremonies.
 \xv Korroko Manginburru bininj birrini kunred ngardduk.
 \xe A long time ago Manginburru people lived on my land.
 \dt 07/Apr/2009
+
+\lx Manilakarr
+\ps prop. n.
+\re clan name
+\de Name of an Urningangk language patriclan in the Kakadu-western Arnhem Land border region.
+\xv Namarnde Bangolkarrmeng... ngamed nawu Wamud nuye nangamed Nayingkul, ngamed kunnguya njamed na-Manilakarr.
+\xe Namarnde Bangolkarrmeng ... belongs to Wamud, whatsisname, Nayingul, of the whatsit, Manilakarr patriclan.
+\sd clan_name
+\dt 11/Jun/2007
+\dm 14/Sep/2018
 
 \lx manimunak
 \ps n.
@@ -15945,6 +16349,29 @@ purposes. Also once used for circumcision ceremonies.
 \pdn kk = ngalwirnyi.
 \sd reptile/amphibian
 \dm 14/Sep/2018
+
+\lx manjmak
+\va manmanjmak
+\ps adj.
+\re delicious
+\re sweet
+\re tasty
+\re good tasting
+\de Good tasting, sweet, pleasant aroma.
+\xv Ngalbadjan bimarneyimeng nawu wurdyaw "Yingu mahni manme manmanjmak duninjh". 
+\xe The mother told the child "Eat up that food, it's really tasty". 
+\so Jill Nganjmirra
+\sn 2
+\re sweet smelling
+\de Sweet smelling. 
+\xv Mannguy manmanjmak.
+\xe A sweet smelling flower. 
+\so Jill Nganjmirra
+\xv Mak nawu kunkukken kabirrikukbarurren nakka namanjmakkayken.
+\xe Also when people put on skin cream, it smells really nice. 
+\so Jill Nganjmirra
+\nt DK: 'Skin cream' was Jill's translation, she implied the word could also apply to perfume though. 
+\dm 29/Feb/2020
 
 \lx manjmiken
 \pr na-
@@ -16420,6 +16847,18 @@ Namanjmiken kakanjkinje mankudji kunkanj bulikki bu wolewoleh kore Kunbalanja. I
 \dt 05/Feb/2017
 \dm 15/Dec/2018
 
+\lx Marrirn
+\ps prop. n.
+\re clan name
+\de Name of several <i>yirridjdja</i> moiety Kunwinjku and Kuninjku-speaking patriclans. The main Marrirn group is associated with Kumarrirnbang region; a second is located on the Liverpool River estate; a third is associated with an estate near Kakodbebuldi outstation, Mann River and the fourth is known as <b>Nabiwo Marrirn</b> after the matrimoiety phratry affiliation of the last traditional owner of this estate, a man named Naburlurl or Nabunbu of <b>na-Kamarrang</b> subsection.
+\xv Kure Bangardi baruy Kordoberr. Na-Marrirn, ruy manwurrk.
+\xe Bangardi was burnt at Kordoberr. A Marrirn clansman, he was burnt in a [kangaroo] fire drive.
+\xv Wanjh kumekke kabolkburnbun, Dird Marrirn Nadjarrawo nakka Marrirn nadjangmarrirn, kaddum djarreh djal Marrirn munguyh... yidjalay.
+\xe That site, the moon dreaming is the last Marrirn place after the whirlwind dreaming in Marrirn estate, but upstream [on another watercourse] it's Marrirn all the way... you keep going for a long way [and it's still Marrirn territory].
+\sd clan_name
+\dt 21/May/2007
+\dm 14/Sep/2018
+
 \lx marrkidjbu
 \ps n.
 \re man with special supernatural power
@@ -16637,6 +17076,15 @@ kahdi.
 \ps n.
 \re bird
 \de Bird, birds (generic term). 
+\dm 14/Sep/2018
+
+\lx Mayirrkulidj
+\va Mayirrulidj
+\ps prop. n.
+\re clan name
+\de Name of two patriclans; one, a Kunwinjku patriclan in the upper Goomadeer (<b>Kumadderr</b>) River district and the other a Mawng clan (pronounced <b>Mayirrulidj</b>) in the Wellington Range coastal region of north-west Arnhem Land.
+\sd clan_name
+\dt 21/May/2007
 \dm 14/Sep/2018
 
 \lx mayorrk
@@ -16913,6 +17361,17 @@ kahdi.
 \id DK
 \id JNg
 \dt 11/Aug/2019
+
+\lx Mikkinj
+\ps prop. n. 
+\re placename
+\re Mikkinj Valley
+\de The Mikkinj Valley, south of Gunbalanya and draining into the East Alligator river. 
+\xv Kubolkmak Mikkinj. 
+\xe Mikkinj is a beautiful place. 
+\so Wildflower Band, ‘Mikkinj’, from the Album ‘Manginburru Bininj’, Skinnyfish Music, 2009
+\id DK
+\dt Jan/2020
 
 \lx mikme
 \ps v.i.
@@ -17219,6 +17678,17 @@ kahdi.
 \ur E = marrek
 \dt 08/Aug/2018
 
+\lx Mirarr
+\ps prop. n.
+\re clan name
+\de Name of a number of patriclans in the Kakadu and Alligator Rivers region.
+\xv Bu kabirribolkbun kunred karrowen, kunred bu karribolkdowen namekke <i>story</i> nuye ngadberre ngad, nawu kumekke bininj namekke bininj nawu Mirarr namekke.
+\xe If they destroy that place the country will die, our home, we will all die along with our story, those people, the Mirarr people.
+\ee These various Mirarr clans are referred to by the clan name plus language name in postposition i.e. Mirarr Kundjeyhmi, Mirarr Urningangk, Mirarr Erre and two different clans of different lineages both with the name of Mirarr Mengerrdji.
+\sd clan_name
+\dt 21/May/2007
+\dm 14/Sep/2018
+
 \lx miri
 \ps n.
 \re oar
@@ -17490,6 +17960,19 @@ kahdi.
 \so Jill Nganjmirra
 \nt DK: Jill was referring to a sink in the bathroom, that was interesting usage for me because I assumed that moken always referred to a group of things. 
 \dm 28/Sep/2018
+
+\lx mokmen
+\ps v.i.
+\re develop a sore
+\re get an infection
+\de Develop a sore, get an infection, rash etc.
+\xv Bu kudjewk kayimerran, nawu dabborrabbolk bu birriwarlbuni, manbu kundalk benkarreyilkbuni wanjh birrikarremokmeni. 
+\xe In the wet season when our ancestors went hunting, if grass cut their feet they would get infections. 
+\so Jill Nganjmirra
+\cf kunmok
+\id JNg
+\id DK
+\dt 29/Feb/2020
 
 \lx mokurrkurr
 \pr kun-
@@ -17925,6 +18408,14 @@ causes lightning by throwing the axes with great force).
 \id JNg
 \dt 11/Aug/2019
 
+\lx Murnwarri
+\ps prop. n.
+\re clan name
+\de Name of a Kunwinjku patriclan in Western Arnhem Land.
+\sd clan_name
+\dt 10/Jun/2007
+\dm 14/Sep/2018
+
 \lx murrng
 \pr kun-
 \lc kunmurrng
@@ -17986,6 +18477,19 @@ causes lightning by throwing the axes with great force).
 \pdn kk= djingkorrk
 \sd mammal
 \dt 27/Feb/2006
+
+\lx Murumburr
+\ps prop. n.
+\re clan name
+\de Name of a <i>duwa</i> moiety patriclan in Kakadu National Park. 
+\xv Manbu kunred kubolkngeykimuk kabolkngeyyo Ngurrkdu kore Murumburr bedberre kunred. Dja mak kunwok bedberre kabirriwokdi Kundjeyhmi. Kumekke kore kubolkkuken birriwern birrikukbele kabirrire bu kabirribolknan bedberre kore kuwardde, kukku dja kore manbehbeberrk.
+\xe The Ngurrkdu estate belongs to the Murumburr clan, who speak Kundjeyhmi. It's an important area that many non-Indigenous people visit, to see the clan's rocks, water and forests. [Cooinda, Yellow Water etc]. 
+\so Jill Nganjmirra
+\xv A: Woh, Anbarrawarrku. Nangamed kayo kurenj. B: Bolk-Murumburr? A: Woh kume Murumburr. Nakka nganabbarru kahdulubun nangamed David
+\xe A: Yes, Anbarrawarrku. Whatsisname lives there. B: A Murumburr clan place? A: Yes, Murumburr. That bloke who shoots buffalo, whatsisname, David.
+\sd clan_name
+\dt 11/Jun/2007
+\dm 29/Feb/2020
 
 \lx nabarlek
 \ps n.
@@ -19940,6 +20444,23 @@ kunj karndakidj la karndakarndayh. Ngarridj yibengkan? Kakodbebuldi kahdi. Nakka
 \dm 28/Oct/2018
 \dt 18/Jan/2017
 
+\lx ngorrowke
+\ps v.t.
+\re break kangaroo legs for cooking
+\de Break the legs of a macropod at the knee in order to tie the legs to the forearms so as to facilitate cooking.
+\sy bardngorrowke
+\xv Bu kunj kabirribun, kabirribardngorrowke werrk. Wanjh kabirribiddukkan dja kabirrimaddukkan. Yerre wanjh kabirrimudkinje kore kunak. 
+\xe When people shoot a kangaroo, they first break its legs. Then they tie the arms and legs, and singe the fur off on the fire. 
+\so Jill Nganjmirra
+\xv Djalwam la djorlmeng birrikinjeng birringorrowkeng birrikinjeng rowk.
+\xe He kept going straight up, they tied up the legs of the kangaroo for cooking and cooked it all.
+\xv Birrimalakakdoy mankole, birriyameng korroko. Dabborrabbolk birriyami birriyingkikoluy bonj 
+birribardngorrkemeninj birrikinjemeninj birridarmeninj.
+\xe They would rise early in the morning and spear them, a long time ago. The 'old people' [previous generations] would spear [the kangaroos] and come down carrying them on their shoulders, break the legs and tie them up and cook them, flavouring the meat with herbs.
+\pdn kk = ngorrowbonghke.
+\dt 21/Dec/2007
+\dm 29/Feb/2020
+
 \lx ngudberre
 \ps poss. pron.
 \re yours
@@ -20963,6 +21484,17 @@ Dja mak kunwok bedberre wanjh birrirayekwoni minj nangale mak bakkemeninj bedber
 \id DK
 \dt 19/Nov/2018
 
+\lx Rol
+\ps prop. n.
+\re clan name
+\de Name of a <i>yirridjdja</i> patriclan on the Arnhem Land plateau.
+\xv Ngalkirdimu, kabarrarn ngaleng yinan kunu Bod Kadjangdi, yoh anbarrarn. Makka wanjh na-Burdohken. Kilhken na-rrurlmangkarr karrkad na-Rol karrkad koyek.
+\xe At Ngalkirdimu there is a gorge/valley and you can see it [also] at Bod Kadjangdi, yeah a gorge. That there is Burdoh clan country. Downstream is Durlmangkarr clan country and then the Rol clan is above to the east.
+\ee The Rol clan has <i>namarrkon</i> 'lightning' as one of its major totemic or 'dreaming' emblems.
+\sd clan_name
+\dt 09/Jun/2007
+\dm 14/Sep/2018
+
 \lx ronj
 \pr kun-
 \ps n.
@@ -21827,6 +22359,16 @@ matri-moiety. Equivalent to <b>ngarridj</b> in the eastern system.
 \sc Carettochelys insculpta
 \dt 28/Dec/2008
 
+\lx Warramal
+\ps prop. n.
+\re clan name
+\de Name of a <i>duwa</i> moiety patriclan in Kakadu National Park.
+\xv Bolkwarramal wanjh kumekke arribunjyikani, ngalkohbanj ngalengarre ngakorlonjhmi dja ngal-Warramal.
+\xe We carried bamboo spears through Warramal country, and that old lady it was her country, I called her my daughter, she was Warramal clan.
+\sd clan_name
+\dt 10/Jun/2007
+\dm 14/Sep/2018
+
 \lx warre
 \pr kun-
 \lc kunwarre
@@ -22557,6 +23099,30 @@ chain. Kunwinjku speakers refer to their variety by this label <b>Kunwinjku</b>.
 \dt 06/May/2006
 \dm 14/Sep/2018
 
+\lx wirdme
+\ps v.i.
+\re whistle
+\de Whistle.
+\xv Nawu nakudji bininj benwirdwirdmi bedberre nawu birribuyika yawurrinj. 
+\xe The man was whistling to the other boys. 
+\so Jill Nganjmirra
+\xv Mak dabborrabbolk bu birriburrbuni korroko, nawu namorrorrordo wirdmirey bu kukak. Wanjh birriyimi yuwn wurdurd kabirrinalkbun dja mimkimuk kahre. 
+\xe Our ancestors knew that namorrorddo spirits walked around at night whistling, so they would tell children not to cry, because the 'big-eyed spirit' was around. 
+\so Jill Nganjmirra
+\xv Nayin nawu mandjurdurrk dja maddjurn, bu kabirriyawarren wanjh kabirriwirdmire. 
+\xe Olive pythons and black-headed pythons will whistle softly when trying to seek each other out. 
+\so Jill Nganjmirra
+\xv Kunkurra kabuhme karribekkan kawirdme.
+\xe When the wind blows we can hear it whistling.
+\se kanemwirdme
+\re have tinnitus
+\de Have tinnitus, have a ringing or whistling in the ears. 
+\se ngolekwirdme
+\re wheeze
+\de Wheeze, have asthma.
+\nt DK: Jill says this should be "wirdme", Etherington dictionary also has 'widjme' though. There are examples in this dictionary with 'wirdme', including the wind example above or e.g. [lx] kanemwirdme, ngolekwirdme. Jill says she saw an Olive Python whistling once by a billabong "soft whistle. Kabirriwake wanjh kabirrikomdjabdan", and the old people told her they did it when they were trying to find each other.  
+\dm Jan/2020
+
 \lx wirlam
 \ps n.
 \re stringybark raft
@@ -22604,6 +23170,17 @@ Ngarrbek.
 \nt DK: The original spelling was wilarrk, not sure if this is incorrect or [va].
 \id DK
 \dm 27/Dec/2019
+
+\lx wirlbbarra
+\ps n. 
+\re game trail
+\re animal track
+\de Game trail, animal track, cowpath. A track made by the repeated movement of animals along the same route.
+\xv Wirlbbarra makka yiman kayime manbolh, mayh bedberre. Kaluk munguyh kabirridaddurndiwerren kore wirlbbarra bu kabirrire, wanjh kabirrimarnbun manekke wirlbbarra kakimukmen. 
+\xe A game trail is like a road for animals. They keep going back and forth along the same trail, and that widens the track. 
+\so Jill Nganjmirra
+\nt DK: Jill says "They going back and forward. Maybe if there's a billabong." Etherington thesis also has "Like dabborrabbolk birrimrawinj birridiwirrinj, not only ngandibukkayinj ngadberre mankole, dolobbo, kunak ngarribirlumarnbuni or wirlbbarra manbolh manbu kabirrihyime. Ngarrirey right place but yiwarrudj birridi ngadberre." "The elders used to come and be there for us, not only did they teach us about spears, bark painting, making fire, tracking animals (Wirlbbarra Manbolh they call that) but we also went the right way."
+\dt Jan/2020
 
 \lx wirle
 \pr kun-
@@ -23109,6 +23686,16 @@ nguddangke kunred yiworhnan.
 \xv Manme yidjare? Bonj ngaworrkminj.
 \xe Do you want food? No, it's OK I'm full.
 \pdn kk = dekme
+\dm 14/Sep/2018
+
+\lx Worrkorl
+\ps prop. n.
+\re clan name
+\de Name of a now extinct <i>duwa</i> moiety patriclan in the middle East Alligator River district in Western Arnhem Land close to the Kakadu National Park border.
+\xv Nawarray darnki kanebalwam. Wanjh manekke kabbal mane ngarrdjowkkeng and koyek, Worrkorl bukka bedberre. 
+\xe We went close to the site Nawarray. Then we crossed that billabong and to the east of there it is Worrkorl clan country.
+\sd clan_name
+\dt 10/Jun/2007
 \dm 14/Sep/2018
 
 \lx worromkan
@@ -24912,6 +25499,27 @@ kuk.
 \sd mammal
 \dt 06/May/2006
 
+\lx yokkorlomud
+\pr man-
+\ps n.
+\re <i>Alloteropsis semialata</i>
+\de Kind of grass (possibly two different species).
+\sc Alloteropsis semialata, Chrysopogon sp.
+\xv Anyokkorlomud ankung arribarungi arridjuhkeyi arringuni ngurrurdu arrikarlkidnguni.
+\xe We used the <b>an-yokkorlomud</b> grass to soak up honey and to drink the gravy juice from cooked emus.
+\xv Manyokkorlomud makka kundalk, kadjordmen kore manbehbeberrk. Kaluk birridalkmangi bu birribarungi mankung nawu dabborrabbolk, wanjh birridahkendongi kore bulbbe, yika kolod. 
+\xe <i>Manyokkorlomud</i> is a type of grass that grows in open forest country. Our ancestors use to gather it to wipe up honey, and put it into (tightly woven) dilly bags or the base of palm fronds. 
+\so Jill Nganjmirra
+\xv Kunj nawu kolobarr dja karndayh kabirridedjmadngun manbu kundalk manyokkorlomud. 
+\xe Male and female antilopine kangaroos eat the roots of <i>manyokkorlomud</i> grass. 
+\so Jill Nganjmirra
+\uv W
+\ur Djnj= anyokkolomud
+\nt DK: Jill would spell this with a retroflex, manyokkorlomud. She says with a man- prefix this is a regular Kunwinjku word. There is a Djnj entry, [lx] yokkolomud [pr] an-. Jill says this is used in a similar to mandjoh kunyarl for honey. "Birridenghkeyi", used to stop the hive flowing everywhere. "Kundalk mankuken". 
+\id JNg
+\id DK
+\dt 29/Feb/2020
+
 \lx yolk
 \ps n.
 \re maggot
@@ -25048,6 +25656,16 @@ kuk.
 \xe The fluid all oozed out and then the swelling all went down and then they took out the sharp splinter.
 \nt DK: Jill says kaboyowyowme is the correct spelling. 'The Language of Emotions', Maïa Ponsonnet's book about Dalabon, has "kangeyowyowme? Belly-flows (feel good)". Jill wouldn't use this word itself, but says that happiness and 'flowing' are associated 'kakangemak yiman kayime kukku kayowyowme.', just as unhappiness and 'blockage' are associated (njilngkurduhme, etc). People "Mix sand and kukku from running water.", and as they rub sand on the child's chest, people will say "bu yidjordmen yikangemakmen..." etc. 
 \dm 27/Dec/2019
+
+\lx yudyudme
+\ps v.i.
+\re run (of emus only)
+\de Run (of emus only). In Kune dialect, it can be used for people running also.
+\xv Kurdukadji bu kabennan bininj wanjh kayudyudme bu kalobme. 
+\xe When an emu sees people, it runs away. 
+\so Jill Nganjmirra
+\nt DK: Jill at first said this was only emus, but then thought that in Kune people sometimes say it about people "nakkanj yudyudmeng kureh rlobmeng". MG- yes, I think that’s right.
+\dm 20/Jan/2019
 
 \lx yukkuyukkuh
 \ps n.
