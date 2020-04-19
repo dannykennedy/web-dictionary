@@ -15697,12 +15697,8 @@ place.
 \re not any further
 \re not again
 \de Not either, not any more, not any further, not after that, not again. 
-\xv Ngalbu ngarrbek kumyirrurndengi manbu manme dja mayh dja ngalbu ngalmangeyi minj mak bibalmadbuyi, dja marrwedoweng. Wanjh bimarneyawnguneng.
-\xe The Echidna was bringing back food and meat for the Long-necked Turtle, but the turtle couldn't wait any more, she was hungry so she ate the Echidna's baby. 
-\xv Nayawurrinj bu mokdoweni, wanjh kunborlidj munguyh djaldi. Minj mak yakmeninj. 
-\xe When the young man's cuts had healed, the scarification would remain. It wouldn't disappear again.
+\nt DK: Etherington has mak (independent words) - also, mak (independent words) - as well,  mak (independent words) too. I've added the senses of 'alternatively', 'either' and 'not any more' based on example sentences, but maybe they could be refined. An example of the [se] would be [xv] Ngalbu ngarrbek kumyirrurndengi manbu manme dja mayh dja ngalbu ngalmangeyi minj mak bibalmadbuyi, dja marrwedoweng. Wanjh bimarneyawnguneng. [xe] The Echidna was bringing back food and meat for the Long-necked Turtle, but the turtle couldn't wait any more, she was hungry so she ate the Echidna's baby. Or [xv] Nayawurrinj bu mokdoweni, wanjh kunborlidj munguyh djaldi. Minj mak yakmeninj. [xe] When the young man's cuts had healed, the scarification would remain. It wouldn't disappear again.
 \so Jill Nganjmirra 
-\nt DK: Etherington has mak (independent words) - also, mak (independent words) - as well,  mak (independent words) too. I've added the senses of 'alternatively', 'either' and 'not any more' based on example sentences, but maybe they could be refined. 
 \id DK
 \dt 22/Jan/2020
 \dm 29/Feb/2020
@@ -20454,8 +20450,7 @@ kunj karndakidj la karndakarndayh. Ngarridj yibengkan? Kakodbebuldi kahdi. Nakka
 \so Jill Nganjmirra
 \xv Djalwam la djorlmeng birrikinjeng birringorrowkeng birrikinjeng rowk.
 \xe He kept going straight up, they tied up the legs of the kangaroo for cooking and cooked it all.
-\xv Birrimalakakdoy mankole, birriyameng korroko. Dabborrabbolk birriyami birriyingkikoluy bonj 
-birribardngorrkemeninj birrikinjemeninj birridarmeninj.
+\xv Birrimalakakdoy mankole, birriyameng korroko. Dabborrabbolk birriyami birriyingkikoluy bonj birribardngorrkemeninj birrikinjemeninj birridarmeninj.
 \xe They would rise early in the morning and spear them, a long time ago. The 'old people' [previous generations] would spear [the kangaroos] and come down carrying them on their shoulders, break the legs and tie them up and cook them, flavouring the meat with herbs.
 \pdn kk = ngorrowbonghke.
 \dt 21/Dec/2007
