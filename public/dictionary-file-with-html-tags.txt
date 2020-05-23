@@ -3266,7 +3266,8 @@ the plateau which is dominated more by open savanna forest.
 
 \lx Birrirddak
 \ps place n.
-\re place name in Birrirddak Creek region \de Riverine savanna area to the east of where the Nabarlek road crosses Birraduk [Birrirddak] Creek and leading southeast to the valley entrance. A creek flows through the area, surrounded by sandstone outliers. It has significance as an Aboriginal walking route (<b>Bininj manbolh</b>) as well as being a camping and fishing area. The topographic map place name of ‘Birraduk Creek’ is derived from Birrirddak.
+\re place name in Birrirddak Creek region
+\de Riverine savanna area to the east of where the Nabarlek road crosses Birraduk [Birrirddak] Creek and leading southeast to the valley entrance. A creek flows through the area, surrounded by sandstone outliers. It has significance as an Aboriginal walking route (<b>Bininj manbolh</b>) as well as being a camping and fishing area. The topographic map place name of ‘Birraduk Creek’ is derived from Birrirddak.
 \xv …en Kabo Kaworrkdjubmirri, kahre ngamed kore Djimerre ya. Kuredkuken arriyongoyoy. Ngalengman kanjdji kadjale. Koreh bukka manberrk manekke kaberrkyirriyo makka Birrirddak, konda kakarri, kawukkarri nanu Birrirddak.
 \xe …and Kabo Kaworrkdjubmirri which goes on to Djimerre, yeah. We camped in these important camping places. Downstream the sites continue. But in the open savanna area, where all the savanna forest is located, that’s Birrirddak, to the west (of the previously mentioned sites). Birrirddak is to the west (of Kabo Kaworrkdjubmirri and Djimerre).
 \so Kundedjnjenghmi
@@ -8349,8 +8350,8 @@ birridukkarrukkarrinj.
 \de Just, anyway. Do something for no specific reason, purpose or intent, do something despite reasons not to, do something freely without restrictions or limitations. 
 \xv Ngamdjalbom.
 \xe I've just rung you on the phone for no reason (just to say hello).
-\xe "Yuwn yikan mankukyahwurd makka" "Bonj warribo ngadjalkan ngakinje ngangun. Bonj bu mankukyahwurd"
-\xv "Don't take that yam, it's too small". "Whatever, I'll just take it anyway and cook it up and eat it. Doesn't matter if it's small". 
+\xv "Yuwn yikan mankukyahwurd makka" "Bonj warribo ngadjalkan ngakinje ngangun. Bonj bu mankukyahwurd"
+\xe "Don't take that yam, it's too small". "Whatever, I'll just take it anyway and cook it up and eat it. Doesn't matter if it's small". 
 \so Jill Nganjmirra
 \xv Wanjh nunganwali wurdyaw kamayhmakmen - kadjalre nawu kambun mayh. Kaluk minj bidlarrk kamdurndeng.
 \xe The child in turn will become a good hunter, he just goes and gets an animal, and he never comes back empty handed.
