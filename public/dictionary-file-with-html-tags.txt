@@ -10106,9 +10106,8 @@ bininj kabarridi kure kukebrok.
 \de Yellow dye tree, <i>Coelospermum reticulatus</i>. 
 \sc Coelospermum reticulatus
 \ee roots crushed and boiled to dye pandanus fibre used in the manufacture of baskets and dilly bags
-\sy mankurrudjumuk (I)
-\uv I,W
-\ur Djnj= ankurudjumuk
+\uv W
+\ur Djnj= ankurudjumuk, I= mankurrudjumuk
 \sd plant
 \dt 06/May/2006
 \dm 15/Dec/2018
