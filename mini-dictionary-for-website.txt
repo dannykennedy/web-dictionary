@@ -10102,13 +10102,13 @@ bininj kabarridi kure kukebrok.
 \pr man-
 \ps n.
 \re Yellow dye tree
-\re Pogonolobus reticulatus
-\de Yellow dye tree.
-\sc Pogonolobus reticulatus
+\re Coelospermum reticulatus
+\de Yellow dye tree, fi:Coelospermum_reticulatus. 
+\sc Coelospermum reticulatus
 \ee roots crushed and boiled to dye pandanus fibre used in the manufacture of baskets and dilly bags
 \sy mankurrudjumuk (I)
 \uv I,W
-\ur Djnj= ankurrudjumuk
+\ur Djnj= ankurudjumuk
 \sd plant
 \dt 06/May/2006
 \dm 15/Dec/2018
