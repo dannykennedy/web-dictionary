@@ -156,6 +156,7 @@ window.onscroll = function () {
     }
 };
 
+// Go to specific word if it's in the hash.
 function hashHandler(event) {
     const wordToOpen = event.newURL.split("#")[1];
     console.log("The hash has changed to: " + wordToOpen);
