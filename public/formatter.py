@@ -289,6 +289,11 @@ with open(mynewfile,'r') as f:
             match = re.search(r'^\\xe\s(.*)', line)
             exampleSentence["xe"] = match.group(1)
 
+        # xn for exampleSentence
+        if re.search(r'^\\xn\s(.*)', line):
+            match = re.search(r'^\\xn\s(.*)', line)
+            exampleSentence["xn"] = match.group(1)
+
         # so for exampleSentence
         if re.search(r'^\\so\s(.*)', line):
             match = re.search(r'^\\so\s(.*)', line)
@@ -491,6 +496,9 @@ with open("index.html", 'a') as f:
                         # xv
                         if 'xv' in example:
                             f.write('<p class="xv">'+example["xv"]+'</p>')
+                        # xe
+                        if 'xn' in example:
+                            f.write('<p class="xn">' + example["xn"] + '</p>')
                         # xe
                         if 'xe' in example:
                             f.write('<p class="xe">' + example["xe"] + '</p>')
