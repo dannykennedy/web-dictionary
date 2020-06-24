@@ -44,6 +44,22 @@
                 <path fill="#FFF" stroke="#FFF" stroke-width="1.5794" stroke-miterlimit="10" d="M133,265.5L133,0.5L132.5,0.5A132.5,132.5 0,0 1,0 133,132.5 132.5,0 0,1 132.5,265.5" />
             </svg>
             <input type="text" id="myInput" onkeyup="filterWords()" placeholder="Search | Yiwokyawa" title="Search for a word">
+            <fieldset id="kunbalak-options">
+                <div id="kunbalak-toggle-wrapper">
+                    <label class="selected">
+                        Bininj Kunwok
+                        <input class="kk-state-input" name="state" type="radio" value="bkw" onclick="toggleKk(this)" checked/>
+                    </label>
+                    <label>
+                        Kunbalak
+                        <input class="kk-state-input" name="state" type="radio" value="kk" onclick="toggleKk(this)" />
+                    </label>
+                    <label>
+                        Both
+                        <input class="kk-state-input" name="state" type="radio" value="both" onclick="toggleKk(this)" />
+                    </label>
+                </div>
+            </fieldset>
 
         </div>
 

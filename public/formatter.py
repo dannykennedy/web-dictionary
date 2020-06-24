@@ -178,7 +178,13 @@ with open(mynewfile,'r') as f:
             match = re.search(r'^\\bw\s(.*)', line)
             entry["bw"] = (match.group(1))
 
-        # Kunbalak
+        # Should only be 'kk'
+        if re.search(r'^\\pdv\s(.*)', line):
+            match = re.search(r'^\\pdv\s(.*)', line)
+            pdv = match.group(1)
+            entry["pdv"] = pdv
+
+        # Regular Kunwinjku version of Kunbalak
         if re.search(r'^\\pdn\s(.*)', line):
             match = re.search(r'^\\pdn\s(.*)', line)
             pdn = match.group(1)
@@ -378,8 +384,13 @@ with open("index.html", 'a') as f:
             print('end')
             # break
 
-        # Semantic tag for each entry
-        f.write('<article id=\"' + entry["full-headword"] + '\">')
+        # Semantic tag for each entry, with Kunbalak or Bininj Kunwok noted
+        f.write('<article id=\"' + entry["full-headword"] + '\"')
+        if 'pdv' in entry:
+            f.write('class="kk"')
+        else:
+            f.write('class="bkw"')
+        f.write('>')
 
         # Headword/POS section
         f.write('<button class="collapsible">') # collapsible section

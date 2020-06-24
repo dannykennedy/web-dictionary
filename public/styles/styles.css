@@ -265,6 +265,7 @@ header {
     width: 95%;
     grid-template-columns: 35px 30px 1fr;
     justify-self: center;
+    position: relative;
 }
 #search-options {
     font-family: var(--display-font), serif;
@@ -446,6 +447,11 @@ h4 {
     white-space: nowrap;
 }
 
+/* Kunbalak words hidden by default */
+.kk {
+    display: none;
+}
+
 /* The Close Button */
 
 .close {
@@ -466,6 +472,64 @@ h4 {
 #desktop-about {
     display: block;
 }
+
+
+
+
+/* Radio buttons */
+fieldset {
+    border: none;
+    padding: 0;
+    margin: 0;
+    justify-self: right;
+    align-self: center;
+}
+legend {
+    padding: 0;
+    margin: 0;
+}
+label {
+    cursor: pointer;
+    display: grid;
+    align-content: center;
+    padding: .2em .4em;
+    border: 1px solid #aaa;
+    background-color: #ccc;
+    height: 25px;
+}
+label:first-child {
+    border-left-width: 1px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+label:last-child {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+label.selected {
+    background-color: brown;
+    color: white;
+    border-color: brown;
+}
+input[type="radio"] {
+   position: absolute;
+   top: -9999px;
+   left: -9999px;
+}
+#kunbalak-toggle-wrapper {
+    display: flex;
+    font-size: 12px;
+    
+}
+#kunbalak-options {
+    position: absolute;
+    right: 0;
+    top: 10px;
+    height: 100%;
+}
+/* END TOGGLE*/
+
+
 
 /*@MEDIA*/
 
