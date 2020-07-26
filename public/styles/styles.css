@@ -563,7 +563,7 @@ input[type="radio"] {
         display: none;
     }
     .entry-list-wrapper {
-        padding-top: 100px;
+        padding-top: 5vw;
         width: 90%;
         margin: auto;
     }
@@ -572,7 +572,7 @@ input[type="radio"] {
         align-items: center;
     }
     #search-area {
-        width: 80%;
+        width: 70%;
         margin-left: 0px;
         margin-right: 3%;
     }
