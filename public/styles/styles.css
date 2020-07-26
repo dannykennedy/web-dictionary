@@ -536,7 +536,7 @@ input[type="radio"] {
     background-color: var(--secondary-app-color);
     color: black;
     padding: 10px 5% 10px 5%;
-    display: flex;
+    display: none;
     justify-content: center;
     align-items: center;
     animation-duration: 0.8s;
@@ -562,6 +562,9 @@ input[type="radio"] {
     #app-title {
         display: none;
     }
+    #advanced-search {
+        display: flex;
+    }
     .entry-list-wrapper {
         padding-top: 5vw;
         width: 90%;
@@ -572,7 +575,7 @@ input[type="radio"] {
         align-items: center;
     }
     #search-area {
-        width: 70%;
+        width: 80%;
         margin-left: 0px;
         margin-right: 3%;
     }
