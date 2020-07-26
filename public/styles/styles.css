@@ -533,15 +533,13 @@ input[type="radio"] {
 /* ADVANCED SEARCH */
 #advanced-search {
     margin-top: var(--header-height);
+    font-family: var(--app-sans);
     background-color: var(--secondary-app-color);
     color: black;
     padding: 10px 5% 10px 5%;
     display: none;
     justify-content: center;
     align-items: center;
-    animation-duration: 0.8s;
-    animation-name: growDown;
-    animation-fill-mode: forwards;
 }
 
 .mobile-kunbalak-options {
