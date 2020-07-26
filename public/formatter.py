@@ -275,6 +275,11 @@ with open(mynewfile,'r') as f:
             match = re.search(r'^\\sy\s(.*)', line)
             sense["sy"] = match.group(1)
 
+        # Synonym for sense
+        if re.search(r'^\\pde\s(.*)', line) and withinSense == "true" and withinSubEntry == 'false':
+            match = re.search(r'^\\pde\s(.*)', line)
+            sense["pde"] = match.group(1)
+
 
         withinExampleSentence = "false"
 
@@ -482,6 +487,12 @@ with open("index.html", 'a') as f:
                 if 'sc' in sense:
                     f.write('<p class="sc subentry-text"><span class="se-info">Scientific name</span><span>')
                     f.write(sense["sc"])
+                    f.write('</span></p>')
+
+                # PDE
+                if 'pde' in sense:
+                    f.write('<p class="pde subentry-text"><span class="se-info">Regular Bininj Kunwok</span><span>')
+                    f.write(sense["pde"])
                     f.write('</span></p>')
 
                 # # SEMANTIC DOMAIN
