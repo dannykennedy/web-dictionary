@@ -26528,7 +26528,7 @@ sn 3
 \sn 2
 \re sensibility
 \de Sensibility, sense of decency, faculty of understanding, cognition, mind.
-\xn Nawu nabininjkobeng bimamammodmi ngalbininjkobeng nuye. Wanjh ngalkahbonj dakalhmeng  "Yuwn yimamammodme dja kunmardorrh. Wardi nabirdidji kabibonghme."
+\xv Nawu nabininjkobeng bimamammodmi ngalbininjkobeng nuye. Wanjh ngalkahbonj dakalhmeng  "Yuwn yimamammodme dja kunmardorrh. Wardi nabirdidji kabibonghme."
 \xn Nawu nabininjkobeng bikukmamangi ngalbininjkobeng nuye. Wanjh ngalkohbanj yimeng "Yuwn yikukmamang dja kunbeng. Wardi narangem kabibun". 
 \xe The husband was swearing at his wife. The old woman said "Don't swear at her, her brother might get offended and hit her" 
 \so Jill Nganjmirra

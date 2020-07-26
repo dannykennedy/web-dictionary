@@ -455,6 +455,11 @@ with open("index.html", 'a') as f:
             f.write(entry["ur"])
             f.write('</span></p>')
 
+        if 'pdv' in entry:
+            f.write('<p class="usage-regional subentry-text end"><span class="se-info end">Register</span><span>')
+            f.write('Kunbalak')
+            f.write('</span></p>')
+
 
         # End of headword/POS section
         f.write('</div>')
@@ -489,11 +494,6 @@ with open("index.html", 'a') as f:
                     f.write(sense["sc"])
                     f.write('</span></p>')
 
-                # PDE
-                if 'pde' in sense:
-                    f.write('<p class="pde subentry-text"><span class="se-info">Regular Bininj Kunwok</span><span>')
-                    f.write(sense["pde"])
-                    f.write('</span></p>')
 
                 # # SEMANTIC DOMAIN
                 # if 'sd' in sense:
@@ -532,6 +532,12 @@ with open("index.html", 'a') as f:
                         f.write('</li>')
 
                     f.write('</ul>')
+
+                # PDE
+                if 'pde' in sense:
+                    f.write('<p class="pde subentry-text"><span class="se-info">Regular Bininj Kunwok</span><span>')
+                    f.write(sense["pde"])
+                    f.write('</span></p>')
 
 
         if 'uv' in entry:
