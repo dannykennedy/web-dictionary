@@ -1,3 +1,6 @@
+// GLOBAL VARIABLES
+var searchQuery = {registers: ["bkw"]}
+
 var youtubeVideos = {
     barrk: ["fdT36gy5Iwk"],
     dilebang: ["LLf6Ww3DOZg"],
@@ -57,26 +60,26 @@ var youtubeVideos = {
     wirlarrk: ["cHrA6ADAIvg"],
     wurdyaw: ["xpTJydky31I"],
     yuwn: ["UCliPHwJbio"],
-    
+
 }
 
 var vimeoVideos = {
-    manngukmanj: ["94624139"],
-    mandjedj: ["62984950"],
-    mandjungkurrk: ["62984950"],
-    burdebme: ["205979348"],
-    kunak: ["205979348"],
-    kunngobarn: ["160059928"],
-    dowen: ["105725482"],
-    bim: ["49526055"],
-    bukirri: ["92009110"],
-    rongmang: ["90834965"],
-    rarrk: ["100871631"],
-    ngalwakadj: ["180011184"]
-}
-// other potential videos:
-// https://www.youtube.com/watch?v=mvot4Bwi4Jg
-// https://www.youtube.com/watch?v=SNXVi1zdub0
+        manngukmanj: ["94624139"],
+        mandjedj: ["62984950"],
+        mandjungkurrk: ["62984950"],
+        burdebme: ["205979348"],
+        kunak: ["205979348"],
+        kunngobarn: ["160059928"],
+        dowen: ["105725482"],
+        bim: ["49526055"],
+        bukirri: ["92009110"],
+        rongmang: ["90834965"],
+        rarrk: ["100871631"],
+        ngalwakadj: ["180011184"]
+    }
+    // other potential videos:
+    // https://www.youtube.com/watch?v=mvot4Bwi4Jg
+    // https://www.youtube.com/watch?v=SNXVi1zdub0
 
 function fetchAudio() {
     var sound = document.createElement("audio");
@@ -90,10 +93,10 @@ function fetchAudio() {
 
 function embedVideo(headword, cardButton) {
     var baseUrl, videoSources;
-    if (youtubeVideos[headword]){
+    if (youtubeVideos[headword]) {
         baseUrl = "https://www.youtube.com/embed/";
         videoSources = youtubeVideos[headword];
-    } else if (vimeoVideos[headword]){
+    } else if (vimeoVideos[headword]) {
         baseUrl = "https://player.vimeo.com/video/";
         videoSources = vimeoVideos[headword];
     } else {
@@ -156,6 +159,7 @@ window.onscroll = function () {
     }
 };
 
+// Go to specific word if it's in the hash.
 function hashHandler(event) {
     const wordToOpen = event.newURL.split("#")[1];
     console.log("The hash has changed to: " + wordToOpen);
@@ -232,8 +236,8 @@ function filterWords() {
         }
 
         // If there's not a substring match, hide the entry
-        if (found == true) {
-            list[i].style.display = "";
+        if (found == true && searchQuery.registers.includes(list[i].className)) {
+            list[i].style.display = "block";
         } else {
             list[i].style.display = "none";
         }
@@ -267,5 +271,40 @@ window.onclick = function (event) {
         modal.style.display = "none";
     }
 };
+
+
+//kk-state-input
+function toggleKk(elem) {
+    
+    if (elem.value === "kk") {
+        setShowingClass('kk', true);
+        setShowingClass('bkw', false);
+        searchQuery.registers = ["kk"];
+    } else if (elem.value === "bkw") {
+        setShowingClass('bkw', true);
+        setShowingClass('kk', false);
+        searchQuery.registers = ["bkw"];
+    } else if (elem.value === "both") {
+        setShowingClass('kk', true);
+        setShowingClass('bkw', true);
+        searchQuery.registers = ["bkw", "kk"];
+    }
+    
+    // Toggle selected/not
+    var elems = elem.parentElement.parentElement.childNodes;
+    for (var i = 0; i < elems.length; i++) {
+        elems[i].classList = "";
+    }
+    elem.parentElement.classList = "selected";
+    
+    filterWords();
+}
+
+function setShowingClass(classname, isShowing) {
+    var elems = document.getElementsByClassName(classname);
+    for (var i = 0; i < elems.length; i++) {
+        elems[i].style.display = (isShowing) ? 'block' : 'none';
+    }
+}
 
 document.getElementById("current-year").innerHTML = new Date().getFullYear();

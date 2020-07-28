@@ -27,7 +27,35 @@
         gtag('config', 'UA-137356411-1');
 
     </script>
-    <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is Bininj Kunwok?","acceptedAnswer":[{"@type":"Answer","text":"Bininj Kunwok is an Aboriginal Language group spoken in the Northern Territory of Australia, in West Arnhem Land near Kakadu National Park. Bininj Kunwok is an umbrella term for the dialects Kunwinjku, Kundjeyhmi, Kuninjku (spoken in Maningrida and its outstations), Kundedjnjenghmi (spoken in Kabulwarnamyo and elsewhere), Kune and others."}]},{"@type":"Question","name":"What does \"njamed\" mean? ","acceptedAnswer":[{"@type":"Answer","text":"Njamed means something like \"Whatchamacallit\" or \"um\" (Something you say when you can't remember a word)."}]},{"@type":"Question","name":"How many people speak Bininj Kunwok?","acceptedAnswer":[{"@type":"Answer","text":"According to Wikipedia, it's 1,702 (2016 census figures)"}]}]}</script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [{
+                "@type": "Question",
+                "name": "What is Bininj Kunwok?",
+                "acceptedAnswer": [{
+                    "@type": "Answer",
+                    "text": "Bininj Kunwok is an Aboriginal Language group spoken in the Northern Territory of Australia, in West Arnhem Land near Kakadu National Park. Bininj Kunwok is an umbrella term for the dialects Kunwinjku, Kundjeyhmi, Kuninjku (spoken in Maningrida and its outstations), Kundedjnjenghmi (spoken in Kabulwarnamyo and elsewhere), Kune and others."
+                }]
+            }, {
+                "@type": "Question",
+                "name": "What does \"njamed\" mean? ",
+                "acceptedAnswer": [{
+                    "@type": "Answer",
+                    "text": "Njamed means something like \"Whatchamacallit\" or \"um\" (Something you say when you can't remember a word)."
+                }]
+            }, {
+                "@type": "Question",
+                "name": "How many people speak Bininj Kunwok?",
+                "acceptedAnswer": [{
+                    "@type": "Answer",
+                    "text": "According to Wikipedia, it's 1,702 (2016 census figures)"
+                }]
+            }]
+        }
+
+    </script>
 </head>
 
 <body onload="processUrl()">
@@ -44,6 +72,18 @@
                 <path fill="#FFF" stroke="#FFF" stroke-width="1.5794" stroke-miterlimit="10" d="M133,265.5L133,0.5L132.5,0.5A132.5,132.5 0,0 1,0 133,132.5 132.5,0 0,1 132.5,265.5" />
             </svg>
             <input type="text" id="myInput" onkeyup="filterWords()" placeholder="Search | Yiwokyawa" title="Search for a word">
+            <fieldset class="desktop-kunbalak-options">
+                <div class="kunbalak-toggle-wrapper">
+                    <label class="selected">
+                        Bininj Kunwok
+                        <input class="kk-state-input" name="state" type="radio" value="bkw" onclick="toggleKk(this)" checked />
+                    </label>
+                    <label>
+                        Kunbalak
+                        <input class="kk-state-input" name="state" type="radio" value="kk" onclick="toggleKk(this)" />
+                    </label>
+                </div>
+            </fieldset>
 
         </div>
 
@@ -51,9 +91,27 @@
             <p id="help"><span id="mobile-about">?</span><span id="desktop-about">About</span></p>
         </div>
 
-
-
     </header>
+
+    <div id="advanced-search">
+
+
+        <span>Register: </span>
+
+
+        <fieldset class="mobile-kunbalak-options">
+            <div class="kunbalak-toggle-wrapper">
+                <label class="selected">
+                    Bininj Kunwok
+                    <input class="kk-state-input" name="state" type="radio" value="bkw" onclick="toggleKk(this)" checked />
+                </label>
+                <label>
+                    Kunbalak
+                    <input class="kk-state-input" name="state" type="radio" value="kk" onclick="toggleKk(this)" />
+                </label>
+            </div>
+        </fieldset>
+    </div>
 
 
     <!-- The Modal -->
@@ -67,6 +125,7 @@
 
             <ul>
                 <li>The search bar looks for both Bininj Kunwok and English terms as well as <a href="https://bininjkunwok.org.au/information/dialects/" target="_blank">dialect variations.</a> Click on a word to open the full entry.</li>
+                <li>The toggle allows you to switch between regular Bininj Kunwok and Kunbalak - a special register used with one's mother-in-law (actual and classificatory) as well as when talking to her brothers. It's often described as 'Mother-in-law language')</li>
                 <li>The dictionary is currently weighted towards Kunwinjku as spoken at Kunbarlanja, so if you're learning a different dialect, keep an eye on the 'other languages' section within certain entries.</li>
                 <li>It's still a work in progress, and in all questions of correctness and appropriate use you should defer to native speakers.</li>
                 <li>You <a href="https://www.creativespirits.info/aboriginalculture/language/why-translating-english-to-aboriginal-languages-is-so-hard" target="_blank">can't always find</a> a direct translation for words, and different words have different ranges of meaning Bininj Kunwok and English. The Kunwinjku textbook available <a href="https://bininjkunwok.org.au/resources/books/" target="_blank">here</a> is a great resource to complement this dictionary.</li>
@@ -119,5 +178,4 @@
             <p style="text-align: center; font-style: italic">Need this dictionary offline? You can download it <a href="./offline-dictionary.zip" download>here</a> (67mb). Just open the zip, double click 'dictionary.html', and you're away. (Don't try this on a phone, it's more of a computer thing;)</p>
 
         </div>
-
-    </div>
+        </div>

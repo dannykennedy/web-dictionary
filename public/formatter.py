@@ -178,7 +178,13 @@ with open(mynewfile,'r') as f:
             match = re.search(r'^\\bw\s(.*)', line)
             entry["bw"] = (match.group(1))
 
-        # Kunbalak
+        # Should only be 'kk'
+        if re.search(r'^\\pdv\s(.*)', line):
+            match = re.search(r'^\\pdv\s(.*)', line)
+            pdv = match.group(1)
+            entry["pdv"] = pdv
+
+        # Regular Kunwinjku version of Kunbalak
         if re.search(r'^\\pdn\s(.*)', line):
             match = re.search(r'^\\pdn\s(.*)', line)
             pdn = match.group(1)
@@ -269,6 +275,11 @@ with open(mynewfile,'r') as f:
             match = re.search(r'^\\sy\s(.*)', line)
             sense["sy"] = match.group(1)
 
+        # Synonym for sense
+        if re.search(r'^\\pde\s(.*)', line) and withinSense == "true" and withinSubEntry == 'false':
+            match = re.search(r'^\\pde\s(.*)', line)
+            sense["pde"] = match.group(1)
+
 
         withinExampleSentence = "false"
 
@@ -288,6 +299,11 @@ with open(mynewfile,'r') as f:
         if re.search(r'^\\xe\s(.*)', line):
             match = re.search(r'^\\xe\s(.*)', line)
             exampleSentence["xe"] = match.group(1)
+
+        # xn for exampleSentence
+        if re.search(r'^\\xn\s(.*)', line):
+            match = re.search(r'^\\xn\s(.*)', line)
+            exampleSentence["xn"] = match.group(1)
 
         # so for exampleSentence
         if re.search(r'^\\so\s(.*)', line):
@@ -373,8 +389,13 @@ with open("index.html", 'a') as f:
             print('end')
             # break
 
-        # Semantic tag for each entry
-        f.write('<article id=\"' + entry["full-headword"] + '\">')
+        # Semantic tag for each entry, with Kunbalak or Bininj Kunwok noted
+        f.write('<article id=\"' + entry["full-headword"] + '\"')
+        if 'pdv' in entry:
+            f.write('class="kk"')
+        else:
+            f.write('class="bkw"')
+        f.write('>')
 
         # Headword/POS section
         f.write('<button class="collapsible">') # collapsible section
@@ -434,6 +455,11 @@ with open("index.html", 'a') as f:
             f.write(entry["ur"])
             f.write('</span></p>')
 
+        if 'pdv' in entry:
+            f.write('<p class="usage-regional subentry-text end"><span class="se-info end">Register</span><span>')
+            f.write('Kunbalak')
+            f.write('</span></p>')
+
 
         # End of headword/POS section
         f.write('</div>')
@@ -468,6 +494,7 @@ with open("index.html", 'a') as f:
                     f.write(sense["sc"])
                     f.write('</span></p>')
 
+
                 # # SEMANTIC DOMAIN
                 # if 'sd' in sense:
                 #     f.write('<p class="sd subentry-text"><span class="se-info">Category</span><span>')
@@ -492,6 +519,9 @@ with open("index.html", 'a') as f:
                         if 'xv' in example:
                             f.write('<p class="xv">'+example["xv"]+'</p>')
                         # xe
+                        if 'xn' in example:
+                            f.write('<p class="xn">' + example["xn"] + '</p>')
+                        # xe
                         if 'xe' in example:
                             f.write('<p class="xe">' + example["xe"] + '</p>')
                         # so
@@ -502,6 +532,12 @@ with open("index.html", 'a') as f:
                         f.write('</li>')
 
                     f.write('</ul>')
+
+                # PDE
+                if 'pde' in sense:
+                    f.write('<p class="pde subentry-text"><span class="se-info">Regular Bininj Kunwok</span><span>')
+                    f.write(sense["pde"])
+                    f.write('</span></p>')
 
 
         if 'uv' in entry:
