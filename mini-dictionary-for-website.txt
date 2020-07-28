@@ -1989,6 +1989,20 @@ or exclusively and 'in contrast'.
 \dt 13/Oct/2003
 \dm 15/Dec/2018
 
+\lx bendarr
+\ps n.
+\re moon
+\de Moon.
+\sy berrebabi
+\xv Bendarr nawu nungan kadjarrbelme muna bu kawayalhbonghme.  
+\xn Dird nawu nungan kadi kukak bu kawolkan. 
+\xe The moon is there at night and gives light. 
+\so Jill Nganjmirra
+\pdv kk
+\pde dird
+\nt DK: Etherington/Manakgu have both bendarr and berrebabi as alternative kk forms for dird, but Jill would use 'bendarr' herself. 
+\dt 30/Jun/2020
+
 \lx bende
 \pr kun-
 \ps n.
@@ -5528,6 +5542,24 @@ kabirrimang kabirribiddadjkerren karlba kore kunbende kare kore kunbid.
 \dt 12/Jun/2007
 \dm 14/Sep/2018
 
+\lx dakalhme
+\ps v.i.
+\re say
+\re do
+\de Say, do.
+\xv Nangomi dakalhmeng, "Kab ngarrokan ngabobekke ngarrku". 
+\xn Nakudji yimeng, "Kab ngare ngakinje ngarrku."
+\xe One of them said "How about I go and cook this for us?".
+\so Manakgu, Andrew, ‘Kunbalak: stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 64-67.
+\xv Dakalhmeng minj yidokan. 
+\xn Yimeng minj yire.
+\xe She said not to go.
+\so Jill Nganjmirra
+\pdv kk
+\pde yime
+\dt 24/Apr/2018
+\dm 30/Jun/2020
+
 \lx dakurrme
 \ps v.t.
 \re place in sun
@@ -6736,6 +6768,24 @@ kukak.
 \sd bird
 \nt DK: Jill notes doddoro is Kune/Dangbon, doddorok is Kunwinjku. 
 \dm 11/Nov/2018
+
+\lx dokan
+\ps v.i.
+\re go
+\re walk
+\re travel
+\de Go, walk, travel.
+\xv Karridjaldokan, kaluk karrimorndi Kumardderr.
+\xn Karridjalre, kaluk karriyo Kumardderr.
+\xe Let's just keep going, then camp at Kumardderr.
+\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 48-51
+\xv Kondanj ngamorndi la yirroka.
+\xn Kondanj ngani la yiray.
+\xe I'll stay here, you go.
+\pdv kk
+\pde re
+\dt 29/Nov/2008
+\dm 14/Sep/2018
 
 \lx dokme
 \ps v.i.
@@ -8115,6 +8165,23 @@ birridukkarrukkarrinj.
 \dt 19/Oct/2007
 \dm 14/Sep/2018
 
+\lx djabudjme
+\ps v.t.
+\re dig
+\de Dig. 
+\xv Ngalngomi kardukardu dokang kadjabudjme mankarremudyi. 
+\xn Ngalkudji daluk wam kakarung karrbarda. 
+\xe One woman went digging for long yams. 
+\so Jill Nganjmirra
+\pdv kk
+\pde karung
+\uv W
+\ur I,E= lurribme
+\nt DK: Etherington/Manakgu Kunbalak book has 'djabudme', but Jill says it has a 'j', 'djabudjme', dictionary file has 'lurribme' for karung. Jill says this is an eastern variation. "Kune mob kabirriyime".
+\id DK
+\id JNg
+\dt 30/Jun/2020
+
 \lx djad
 \pr man-
 \ps adj.
@@ -8710,6 +8777,56 @@ dry time has properly arrived. The seeds may be eaten raw.
 \dt 13/Oct/2003
 \dm 01/Jun/2019
 
+\lx djarala
+\pr kun-
+\ps n.
+\re sun
+\de Sun.
+\xv Kundjarala manbu kamdjaralaworrbayhme dja kadjaralayibbonghme. Mak kunmurrwird bedberre nawu kundjarala kabirridjarrbelme. 
+\xn Kundung manbu kamdungbebme dja karrungyibme. Mak kunkoymud bedberre nawu kundung kabirrihdi. 
+\xe The sun comes up and then sets. There is also a skin name people have [in the fi:kunkoymud matry system] called 'sun'.
+\so Jill Nganjmirra
+\xv Kayakura, djaralayambahminj. Kaluk milbabba kanedokan.
+\xn Larrk, dungwarreminj. Kaluk malaywi kanere.
+\xe No. It's too late today. Tomorrow we will go, the three of us.
+\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 60-63
+\pdv kk
+\pde kundung
+\nt DK: Jill notes it should be kundjarala, not ngaldjarala (the original [lx]). Etherington/Manakgu Kunbalak book has ‘kundjalara’ with the ‘r’ and ‘l’ reversed, but Jill says "djarala" as well. 
+\dt 24/Apr/2018
+\dm 30/Jun/2020
+
+\lx djaralaworrbayhme
+\ps v.i.
+\re sunrise
+\de Sunrise, the sun rises.
+\xv Kamdjaralaworrbayhme.
+\xn Kamdungbebme.
+\xe The sun is rising.
+\pdv kk
+\pde dungbebme
+\dt 11/Jun/2006
+\dm 14/Sep/2018
+
+\lx djaralayibbonghme
+\ps v.i.
+\re sunset
+\de Sunset, the sun goes down.
+\xv Kundjarala manbu kamdjaralaworrbayhme dja kadjaralayibbonghme. 
+\xn Kundung manbu kamdungbebme dja karrungyibme. 
+\xe The sun comes up and goes down. 
+\so Jill Nganjmirra
+\xv Yimankek balhdjaralayibbonghmeng dja birriworrbayhmeng.
+\xn Yimankek balhdungyibmi dja birribebmeng.
+\xe It was just about sunset when they arrived.
+\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 48-51
+\pdv kk
+\pde dungyibme
+\nt DK: Jill mentioned this word as well. Kunbalak book consistently has ‘kundjalara’ with the ‘r’ and ‘l’ reversed, as in [xv] above, but Jill agreed with the spelling in this dictionary. 
+\id DK
+\dt 08/May/2018
+\dm 30/Jun/2020
+
 \lx djardahme
 \ps v.i.
 \re be stuck
@@ -8788,6 +8905,35 @@ dry time has properly arrived. The seeds may be eaten raw.
 \bw from Makassarese j·rang 'horse'.
 \dt 13/Oct/2003
 \dm 15/Dec/2018
+
+\lx djarrbelme
+\ps v.i.
+\sn 1
+\re stand
+\de Stand.
+\xv Ngarridokang wanjh ngarrikurdudmeng badjorrkorrongko kumhdjarrbelmi bu ngankurdudmi. 
+\xn Ngarriwam wanjh ngarrinang nganabbarru kumhdi ngankuknani. 
+\xe We were walking along and saw a buffalo standing there looking at us. 
+\so Jill Nganjmirra
+\sn 2
+\re be
+\de Be, there is. 
+\xv Bendarr nawu nungan kadjarrbelme muna bu kawayalhbonghme.  
+\xn Dird nawu nungan kadi kukak bu kawolkan. 
+\xe The moon is there at night and gives light. 
+\so Jill Nganjmirra
+\nt MG- interesting that in Kuninjku the ordinary word for shine is ‘wayalhme’ so looks like W kunbalak has borrowed the term from eastern dialect(s). I wonder what the Kuninjku kunbalak word is then for ‘shine’.
+\sn 3
+\re stay
+\de Stay.
+\xv Ngalwamud dakalhmeng, "Ngudda kondah ngurridjarrbelme",
+\xn Ngalwamud yimeng, "Ngudda kondah ngurridi".
+\xe Ngalwamud said, "You stay here". 
+\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 28-31
+\pdv kk
+\pde di
+\nt DK: Dictionary file has [lx] djalbelmi and [lx] djarrdelme, but Jill would say ‘djarrbelmi/kadjarrbelme’ and Etherington Kunbalak book uses this pronunciation as well. MG- must be a typo. I’ll correct it, thanks.
+\dt 30/Jun/2020
 
 \lx djarreh
 \ps adj. / adv.
@@ -10088,6 +10234,26 @@ bininj kabarridi kure kukebrok.
 \dt 05/Feb/2017
 \dm 14/Sep/2018
 
+\lx djurlkkin
+\pr kun-
+\ps n.
+\re water
+\de Water.
+\xv Nawu yayam birridokang bu kabirringarlabme kore kundjurlkkin.
+\xn Nawu wurdurd birriwam bu kabirridjuhme kore kukku. 
+\xe The children went to swim in the water. 
+\so Jill Nganjmirra
+\xv Ngarrdokan ba kundjurlkkin ngarrdjurlkkinyakwan.
+\xn Ngarray ba kukku ngarrbongun.
+\xe Let's go and drink some water. 
+\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 16-19
+\pdv kk
+\pde kunronj, kukku
+\ee incorporable = o.l.
+\nt DK: Jill would spell this with 'n', not 'nj' (original [lx] was kundjurlkkinj). Etherington/Manakgu book usually spells it 'kundjurlkkin' as well, though sometimes they add the 'j'. MG- Okay, let’s go on Jill’s advice and drop the ‘nj’ and change to ’n’
+\dt 19/Jul/2005
+\dm 30/Jun/2020
+
 \lx djulu
 \ps n.
 \re matches
@@ -11146,6 +11312,25 @@ mandulkbalabala, kabirrikadjedme rowk.
 \dt 13/Oct/2003
 \dm 14/Sep/2018
 
+\lx kardukardu
+\ps n.
+\ng Used for both singular and plural. 
+\re woman
+\re girl
+\de Woman, girl.
+\xv Nganeyibonghmerrinj kardukardu.
+\xn Nganeyiburrinj daluk.
+\xe We both fought over the woman.
+\xv Kardukardu bulalh benedokang korrngelk.
+\xn Yawkyawk bokenh benewam djenj.
+\xe Two women went fishing. 
+\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 68-71
+\pdv kk
+\pde daluk, yawkyawk, molehmolenj
+\ee Dalabon= kúrdúkúrd 'woman'.
+\dt 06/May/2006
+\dm 30/Jun/2020
+
 \lx -kari
 \ps adv.
 \re stuck through penetration
@@ -11588,6 +11773,24 @@ mandulkbalabala, kabirrikadjedme rowk.
 \ur I= mandjorlok-mandjorlok
 \sd bird
 \dt 28/Dec/2008
+
+\lx karremudyi
+\pr man-
+\ps n.
+\lit "hairy leg"
+\re long yam
+\re fi:Dioscorea_transversa
+\de Long Yam. Literally, "hairy leg".
+\sc Dioscorea transversa
+\xv Ngalngomi kardukardu dokang kadjabudjme mankarremudyi. Kaluk bu kamyiwarnduyhme wanjh kunu karribobekke bu karriyakwan. 
+\xn Ngalkudji daluk wam kakarung karrbarda. Kaluk bu kamyirrurndeng, wanjh kunu karrikinje bu karringun. 
+\xe One woman went digging for long yams. When she brings them back, we'll cook them and eat them. 
+\so Jill Nganjmirra
+\pdv kk
+\pde karrbarda
+\sd plant
+\dt 19/Jul/2005
+\dm 30/Jun/2020
 
 \lx karrewoneng
 \ps poss. pron.
@@ -13523,6 +13726,24 @@ birrikilelh namekke.
 \dt 22/Jun/2007
 \dm 14/Oct/2019
 
+\lx korrngelk
+\ps n.
+\re fish
+\de Fish.
+\xv Karriyidokan manyirrurl ba karrimodme korrngelk karriyakwan.
+\xn Karriyire wakkidj ba karrimang djenj karringun.
+\xe Let’s go with fishing lines so we can get some fish to eat.
+\xv Nawu korrngelk ngarrkmerrinj kore kundjurlkkin minj mak karridjurlkkinyakwan dja djurlkkinyambahminj. 
+\xn Nawu djenj dowerrinj kore kukku, minj mak karribongun dja bowarreminj. 
+\xe The fish have died in the water, we can't drink it any more because it's gone bad. 
+\so Jill Nganjmirra
+\nt note in Kune the usual word for die/get sick is -ngarkme (single r).
+\pdv kk
+\pde djenj
+\sd fish
+\dt 06/May/2006
+\dm 30/Jun/2020
+
 \lx korroko
 \ps adv.
 \sn 1
@@ -14581,6 +14802,19 @@ to die.’ Etherington has ‘kunukka - about that, this’ and ‘kunukka - in 
 \de Good at dancing
 \nt DK: Etherington also has one [xv] Ngabidbom nawern nawu bisnis laik, birribubuyika ngandibukkang… Ngandibukkang ngabennang ngabenkurdunang laik kunkurdu manu. [xe] Yes, I went to a lot of ceremonies. Lots of different people taught me… They used to teach me and I would watch them. I watched what they did, that ceremony. Jill confirms this is a little different from kurdunan/kurduyime, in that kunkurdu relates to 'traditional dance' only, whereas kurdunan/kurduyime is just 'watch someone do an action', and 'do an action'. 
 \dm 05/Jun/2019
+
+\lx kurdudme
+\ps v.t.
+\re see
+\de See.
+\xv Ngarridokang wanjh ngarrikurdudmeng badjorrkorrongko kumhdjarrbelmi bu ngankurdudmi. 
+\xn Ngarriwam wanjh ngarrinang nganabbarru kumhdi ngankuknani. 
+\xe We were walking along and saw a buffalo standing there looking at us. 
+\so Jill Nganjmirra
+\pdv kk
+\pde nan
+\nt Jill would spell this “kurdudme”, rather than 'kurrudme' (the original [lx]). This is also the spelling used in Andrew’s Kunbalak book. MG- okay thanks, will update.
+\dm 30/Jun/2020
 
 \lx kurdukadji
 \ps n.
@@ -16533,6 +16767,26 @@ Namanjmiken kakanjkinje mankudji kunkanj bulikki bu wolewoleh kore Kunbalanja. I
 \dt 13/Oct/2003
 \dm 23/Jun/2019
 
+\lx marlang
+\ps adj.
+\re good 
+\re fine
+\re OK 
+\de Good, fine OK.
+\xv Nawu nangomi yul nakka namarlang, nganweybom kunmulbbuy. Dja mak dakalhmeng ngadberre "Kolkkol karrimorndi kaluk milbabba ngurridokan bu ngurriwarnduyhme kore kumelworn".
+\xn Nawu nakudji bininj nakka namak, nganwong kunkanj. Dja mak yimeng ngadberre "Bolkkime karriyo kaluk malaywi ngurrire bu ngurridurndeng kore kured". 
+\xe That man is nice, he gave us some meat. He told us "Let's go to sleep now, and in the morning you can all go home". 
+\so Jill Nganjmirra
+\xv "Kakkak kamarlang karrokan kokok kukadjeh kabikurdudme marrkidjbu?"
+\xn "Kakkak, kamak kare kokok kukadjeh kabinan doctor?” 
+\xe “Kakkak, is it okay if older brother goes into town to see the doctor?”
+\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 56-59
+\pdv kk
+\pde mak
+\nt DK: The original entry was [lx] kamarlang. [pde] ka-mak. 
+\dt 19/Jul/2005
+\dm 30/Jun/2020
+
 \lx morlak
 \pr man-
 \ps n.
@@ -16935,6 +17189,26 @@ Namanjmiken kakanjkinje mankudji kunkanj bulikki bu wolewoleh kore Kunbalanja. I
 \sd plant
 \dt 23/Apr/2014
 
+\lx marrwardda
+\pr kun-
+\ps n.
+\re hair
+\de Hair.
+\xv Ngahli kardukardu manbu ngalengarre kunmarrwardda kawarrhbonghme, kunubewu kangarrkme. 
+\xn Ngahli daluk manbu ngalengarre kungabek kawarrawarrhme, kunubewu karrowen. 
+\xe That woman's hair is falling out, she might be dying. 
+\so Jill Nganjmirra
+\xv Manbu kunwok kunkurrng ngarriyime kunburndih makka minj kunngabek, dja makka ngarriyime kunkurlah, dja manbu kunngabek kunkurrng ngarriyime kunmarrwardda. 
+\xe The mother-in-law langauge word ‘kunburndih’ doesn’t mean hair, it means skin. The mother-in-law language word for hair is ‘kunmarrwardda’. 
+\so Jill Nganjmirra
+\pdv kk
+\sd body_part
+\nt Dictonary file has kunburndih with [pde] kun-marre, but Jill says that this means skin in Kunbalak, not hair. Steve/Andrew’s Kunbalak book also has kunmarrwardda with the same spelling meaning hair. MG- okay, will change.
+\id JNg
+\id DK
+\dt 19/Mar/2018
+\dm 30/Jun/2020
+
 \lx marrwe
 \va marrwedowen
 \ps v.i.
@@ -16942,8 +17216,6 @@ Namanjmiken kakanjkinje mankudji kunkanj bulikki bu wolewoleh kore Kunbalanja. I
 \de Be hungry.
 \pdn kk=kk = marrwulngayirrihme
 \dm 14/Sep/2018
-
-up to here 27th
 
 \lx mawah
 \va mawa
@@ -17173,6 +17445,24 @@ kahdi.
 \dt 15/Feb/2005
 \dm 15/Dec/2018
 
+\lx melworn
+\pr kun-
+\lc kun-melworn
+\ps n.
+\re place
+\re country
+\re home
+\re nest
+\de Place, country, home, nest.
+\xv Kaluk milbabba ngurridokan bu ngurriwarnduyhme kore kumelworn.
+\xn Kaluk malaywi ngurrire bu ngurridurndeng kore kured. 
+\xe In the morning you can all go back home. 
+\so Jill Nganjmirra
+\pdv kk
+\pde kunbolk, kunred, kured
+\dt 19/Jul/2005
+\dm 14/Sep/2018
+
 \lx men
 \pr kun-
 \ps n.
@@ -17376,6 +17666,19 @@ kahdi.
 \xe People who call each other fi:nakurrng or fi:ngalkurrng use 'mother-in-law language'. They use this avoidance language, (also) called kunbalak.  
 \so Jill Nganjmirra
 \dm 05/Jun/2019
+
+\lx milbabba
+\ps adv.
+\re tomorrow
+\de Tomorrow.
+\xv Kayakura, djalarayambahminj. Kaluk milbabba kanedokan.
+\xn Larrk, dungwarreminj. Kaluk malaywi kanere.
+\xe No, it's too late. Let's go tomorrow, the three of us.
+\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 60-63
+\pdv kk
+\pde malayi
+\dt 19/Jul/2005
+\dm 30/Jun/2020
 
 \lx mile
 \pr man-
@@ -17845,6 +18148,20 @@ kahdi.
 \id DK
 \dt 24/Jul/2017
 
+\lx modme
+\ps v.t.
+\re get
+\re receive
+\de Get, receive.
+\xv Karridokan karrimodme manworrh ba karriyakwan. 
+\xn Kab karrire karrimang manme ba karringun. 
+\xe Let's go and get some food to eat. 
+\so Jill Nganjmirra
+\pdv kk
+\pde mang
+\dt 19/Jul/2005
+\dm 30/Jun/2020
+
 \lx modmiken
 \ps adj.
 \re peaceful
@@ -18079,6 +18396,23 @@ causes lightning by throwing the axes with great force).
 \sd insect
 \dm 14/Sep/2018
 
+\lx morndi
+\ps v.i.
+\re sit
+\re sleep
+\re lie
+\re be 
+\re camp
+\de Sit, sleep, lie, be, camp.
+\xv Karridjaldokan, kaluk karrimorndi Kumardderr.
+\xn Karridjalre, kaluk karriyo Kumardderr.
+\xe Let's just keep going, then camp at Kumardderr.
+\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 48-51
+\pdv kk
+\pde yo, ni
+\dt 19/Jul/2005
+\dm 30/Jun/2020
+
 \lx mornekan
 \ps v.t.
 \re carry on shoulders
@@ -18193,6 +18527,24 @@ causes lightning by throwing the axes with great force).
 \sd mammal
 \dt 06/May/2006
 
+\lx mulbbuy
+\pr kun-
+\lc kun-mulbbuy
+\ps n.
+\re meat
+\de Meat.
+\xv Kabirrimulbbuyyakwan.
+\xn Kabirrikanjngun.
+\xe They are eating meat.
+\xv Nawu nangomi yul nakka namarlang, nganweybom kunmulbbuy. 
+\xn Nawu nakudji bininj nakka namak, nganwong kunkanj. 
+\xe That man is nice, he gave me some meat. 
+\so Jill Nganjmirra
+\pdv kk
+\pde kunkanj
+\dt 19/Jul/2005
+\dm 30/Jun/2020
+
 \lx mulewan
 \ps v.t.
 \re tell
@@ -18267,6 +18619,23 @@ causes lightning by throwing the axes with great force).
 \id DK
 \dm 10/Mar/2019
 \dt 10/Jul/2017
+
+\lx muna
+\ps adj.
+\re dark
+\re at night
+\de Dark, in the dark, at night.
+\xv Bendarr nawu nungan kadjarrbelme muna bu kawayalhbonghme.  
+\xn Dird nawu nungan kadi kukak bu kawolkan. 
+\xe The moon is there at night and gives light. 
+\so Jill Nganjmirra
+\pdv kk
+\pde kumunun
+\nt DK: Andrew’s Kunbalak book has “muna  - dark, night time” as kk for “kumunun”. 
+\id DK
+\id JNg
+\dt 23/Aug/2018
+\dm 30/Jun/2020
 
 \lx munkewe
 \ps v.t.
@@ -19310,6 +19679,23 @@ bindilambarrkurrmeng rowk manu nadjalwern.” (Kunwinjku Spirit).
 \nt Definition is from Kundjeyhmi dictionary. Etherington has ngakukwarre - I apologize, not sure how general usage this word is (e.g. “sorry”), or if it has a more constrained range 
 \id DK
 \dt 24/Feb/2017
+
+\lx ngaldjangarraburneburne
+\ps n.
+\re file snake
+\re fi:Acrochordus_arafurae
+\de File Snake.
+\sc fi:Acrochordus_arafurae
+\xv Ngaldjangarraburneburne ngalbu ngarrimodme kore kudjurlkkin, ngalmarlang bu ngarriyakwan. 
+\xn Kedjebe ngalbu ngarrimang kore kukku, ngalmak bu ngarringun. 
+\xe We catch file snakes in the water, they're good to eat. 
+\so Jill Nganjmirra
+\pdv kk
+\pde kedjebe, bekka
+\sd reptile/amphibian
+\nt DK: Jill would say ‘ngaldjangarraburneburne’, with a flapped 'r' and retroflexes. Regular Kunwinjku would be ngaldangkerlkkerlk/ngalkerlkkerlk. Andrew's Kunbalak book also uses a flapped ‘r’, e.g. dangmarrmey = djangarramarrhmimodmeng. Jill says the [sy] ngaldjangarakerlkkerlk in the dictionary file is mixing Kunwinjku and Kunbalak together, though Etherington/Manakgu Kunbalak book has "ngalkerlkkerlk" as the Kunbalak version of kedjebe. MG- okay, will correct in main file.
+\dt 19/Jul/2005
+\dm 30/Jun/2020
 
 \lx ngalele
 \pr man-
@@ -22240,6 +22626,21 @@ matri-moiety. Equivalent to <b>ngarridj</b> in the eastern system.
 \id DK
 \dm 10/May/2019
 
+\lx warnduyhme
+\ps v.i.
+\re return
+\re go back
+\de Go back, return.
+\xv Kolkkol karrimorndi kaluk milbabba ngurridokan bu ngurriwarnduyhme kore kumelworn.
+\xn Bolkkime karriyo kaluk malaywi ngurrire bu ngurridurndeng kore kured. 
+\xe Let's go to sleep now, and in the morning you can all go back home. 
+\so Jill Nganjmirra
+\pdv kk
+\pde -durndeng
+\nt DK: Jill would use the spelling 'kolkkol', rather than 'kolhkol'. Manakgu Kunbalak book also spells it this way.
+\dt 19/Jul/2005
+\dm 14/Sep/2018
+
 \lx warnmak
 \ps pred. adj.
 \re happy
@@ -23664,6 +24065,35 @@ nguddangke kunred yiworhnan.
 \id JNg
 \dt 23/Jun/2019
 
+\lx worrbayhme
+\ps v.i.
+\re appear
+\re come out
+\re arrive
+\de Appear, come out, arrive.
+\xv Yimankek baldjaralayibbonghmeng dja birriworrbayhmeng.
+\xn Yimankek balhdungyibmi dja birribebmeng.
+\xe It was just about sunset when they arrived.
+\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 48-51
+\pdv kk
+\pde bebme
+\dt 19/Jul/2005
+\dm 14/Sep/2018
+
+\lx worrh
+\pr man-
+\ps n.
+\re food
+\de Food.
+\xv Karridokan karrimodme manworrh ba karriyakwan. Dja kunwulhwul karrimorndanj bu kunmarrawul. 
+\xn Kab karrire karrimang manme ba karringun. Dja kunkuyeng ngarriyerrkang bu kunmarrwe. 
+\xe Let's go and get some food to eat. We've been sitting here hungry for ages. 
+\so Jill Nganjmirra
+\pdv kk
+\pde manme
+\dt 19/Jul/2005
+\dm 30/Jun/2020
+
 \lx worrhme
 \ps v.t.
 \re start a fire
@@ -24095,6 +24525,25 @@ nguddangke kunred yiworhnan.
 \dt 06/May/2006
 \dm 25/Nov/2018
 
+\lx wuybbin
+\pr man-
+\ps n.
+\re honey
+\de Honey, sugar bag (generic).
+\xv Ngarrokan ngamodme karramalk nawu manwuybbinkenh.
+\xn Ngare ngamang karramalk nawu mankungkenh.
+\xe I'll go and get a stone axe for getting bush honey.
+\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 12-15
+\xv Kunbalak ngarridakkodjwarlhke manwuybbin, nawu namanjmarlang bu ngarriyakwan dja ngarridjurlkkinmarlangweybun bu ngarridjurlkkinyakwan. Mak nawirihwiribbu manwuybbin nawu namarlang ngarriyakwan. 
+\xn Kunwinjku ngarringeybun mankung, nawu namanjmakkayken bu ngarringun dja ngarribomarnbun bu ngarribongun. Mak nabubuyika mankung nawu namanjmak.
+\xe In Kunbalak we say "manwuybbin" (and in Kunwinjku we say 'mankung') [bush honey]. It's good to eat and make into drinks. There are lots of different bush honey types that are very tasty.
+\so Jill Nganjmirra 
+\pdv kk
+\pde mankung
+\nt DK: Original entry was [lx] wuybbinj, but Jill would say this 'manwuybbin', no "j". Etherington/Manakgu also spell it this way. 
+\dt 19/Jul/2005
+\dm 30/Jun/2020
+
 \lx ya
 \ps interj.
 \sn 1
@@ -24251,6 +24700,22 @@ speaker.
 \nt DK: Jill notes "mak bu ngarriyime bu kabirriyakmen bininj, daluk dja wurdwurd". Add [sn].  
 \dm 25/Nov/2018
 
+\lx yakwan
+\ps v.t.
+\re eat
+\de Eat.
+\xv Karridokan karrimodme manworrh ba karriyakwan. 
+\xn Kab karrire karrimang manme ba karringun. 
+\xe Let's go and get some food to eat. 
+\so Jill Nganjmirra
+\xv Marndi yiyakwan la nanjeknjek.
+\xn Yun yingun la nadjamun.
+\xe Don't eat that, it's taboo/sacred.
+\pdv kk
+\pde ngun
+\dt 06/May/2006
+\dm 30/Jun/2020
+
 \lx yakwon
 \ps v.t.
 \sn 1
@@ -24283,6 +24748,24 @@ speaker.
 \nt DK: Water lily or water lily corm? This always seems to turn up in the context of the Orphan story, like manburrangkali. In the LAAL text it’s portrayed as being not as good as manburrangkali, but in the Kunwinjku Spirit version it’s the focus of the story: [xv] Wurdyaw birrinjilngwarrewong birrihwoni yaldanj manmanjmak mandem. [xe] The little boy had been spoilt by people giving him yaldanj - a really nice flavoured water-lily with a salty flavour.
 \id AM
 \dt 28/Mar/2017
+
+\lx yambah
+\lc + noun class PRON.yambah
+\ps adj.
+\re bad
+\de Bad, no good.
+\xv Nahni nayambah minj karriyakwan nawu korrngelk, dja nanjdjarrminj, dja karriwarlhke.
+\xn Nahni nawarre, minj karringun nawu djenj, dja nudminj, dja karriburriwe.
+\xe It's gone bad, we can't eat that fish - it's gone rotten, let's throw it away.
+\so Jill Nganjmirra   
+\xv Kayakura, djalarayambahminj. Kaluk milbabba kanedokan.
+\pde Larrk, dungwarreminj. Kaluk malaywi kanere.
+\xe No. It's too late today. Tomorrow we will go, the three of us.
+\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 60-63
+\pdv kk
+\pde -warre
+\dt 19/Jul/2005
+\dm 30/Jun/2020
 
 \lx yame
 \ps v.t.
@@ -25672,6 +26155,27 @@ kuk.
 \dt 13/Oct/2003
 \dm 14/Sep/2018
 
+\lx yul
+\va yol
+\ps n.
+\re man
+\re person
+\re Aboriginal person
+\de Man, people, Aboriginal people.
+\xv Nawu nangomi yul nakka namarlang, nganweybom kunmulbbuy. 
+\xn Nawu nakudji bininj nakka namak, nganwong kunkanj. 
+\xe That man is nice, he gave me some meat. 
+\so Jill Nganjmirra
+\xv Yulyul bulalh benedokang korrngelk.
+\xn Bininj bokenh benewam djenj.
+\xe Two men went fishing. 
+\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 64-67
+\pdv kk
+\pde bininj
+\nt DK: Jill says this is 'yul', rather than 'yol'. Andrew's Kunbalak book has the same thing. 
+\dt 19/Jul/2005
+\dm 30/Jun/2020
+
 \lx yuwn
 \va yun
 \ps neg. part.
@@ -25748,956 +26252,4 @@ kuk.
 \id DK
 \dt 12/Jun/2017
 \dm 14/Sep/2018
-
-\lx bendarr
-\ps n.
-\re moon
-\de Moon.
-\sy berrebabi
-\xv Bendarr nawu nungan kadjarrbelme muna bu kawayalhbonghme.  
-\xn Dird nawu nungan kadi kukak bu kawolkan. 
-\xe The moon is there at night and gives light. 
-\so Jill Nganjmirra
-\pdv kk
-\pde dird
-\nt DK: Etherington/Manakgu have both bendarr and berrebabi as alternative kk forms for dird, but Jill would use 'bendarr' herself. 
-\dt Jun/2020
-
-\lx bongkidj 
-\ps n.
-\re egg
-\de Egg.
-\xv Kunbalak ngarridakalhme bongkidj. Birrikorrongko nawu kalko kabirrimodme bu kabirrimorname kore bedberre kabirrimarlangweybonghme kunmelworn. 
-\xn Kunwinjku ngarringeybun wirlarrk. Nawern nawu mayh kabirriwirlarrkmang bu kabirriwirlarrkkurrme kore bedberre kabirriredmarnbun.
-\xe In Kunbalak we say 'bongkidj' [and in Kunwinjku we say 'wirlarrk', eggs]. Many animals lay eggs in the nests that they make. 
-\so Jill Nganjmirra
-\pdv kk 
-\pde wirlarrk
-\uv W
-\ur I,E= morrodjornno
-\nt DK: Jill noted this word on [lx] morrodjornno, which she does not recognise (might be “Kunwok Kune dja Rembarrnga”). She says the Kunwinjku kunbalak word for egg is bongkidj.
-\id JNg
-\id DK
-\dt 23/Aug/2018
-\dm Jun/2020
-
-\lx dakalhme
-\ps v.i.
-\re say
-\re do
-\de Say, do.
-\xv Nangomi dakalhmeng, "Kab ngarrokan ngabobekke ngarrku". 
-\xv nakudji yimeng, "Kab ngare ngakinje ngarrku."
-\xe One of them said "How about I go and cook this for us?".
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 64-67
-\xv Dakalhmeng minj yidokan. 
-\xn Yimeng minj yire.
-\xe She said not to go.
-\so Jill Nganjmirra
-\pdv kk
-\pde yime
-\dt 24/Apr/2018
-\dm Jun/2020
-
-\lx djabudjme
-\ps v.t.
-\re dig
-\de Dig. 
-\xv Ngalngomi kardukardu dokang kadjabudjme mankarremudyi. 
-\xn Ngalkudji daluk wam kakarung karrbarda. 
-\xe One woman went digging for long yams. 
-\so Jill Nganjmirra
-\pdv kk
-\pde karung
-\uv W
-\ur I,E= lurribme
-\nt DK: Etherington/Manakgu Kunbalak book has 'djabudme', but Jill says it has a 'j', 'djabudjme', dictionary file has 'lurribme' for karung. Jill says this is an eastern variation. "Kune mob kabirriyime".
-\id DK
-\id JNg
-\dt Jun/2020
-
-\lx djarala
-\pr kun-
-\ps n.
-\re sun
-\de Sun.
-\xv Kundjarala manbu kamdjaralaworrbayhme dja kadjaralayibbonghme. Mak kunmurrwird bedberre nawu kundjarala kabirridjarrbelme. 
-\xn Kundung manbu kamdungbebme dja karrungyibme. Mak kunkoymud bedberre nawu kundung kabirrihdi. 
-\xe The sun comes up and then sets. There is also a skin name people have [in the fi:kunkoymud phratry system] called 'sun'.
-\so Jill Nganjmirra
-\xv Kayakura, djaralayambahminj. Kaluk milbabba kanedokan.
-\pde Larrk, dungwarreminj. Kaluk malaywi kanere.
-\xe No. It's too late today. Tomorrow we will go, the three of us.
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 60-63
-\pdv kk
-\pde kundung
-\nt DK: Jill notes it should be kundjarala, not ngaldjarala (the original [lx]). Etherington/Manakgu Kunbalak book has ‘kundjalara’ with the ‘r’ and ‘l’ reversed, but Jill says "djarala" as well. 
-\dt 24/Apr/2018
-\dm Jun/2020
-
-\lx djaralaworrbayhme
-\ps v.i.
-\re sunrise
-\de Sunrise, the sun rises.
-\xv Kamdjaralaworrbayhme.
-\pde Kamdungbebme.
-\xe The sun is rising.
-\pdv kk
-\pde dungbebme
-\dt 11/Jun/2006
-\dm 14/Sep/2018
-
-\lx djaralayibbonghme
-\ps v.i.
-\re sunset
-\de Sunset, the sun goes down.
-\xv Kundjarala manbu kamdjaralaworrbayhme dja kadjaralayibbonghme. 
-\xn Kundung manbu kamdungbebme dja karrungyibme. 
-\xe The sun comes up and goes down. 
-\so Jill Nganjmirra
-\xv Yimankek baldjaralayibbonghmeng dja birriworrbayhmeng.
-\xn Yimankek balhdungyibmi dja birribebmeng.
-\xe It was just about sunset when they arrived.
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 48-51
-\pdv kk
-\pde dungyibme
-\nt DK: Jill mentioned this word as well. Kunbalak book consistently has ‘kundjalara’ with the ‘r’ and ‘l’ reversed, as in [xv] above, but Jill agreed with the spelling in this dictionary. 
-\id DK
-\dt 08/May/2018
-\dm Jun/2020
-
-\lx djarrbelme
-\ps v.i.
-\sn 1
-\re stand
-\de Stand.
-\xv Ngarridokang wanjh ngarrikurdudmeng badjorrkorrongko kumhdjarrbelmi bu ngankurdudmi. 
-\xn Ngarriwam wanjh ngarrinang nganabbarru kumhdi ngankuknani. 
-\xe We were walking along and saw a buffalo standing there looking at us. 
-\so Jill Nganjmirra
-\sn 2
-\re be
-\de Be, there is. 
-\xv Bendarr nawu nungan kadjarrbelme muna bu kawayalhbonghme.  
-\xn Dird nawu nungan kadi kukak bu kawolkan. 
-\xe The moon is there at night and gives light. 
-\so Jill Nganjmirra
-\sn 3
-\re stay
-\de Stay.
-\xv Ngalwamud dakalhmeng, "Ngudda kondah ngurridjarrbelme",
-\xn Ngalwamud yimeng, "Ngudda kondah ngurridi".
-\xe Ngalwamud said, "You stay here". 
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 28-31
-\pdv kk
-\pde di
-\nt DK: Dictionary file has [lx] djalbelmi and [lx] djarrdelme, but Jill would say ‘djarrbelmi/kadjarrbelme’ and Etherington Kunbalak book uses this pronunciation as well. 
-\dt Jun/2020
-
-\lx djurlkkin
-\pr kun-
-\ps n.
-\re water
-\de Water.
-\xv Nawu yayam birridokang bu kabirringarlabme kore kundjurlkkin.
-\xn Nawu wurdurd birriwam bu kabirridjuhme kore kukku. 
-\xe The children went to swim in the water. 
-\so Jill Nganjmirra
-\xv Ngarrdokan ba kundjurlkkin ngarrdjurlkkinyakwan.
-\xn Ngarray ba kukku ngarrbongun.
-\xe Let's go and drink some water. 
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 16-19
-\pdv kk
-\pde kunronj, kukku
-\ee incorporable = o.l.
-\nt DK: Jill would spell this with 'n', not 'nj' (original [lx] was kundjurlkkinj). Etherington/Manakgu book usually spells it 'kundjurlkkin' as well, though sometimes they add the 'j'. 
-\dt 19/Jul/2005
-\dm Jun/2020
-
-\lx dokan
-\ps v.i.
-\re go
-\re walk
-\re travel
-\de Go, walk, travel.
-\xv Karridjaldokan, kaluk karrimorndi Kumardderr.
-\xn Karridjalre, kaluk karriyo Kumardderr.
-\xe Let's just keep going, then camp at Kumardderr.
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 48-51
-\xv Kondanj ngamorndi la yirroka.
-\xn Kondanj ngani la yiray.
-\xe I'll stay here, you go.
-\pdv kk
-\pde re
-\dt 29/Nov/2008
-\dm 14/Sep/2018
-
-\lx kalko
-\ps n.
-\re animal
-\re bird
-\de Animal, bird.
-\xv Kunbalak ngarridakalhme bongkidj. Birrikorrongko nawu kalko kabirrimodme bu kabirrimorname kore bedberre kabirrimarlangweybonghme kunmelworn. 
-\xn Kunwinjku ngarringeybun wirlarrk. Nawern nawu mayh kabirriwirlarrkmang bu kabirriwirlarrkkurrme kore bedberre kabirriredmarnbun.
-\xe In Kunbalak we say 'bongkidj' [and in Kunwinjku we say 'wirlarrk', eggs]. Many animals lay eggs in the nests that they make. 
-\so Jill Nganjmirra
-\pdv kk
-\pde mayh, mayhmayh
-\nt DK: Dictionary file has 'karlko' as 'magpie goose'. Etherington/Manakgu Kunbalak book has 'kalko' for 'animal', 'bird' and 'magpie goose'. E.g. Bobekkeyi kalko/kinjeng mayh. Jill would spell it 'kalko', and said that it's Kunbalak for 'mayh'. 
-\id DK
-\id JNg
-\dt Jun/2020
-
-\lx kardukardu
-\ps n.
-\ng Used for both singular and plural. 
-\re woman
-\re girl
-\de Woman, girl.
-\xv Nganeyibonghmerrinj kardukardu.
-\pde Nganeyiburrinj daluk.
-\xe We both fought over the woman.
-\xv Kardukardu bulalh benedokang korrngelk.
-\xn Yawkyawk bokenh benewam djenj.
-\xe Two women went fishing. 
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 68-71
-\pdv kk
-\pde daluk, yawkyawk, molehmolenj
-\ee Dalabon= kúrdúkúrd 'woman'.
-\dt 06/May/2006
-\dm Jun/2020
-
-\lx karremudyi
-\pr man-
-\ps n.
-\lit "hairy leg"
-\re long yam
-\re fi:Dioscorea_transversa
-\de Long Yam. Literally, "hairy leg".
-\sc Dioscorea transversa
-\xv Ngalngomi kardukardu dokang kadjabudjme mankarremudyi. Kaluk bu kamyiwarnduyhme wanjh kunu karribobekke bu karriyakwan. 
-\xn Ngalkudji daluk wam kakarung karrbarda. Kaluk bu kamyirrurndeng, wanjh kunu karrikinje bu karringun. 
-\xe One woman went digging for long yams. When she brings them back, we'll cook them and eat them. 
-\so Jill Nganjmirra
-\pdv kk
-\pde karrbarda
-\sd plant
-\dt 19/Jul/2005
-\dm Jun/2020
-
-\lx korrngelk
-\ps n.
-\re fish
-\de Fish.
-\xv Karriyidokan manyirrurl ba karrimodme korrngelk karriyakwan.
-\xn Karriyire wakkidj ba karrimang djenj karringun.
-\xe Let’s go with fishing lines so we can get some fish to eat.
-\xv Nawu korrngelk ngarrkmerrinj kore kundjurlkkin minj mak karridjurlkkinyakwan dja djurlkkinyambahminj. 
-\xv Nawu djenj dowerrinj kore kukku, minj mak karribongun dja bowarreminj. 
-\xe The fish have died in the water, we can't drink it any more because it's gone bad. 
-\so Jill Nganjmirra
-\pdv kk
-\pde djenj
-\sd fish
-\dt 06/May/2006
-\dm Jun/2020
-
-\lx kurdudme
-\ps v.t.
-\re see
-\de See.
-\xv Ngarridokang wanjh ngarrikurdudmeng badjorrkorrongko kumhdjarrbelmi bu ngankurdudmi. 
-\xn Ngarriwam wanjh ngarrinang nganabbarru kumhdi ngankuknani. 
-\xe We were walking along and saw a buffalo standing there looking at us. 
-\so Jill Nganjmirra
-\pdv kk
-\pde nan
-\nt Jill would spell this “kurdudme”, rather than 'kurrudme' (the original [lx]). This is also the spelling used in Andrew’s Kunbalak book. 
-\dm Jun/2020
-
-\lx marlang
-\ps adj.
-\re good 
-\re fine
-\re OK 
-\de Good, fine OK.
-\xv Nawu nangomi yul nakka namarlang, nganweybom kunmulbbuy. Dja mak dakalhmeng ngadberre "Kolkkol karrimorndi kaluk milbabba ngurridokan bu ngurriwarnduyhme kore kumelworn".
-\xn Nawu nakudji bininj nakka namak, nganwong kunkanj. Dja mak yimeng ngadberre "Bolkkime karriyo kaluk malaywi ngurrire bu ngurridurndeng kore kured". 
-\xe That man is nice, he gave us some meat. He told us "Let's go to sleep now, and in the morning you can all go home". 
-\so Jill Nganjmirra
-\xv "Kakkak, kamak kare kokok kukadjeh kabinan doctor?” 
-\xn "Kakkak kamarlang karrokan kokok kukadjeh kabikurdudme marrkidjbu?"
-\xe “Kakkak, is it okay if older brother goes into town to see the doctor?”
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 56-59
-\pdv kk
-\pde mak
-\nt DK: The original entry was [lx] kamarlang. [pde] ka-mak. 
-\dt 19/Jul/2005
-\dm Jun/2020
-
-\lx mulbbuy
-\pr kun-
-\lc kun-mulbbuy
-\ps n.
-\re meat
-\de Meat.
-\xv Kabirrimulbbuyyakwan.
-\xn Kabirrikanjngun.
-\xe They are eating meat.
-\xv Nawu nangomi yul nakka namarlang, nganweybom kunmulbbuy. 
-\xn Nawu nakudji bininj nakka namak, nganwong kunkanj. 
-\xe That man is nice, he gave me some meat. 
-\so Jill Nganjmirra
-\pdv kk
-\pde kunkanj
-\dt 19/Jul/2005
-\dm Jun/2020
-
-\lx marrwardda
-\pr kun-
-\ps n.
-\re hair
-\de Hair.
-\xv Ngahli kardukardu manbu ngalengarre kunmarrwardda kawarrhbonghme, kunubewu kangarrkme. 
-\xn Ngahli daluk manbu ngalengarre kungabek kawarrawarrhme, kunubewu karrowen. 
-\xe That woman's hair is falling out, she might be dying. 
-\so Jill Nganjmirra
-\xv Manbu kunwok kunkurrng ngarriyime kunburndih makka minj kunngabek, dja makka ngarriyime kunkurlah, dja manbu kunngabek kunkurrng ngarriyime kunmarrwardda. 
-\xe The mother-in-law langauge word ‘kunburndih’ doesn’t mean hair, it means skin. The mother-in-law language word for hair is ‘kunmarrwardda’. 
-\so Jill Nganjmirra
-\pdv kk
-\sd body_part
-\nt Dictonary file has kunburndih with [pde] kun-marre, but Jill says that this means skin in Kunbalak, not hair. Steve/Andrew’s Kunbalak book also has kunmarrwardda with the same spelling meaning hair. 
-\id JNg
-\id DK
-\dt 19/Mar/2018
-\dm Jun/2020
-
-\lx melworn
-\pr kun-
-\lc kun-melworn
-\ps n.
-\re place
-\re country
-\re home
-\re nest
-\de Place, country, home, nest.
-\xv Kaluk milbabba ngurridokan bu ngurriwarnduyhme kore kumelworn.
-\xn Kaluk malaywi ngurrire bu ngurridurndeng kore kured. 
-\xe In the morning you can all go back home. 
-\so Jill Nganjmirra
-\pdv kk
-\pde kunbolk, kunred, kured
-\dt 19/Jul/2005
-\dm 14/Sep/2018
-
-\lx milbabba
-\ps adv.
-\re tomorrow
-\de Tomorrow.
-\xv Kayakura, djalarayambahminj. Kaluk milbabba kanedokan.
-\pde Larrk, dungwarreminj. Kaluk malaywi kanere.
-\xe No, it's too late. Let's go tomorrow, the three of us.
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 60-63
-\pdv kk
-\pde malayi
-\dt 19/Jul/2005
-\dm Jun/2020
-
-\lx modme
-\ps v.t.
-\re get
-\re receive
-\de Get, receive.
-\xv Karridokan karrimodme manworrh ba karriyakwan. 
-\xn Kab karrire karrimang manme ba karringun. 
-\xe Let's go and get some food to eat. 
-\so Jill Nganjmirra
-\pdv kk
-\pde mang
-\dt 19/Jul/2005
-\dm Jun/2020
-
-\lx morndi
-\ps v.i.
-\re sit
-\re sleep
-\re lie
-\re be 
-\re camp
-\de Sit, sleep, lie, be, camp.
-\xv Karridjaldokan, kaluk karrimorndi Kumardderr.
-\xn Karridjalre, kaluk karriyo Kumardderr.
-\xe Let's just keep going, then camp at Kumardderr.
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 48-51
-\pdv kk
-\pde yo, ni
-\dt 19/Jul/2005
-\dm Jun/2020
-
-\lx muna
-\ps adj.
-\re dark
-\re at night
-\de Dark, in the dark, at night.
-\xv Bendarr nawu nungan kadjarrbelme muna bu kawayalhbonghme.  
-\xn Dird nawu nungan kadi kukak bu kawolkan. 
-\xe The moon is there at night and gives light. 
-\so Jill Nganjmirra
-\pdv kk
-\pde kumunun
-\nt DK: Andrew’s Kunbalak book has “muna  - dark, night time” as kk for “kumunun”. 
-\id DK
-\id JNg
-\dt 23/Aug/2018
-\dm Jun/2020
-
-\lx ngaldjangarraburneburne
-\ps n.
-\re file snake
-\re fi:Acrochordus_arafurae
-\de File Snake.
-\sc fi:Acrochordus_arafurae
-\xv Ngaldjangarraburneburne ngalbu ngarrimodme kore kudjurlkkin, ngalmarlang bu ngarriyakwan. 
-\xn Kedjebe ngalbu ngarrimang kore kukku, ngalmak bu ngarringun. 
-\xe We catch file snakes in the water, they're good to eat. 
-\so Jill Nganjmirra
-\pdv kk
-\pde kedjebe, bekka
-\sd reptile/amphibian
-\nt DK: Jill would say ‘ngaldjangarraburneburne’, with a flapped 'r' and retroflexes. Regular Kunwinjku would be ngaldangkerkkerlk/ngalkerlkkerlk. Andrew's Kunbalak book also uses a flapped ‘r’, e.g. dangmarrmey = djangarramarrhmimodmeng. Jill says the [sy] ngaldjangarakerlkkerlk in the dictionary file is mixing Kunwinjku and Kunbalak together, though Etherington/Manakgu Kunbalak book has "ngalkerlkkerlk" as the Kunbalak version of kedjebe.
-\dt 19/Jul/2005
-\dm Jun/2020
-
-\lx warnduyhme
-\ps v.i.
-\re return
-\re go back
-\de Go back, return.
-\xv Kolkkol karrimorndi kaluk milbabba ngurridokan bu ngurriwarnduyhme kore kumelworn.
-\xn Bolkkime karriyo kaluk malaywi ngurrire bu ngurridurndeng kore kured. 
-\xe Let's go to sleep now, and in the morning you can all go back home. 
-\so Jill Nganjmirra
-\pdv kk
-\pde -durndeng
-\nt DK: Jill would use the spelling 'kolkkol', rather than 'kolhkol'. Manakgu Kunbalak book also spells it this way.
-\dt 19/Jul/2005
-\dm 14/Sep/2018
-
-\lx worrbayhme
-\ps v.i.
-\re appear
-\re come out
-\re arrive
-\de Appear, come out, arrive.
-\xv Yimankek baldjaralayibbonghmeng dja birriworrbayhmeng.
-\xn Yimankek balhdungyibmi dja birribebmeng.
-\xe It was just about sunset when they arrived.
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 48-51
-\pdv kk
-\pde bebme
-\dt 19/Jul/2005
-\dm 14/Sep/2018
-
-\lx worrh
-\pr man-
-\lc man-worrh
-\ps n.
-\re food
-\de Food.
-\xv Karridokan karrimodme manworrh ba karriyakwan. Dja kunwulhwul karrimorndanj bu kunmarrawul. 
-\xn Kab karrire karrimang manme ba karringun. Dja kunkuyeng ngarriyerrkang bu kunmarrwe. 
-\xe Let's go and get some food to eat. We've been sitting here hungry for ages. 
-\so Jill Nganjmirra
-\pdv kk
-\pde manme
-\dt 19/Jul/2005
-\dm Jun/2020
-
-\lx wuybbin
-\pr man-
-\ps n.
-\re honey
-\de Honey, sugar bag (generic).
-\xv Ngarrokan ngamodme karramalk nawu manwuybbinkenh.
-\xn Ngare ngamang karramalk nawu mankungkenh.
-\xe I'll go and get a stone axe for getting bush honey.
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 12-15
-\xv Kunbalak ngarridakkodjwarlhke manwuybbin, nawu namanjmarlang bu ngarriyakwan dja ngarridjurlkkinmarlangweybun bu ngarridjurlkkinyakwan. Mak nawirihwiribbu manwuybbin nawu namarlang ngarriyakwan. 
-\xn Kunwinjku ngarringeybun mankung, nawu namanjmakkayken bu ngarringun dja ngarribomarnbun bu ngarribongun. Mak nabubuyika mankung nawu namanjmak.
-\xe In Kunbalak we say "manwuybbin" (and in Kunwinjku we say 'mankung') [bush honey]. It's good to eat and make into drinks. There are lots of different bush honey types that are very tasty.
-\so Jill Nganjmirra 
-\pdv kk
-\pde man-kung
-\nt DK: Original entry was [lx] wuybbinj, but Jill would say this 'manwuybbin', no "j". Etherington/Manakgu also spell it this way. 
-\dt 19/Jul/2005
-\dm Jun/2020
-
-\lx yakwan
-\ps v.t.
-\re eat
-\de Eat.
-\xv Karridokan karrimodme manworrh ba karriyakwan. 
-\xn Kab karrire karrimang manme ba karringun. 
-\xe Let's go and get some food to eat. 
-\so Jill Nganjmirra
-\xv Marndi yiyakwan la nanjeknjek.
-\xn Yun yingun la nadjamun.
-\xe Don't eat that, it's taboo/sacred.
-\pdv kk
-\pde ngun
-\dt 06/May/2006
-\dm Jun/2020
-
-\lx yambah
-\lc + noun class PRON.yambah
-\ps adj.
-\re bad
-\de Bad, no good.
-\xv Nahni nayambah minj karriyakwan nawu korrngelk, dja nanjdjarrminj, dja karriwarlhke.
-\xn Nahni nawarre, minj karringun nawu djenj, dja nudminj, dja karriburriwe.
-\xe It's gone bad, we can't eat that fish - it's gone rotten, let's throw it away.
-\so Jill Nganjmirra   
-\xv Kayakura, djalarayambahminj. Kaluk milbabba kanedokan.
-\pde Larrk, dungwarreminj. Kaluk malaywi kanere.
-\xe No. It's too late today. Tomorrow we will go, the three of us.
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 60-63
-\pdv kk
-\pde -warre
-\dt 19/Jul/2005
-\dm Jun/2020
-
-\lx yul
-\va yol
-\ps n.
-\re man
-\re person
-\re Aboriginal person
-\de Man, people, Aboriginal people.
-\xv Nawu nangomi yul nakka namarlang, nganweybom kunmulbbuy. 
-\xn Nawu nakudji bininj nakka namak, nganwong kunkanj. 
-\xe That man is nice, he gave me some meat. 
-\so Jill Nganjmirra
-\xv Yulyul bulalh benedokang korrngelk.
-\xn Bininj bokenh benewam djenj.
-\xe Two men went fishing. 
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 64-67
-\pdv kk
-\pde bininj
-\nt DK: Jill says this is 'yul', rather than 'yol'. Andrew's Kunbalak book has the same thing. 
-\dt 19/Jul/2005
-\dm Jun/2020
-
-\lx barranj
-\pr kun-
-\re stomach
-\re belly
-\re intestines
-\de Stomach, belly, intestines. 
-\sy barranjno
-\xv Ngalngarelyi kunbarranj.
-\xn Ngalmangeyi kunnjam.
-\xe Long-necked turtle intestines. 
-\so Jill Nganjmirra
-\pdv kk
-\pde kunnjam
-\nt DK: Jill suggested "barranjno" as the 'short way' to say this, rather than a dialect difference. Maybe in Kunbalak, it's more common to use 'foreign sounding' words in general as part of the register. Manakgu/Etherington Kunbalak book just uses 'kunnjam' in the Kunbalak sections, but Jill says 'kunbarranj' is the proper old word. 
-\id DK, JNg
-\dt Jul/2020
-
-\lx borrkkidjbonghme
-\ps v.i.
-\re dance
-\de Dance.
-\sy dirridjarrbelme
-\xv Ngad ngarrbenkurdudmi yul dja kardukardu birriborrkkidjbonghmi, nawu birrimdokang kakbibeh.
-\xn Ngad ngarrbennani bininj dja daluk birriborrkeyi, nawu birrimwam kakbibeh.  
-\xe We saw the men and women dancing, those who had come down from the north. 
-\so Jill Nganjmirra
-\pdv kk
-\pde borrkke
-\nt DK: Jill confirms [sy], changed from 'dirridjalbelme' to 'dirridjarrbelme'. 
-\dt 11/Jun/2006
-\dm Jul/2020
-
-\lx djaluy
-\ps v.t.
-\re want
-\re desire
-\re like
-\re love
-\de Desire, want, like, love.
-\xv Milbabba nawu yul kadjaluy karrokan kalko karombehme. 
-\xn Malaywi nawu bininj kadjare kare mayh kayawan. 
-\xe Tomorrow the man wants to go hunting. 
-\so Jill Nganjmirra
-\xn Bimarnedjaluyni kunkorrongko duninjh.
-\xn Bimarnedjareni kunkimuk duninjh.
-\xe He loved him very much.
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 56-59
-\xv Bu kandiweybuyi ngarridjaluyi.
-\xn Bu kandiwoyi ngarridjaremeninj.
-\xe If you could possibly give it to us we would like that.
-\pdv kk
-\pde djare
-\nt DK: Jill says this should be 'djaluy' rather than 'djaloy', and the Manakgu/Etherington Kunbalak book spells it this way as well. Perhaps this is a [va] or [ur] though. 
-\dt 11/Jun/2006
-\dm Jul/2020
-
-\lx kaba
-\pr kun-
-\ps n.
-\re dirt
-\re soil
-\re earth
-\de Dirt, soil, earth.
-\xv Bu kabirriyakuramen wanjh ngarrbenmornname kunkaba bu ngarrbenkamukke. 
-\xn Bu kabirriyakmen wanjh ngarrbenkurrme kore kunkurlk bu ngarrbendudjeng.  
-\xe When people pass away, we put them in the ground and bury them.
-\so Jill Nganjmirra
-\pdv kk
-\pde kunkurlk, kurorre
-\uv W
-\ur I,E= kunkabuy
-\nt DK: Jill says 'kunkaba', and this is the spelling used in the Manakgu/Etherington Kunbalak book as well. Jill says the existing 'kunkabuy' entry must be 'Kune'. Jill's full sentence was [xv] Ngarridakalhme kunkaba bu yiman kabirriyakuramen wanjh ngarrbenmornname kunkaba bu ngarrbenkamukke. [xn] Ngarringeybun kunkurlk bu yiman kabirriyakmen wanjh ngarrbenkurrme kore kunkurlk bu ngarrbendudjeng.  
-\dt Jul/2020
-
-\lx kalngunj
-\pr kun-
-\ps n.
-\re eye
-\de Eye.
-\xv Kunkalngunj karrikorrongko karriwalebbonghme, yiman ngad yul, kalko dja korrngelk. Kunkalngunj bu karrikurdudme nawu njalehnjaleh. 
-\xn Kunmim karriwern karrikarrme, ngad bininj, mayh dja djenj. Kunmim bu karrinan nawu njalehnjaleh. 
-\xe Lots of things have eyes - for example us people, animals and fish. Eyes are what we use to see things. 
-\so Jill Nganjmirra
-\pdv kk
-\pde kunmim
-\sd body_part
-\nt DK: Jill and Andrew both spell this with 'nj' at the end, it's also spelled that way elsewhere in the master file e.g. in [lx] kalngunjkorrongko.
-\dt 19/Jul/2005
-\dm Jul/2020
-
-\lx kalngunj
-\pr man-
-\ps n.
-\re seed
-\re bullet
-\de Seed, bullet.
-\xv Manworrh manbu kawalebbonghme mankalngunj. Mak djarlubbu manbu mankalngunj ngarridakalhme. 
-\xn Manme manbu kakarrme manmim. Mak mako manmim ngarringeybun.
-\xe Fruits and vegetables have seeds. We also call bullets in a gun the same thing. 
-\so Jill Nganjmirra
-\pdv kk
-\pde manmim
-\sd plant
-\nt DK: Jill and Andrew both spell this with 'nj' at the end, it's also spelled that way elsewhere in the master file e.g. in [lx] kalngunjkorrongko. Alternative phrasing from Jill was [xn] Manbu manmim kakarrme kore manme manbu kakarrme manmim dorrengh. 
-\dt 19/Jul/2005
-\dm Jul/2020
-
-\lx kalngunj
-\ps n.
-\re breathing hole
-\de Breathing holes of long-necked turtles, crabs etc. During the dry season long-necked turtles can be found buried beneath the mud of floodplains, obtaining oxygen through these holes. 
-\xv Yika mak kalngunj ngarridakalhme bu ngarrikurdudme yiman nganjdjakdjarlarrk dja ngalngarelyi kakalngunjdjarrbelke. 
-\xn Yika mak mim ngarriyime bu ngarrinan yiman kayime kinga dja ngalmangeyi kamimname. 
-\xe We also use the word 'mim' to describe the breathing holes we see crocodiles and long-necked turtles make [similar words 'kunmim' and 'manmim' mean 'eye' and 'seed' respectively].  
-\so Jill Nganjmirra
-\pdv kk
-\pde mim
-\nt DK: Jill says 'kakalngunjmornname' would be another way to say 'kakalngunjdjarrbelke'.
-\id DK
-\dt Jul/2020
-
-\lx kamukke
-\ps v.t.
-\sn 1
-\re bury
-\de Bury, cover in dirt 
-\xv Bu kabirriyakuramen wanjh ngarrbenmornname kunkaba bu ngarrbenkamukke. 
-\xn Bu kabirriyakmen wanjh ngarrbenkurrme kore kunkurlk bu ngarrbendudjeng.  
-\xe When people pass away, we put them in the ground and bury them.
-\so Jill Nganjmirra
-\pdv kk
-\pde dudjeng
-\sn 2
-\re extinguish
-\de Extinguish.
-\pdv kk
-\pde dombun
-\nt DK: Manakgu/Etherington Kunbalak book has 'kamukmeng', which sounds like a possible intransitive variant, but I wasn't able to elicit any example from Jill and she concluded it wasn't a word, which may be true. Jill's full sentence was [xv] Ngarridakalhme kunkaba bu yiman kabirriyakuramen wanjh ngarrbenmornname kunkaba bu ngarrbenkamukke. [xn] Ngarringeybun kunkurlk bu yiman kabirriyakmen wanjh ngarrbenkurrme kore kunkurlk bu ngarrbendudjeng.
-\dt 06/May/2006
-\dm Jul/2020
-
-\lx karrngno
-\pr ngal-
-\ng plural is 'ngalkakarrngno'
-\re mother
-\de Mother. 
-\xv Ngalkakarrngno bindimarnedakalhmeng yayam bedberre "Ngurridoka ngurridirridjarrbelme kore kuyirrbbi". 
-\xn Ngalbabadjan bindimarneyimeng wurdurd bedberre "Ngurriray ngurridirri kore kurobbe". 
-\xe The mothers told their children "Go and play out in the open". 
-\so Jill Nganjmirra
-\pdv kk
-\pde ngalbadjan
-\nt DK: Manakgu/Etherington Kunbalak book also lists this word. 
-\id JNg
-\id DK
-\dt Jul/2020
-
-\lx konjkonj kunkundam
-\ps n.
-\re fishing line
-\de Fishing line.
-\xv Nahni ngarridakkodjwarlhke konjkonj kunkundam nawu korrngelk ngarrimodme. 
-\xn Nahni ngarringeybun wakkidj nawu djenj ngarrimang.
-\xe We call this a fishing line, the thing we use to catch fish.
-\so Jill Nganjmirra
-\pdv kk
-\pde wakkidj
-\cf kunyirrurl
-\nt DK: Jill explained that this name comes from the fact that "balanda (konjkonj) birrimarnbom".
-\id JNg
-\id DK
-\dt Jul/2020
-
-\lx korrongko
-\ps adj., adv.
-\sn 1
-\re big
-\de Big.
-\xv Kunyurryurrkorrongkoni kore morndi.
-\xn Kunrurrkkimukni kore di.
-\xe It was a big cave that he was in. 
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 12-15
-\pdv kk
-\pde kimuk
-\sn 2
-\re many
-\re lots
-\de Many, lots.
-\xv Ngurrikorrongko.
-\xn Ngurriwern.
-\xe There are many of you.
-\pdv kk
-\pde wern
-sn 3
-\re very much
-\re a lot
-\xn Bimarnedjaluyni kunkorrongko duninjh.
-\xn Bimarnedjareni kunkimuk duninjh.
-\xe He loved him very much.
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 56-59
-\pdv kk
-\pde kimuk
-\dt 20/Mar/2007
-\dm Jul/2020
-
-\lx kundam
-\pr kun-
-\ps n.
-\sn 1
-\re hand
-\de Hand.
-\xv Ngarridakalhme kunkundam manbu karriwalebbonghme dja karrimodme nawu njalehnjaleh. Mak kunkundambulalh ngarriweyburren nawu ngarrbenmarnedakalhme nakurrng, ngalkurrng nabinjdoy dja ngalbinjdoy ngadberre. Dja mak kunkundamwi ngarrimarnedakalhmerren kore njale nawu ngarridurruddung dja ngarridakalhme "Nahni kahdokan" yika ngarridakalhme nahni kahmorndi mak kadjarrbelme. 
-\xn Ngarriyime kunbid manbu karrikarrme dja karrimang nawu njalehnjaleh. Mak kunbidbokenh ngarriworren nawu ngarrbenmarneyime nakurrng, ngalkurrng nabinjdoy dja ngalbinjdoy ngadberre. Dja mak kunbidbewi ngarrimarneyimerren kore njale nawu ngarriwidjung dja ngarrimulewan bu ngarriyime "Nahni kahre" yika ngarriyime nahni kahni, mak kahdi.
-\xe 'Hand' is what we say for what we use to hold and grab things. We use two hands when we give things to our mother-in-law [or other people in a 'mother-in-law' relationship, such as a son-in-law or mother-in-law's brothers]. We also use hand signs to point to things or communicate things to each other, like saying 'He's going', or saying that someone or something is here. 
-\so Jill Nganjmirra
-\sn 2 
-\re finger
-\de Finger.
-\pdv kk
-\pde kunbid.
-\sd body_part
-\dt 19/Jul/2005
-\dm Jul/2020
-
-\lx mardorrh
-\pr kun-
-\lc kun-mardorrh
-\ps n.
-\re ear
-\de Ears.
-\xv Karrikorrongko karriwalebbonghme kunmardorrh, ngad yul, kalko dja korrngelk. 
-\xn Karriwern karrikarrme kunkanem, ngad bininj, mayh, mayhmayh dja djenj. 
-\xe Lots of us have ears - us people, animals and fish.
-\so Jill Nganjmirra
-\pdv kk
-\pde kunkanem
-\sd body_part
-\sn 2
-\re sensibility
-\de Sensibility, sense of decency, faculty of understanding, cognition, mind.
-\xv Nawu nabininjkobeng bimamammodmi ngalbininjkobeng nuye. Wanjh ngalkahbonj dakalhmeng  "Yuwn yimamammodme dja kunmardorrh. Wardi nabirdidji kabibonghme."
-\xn Nawu nabininjkobeng bikukmamangi ngalbininjkobeng nuye. Wanjh ngalkohbanj yimeng "Yuwn yikukmamang dja kunbeng. Wardi narangem kabibun". 
-\xe The husband was swearing at his wife. The old woman said "Don't swear at her, her brother might get offended and hit her" 
-\so Jill Nganjmirra
-\pdv kk
-\pde kunbeng
-\nt DK: Jill would spell this "mardorrh". Kundjeyhmi dictionary has "kunmardorrhyambah" for "bengwarr"/"kanemdubbe". Etherington/Manakgu Kunbalak book has "kunmarddorr" for kunkanem, and "mardorrh" for "beng", but presumably this is the same word. Jill confirms that 'kunbeng' is another meaning of 'kunmardorrh'. I'm not sure if the above example about swearing needs some 'cultural translation'. I think most balanda would expect the brother to hit the husband instead. Jill glossed 'kunbeng' here as 'minj kadjare brother one hear those words. "I don't want to hear that"'.
-\dt 19/Jul/2005
-\dm Jul/2020
-
-\lx mornname
-\ps v.t.
-\re put
-\de Put.
-\xv Yimornnamen manworrh nuye.
-\xn Yikurrmen manme nuye. 
-\xe Put some food there for him.
-\so Jill Nganjmirra
-\xn Benemaddaddalmornnameng benewangakkang benehbonghmeng manbu mankarremudyi.
-\xn Benemadjkurrmeng beneyerrkang benebuni manbu karrbarrda.
-\xe Then they put their things down, sat down and dug up the yams.
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 16-19
-\pdv kk
-\pde kurrme
-\cf djarrbelke
-\nt DK: Manakgu/Etherington Kunbalak book alternately spells this 'mornname' and 'morname', but considering it's probably connected to [lx] morndi, mornname makes more sense to me. Jill would also use double n, and says djarrbelke means something similar. 
-\id JNg, DK
-\dt 23/Aug/2018
-\dm Jul/2020
-
-\lx ngarrkme
-\ps v.i.
-\sn 1
-\re feel pain
-\re ache
-\de Feel pain or ache.
-\xv Baleh yingarrkme?
-\xn Baleh yibabang / Baleh yihdowen?
-\xe Where does it hurt?
-\so Jill Nganjmirra
-\pdv kk
-\pde dowen, babang
-\sn 2
-\re die
-\de Die.
-\xv Bonj, yakuraminj. Wanjh benengarrkmeng.
-\xn Bonj, yakminj. Wanjh benedoweng.
-\xe That's the end of the story. They were dead. 
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 36-39
-\pdv kk
-\pde dowen
-\uv W
-\ur I,E= ngayirrihme
-\nt DK: The master dictionary file has ngayirrihme/ngarirrihme for the Kunbalak version of 'dowen'. Jill doesn't recognise this, but says maybe people in the east use this word. 
-\dt 06/May/2006
-\dm Jul/2020
-
-\lx njeknjek
-\ps adj.
-\re forbidden
-\re restricted
-\re taboo
-\de Sacred, restricted, secret, set apart.
-\xv Yun yiyakwan nanjeknjek.
-\xn Yun yingun nadjamun.
-\xe Don't eat that, it's taboo. 
-\xv Nahni nawu kalko nanjeknjek, minj nangale kayakwan. 
-\xn Nahni nawu mayh nadjamun, minj nangale kangun. 
-\xe That animal is sacred, no-one eats it. 
-\so Jill Nganjmirra
-\pdv kk
-\pde djamun
-\uv I,W
-\ur Kdj= djenguk
-\nt DK: Jill has said before that she thinks "mayh djenguk" is regular Kunwinjku, not Kunbalak. But maybe this is a dialect difference. 
-\dt 06/May/2006
-\dm Jul/2020
-
-\lx warnwonghme
-\ps v.t.
-\re hide
-\de Hide.
-\xv Benebulalh yul yimankek benebonghmeninj nawu yayam, dja bonjdjekkulkulmeng kore kudjarnud warnwonghmerrinj.
-\xn Benebokenh bininj yimankek benebuyinj nawu wurdyaw dja kelerlobmeng kore kurralk warlkarrinj.
-\xe Two men tried to hit a child, but the child ran away in fright into the long grass and hid himself.
-\so Jill Nganjmirra
-\pdv kk
-\pde warlkkan
-\nt DK: I can't find a Kunbalak version of 'warlkkan' listed anywhere else, but this is what Jill says.
-\dt Jul/2020
-
-\lx yakidjbonghme
-\ps v.t.
-\re spear
-\de Spear something. 
-\xv Yakidjbonghmeng kalko.
-\xn Yameng mayh.
-\xe He speared the animal. 
-\so Jill Nganjmirra
-\xv Dokang kurdudmeng morlarrinj, yakidjbonghmeng.
-\xn Wam nang kunj, yameng.
-\xe He went along and saw a kangaroo, and speared it.
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 12-15
-\pdv kk
-\pde yame, danjbun
-\nt DK: Double check Jill sp. yakidj/yakird. Also yakirdme [sy]?
-\id JNg
-\id DK
-\dt Jul/2020
-
-\lx yakuramen
-\va yakoramen
-\ps v.i.
-\sn 1
-\re run out
-\re be finished
-\re become depleted
-\de Become depleted, run out, be finished. 
-\xv Bonj, yakuraminj. 
-\xn Bonj, yakminj.
-\xe The end [of the story].
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 36-39
-\sn 1
-\re die
-\re pass away
-\de Die, pass away.
-\xv Bu kabirriyakuramen wanjh ngarrbenmornname kunkaba bu ngarrbenkamukke. 
-\xn Bu kabirriyakmen wanjh ngarrbenkurrme kore kunkurlk bu ngarrbendudjeng.  
-\xe When people pass away, we put them in the ground and bury them.
-\so Jill Nganjmirra
-\pdv kk
-\pde yakmen
-\nt DK: Jill notes she would spell this 'yakura'. "Yakuraminj, minj yakoraminj". "Maybe koyek-koyek kabirriyime yakora." Manakgu/Etherington Kunbalak book also spells it this way. 
-\dt 19/Jul/2005
-\dm Jul/2020
-
-\lx yirrbbi
-\pr ku-
-\ps n.
-\sn 1
-\re open area
-\re clearing
-\de Open area, clearing, field.
-\xv Ngalkakarrngno bindimarnedakalhmeng yayam bedberre "Ngurridoka ngurridirridjarrbelme kore kuyirrbbi". 
-\xn Ngalbabadjan bindimarneyimeng wurdurd bedberre "Ngurriray ngurridirri kore kurobbe". 
-\xe The mothers told their children "Go and play out in the open". 
-\so Jill Nganjmirra
-\sn 2
-\re in public
-\de In public.
-\pdv kk
-\pde kurobbe
-\id DK, JNg
-\dt Jul/2020
-
-\lx yurryurr
-\pr kun-
-\re house
-\re cave
-\re shelter
-\de House, cave, shelter.
-\xv Kunyurryurrkorrongkoni.
-\xn Kunrurrkkimukni. 
-\xe It was a big cave.
-\so Manakgu, Andrew, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 12-13
-\xv Kabirriyurryurrngolngolke. 
-\xn Kabirrirurrkwolngwon.
-\xe They ritually smoke the house.
-\so Jill Nganjmirra
-\pdv kk
-\pde kunrurrk
-\dt 28/Oct/2018
 
