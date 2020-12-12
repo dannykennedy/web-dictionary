@@ -3735,7 +3735,6 @@ the plateau which is dominated more by open savanna forest.
 \so Jill Nganjmirra 
 \xv Benbenekuybibulalhmeng, benbenekuybimornnameng, dja manbokarddji balmodmey nuye kumelworn worrbayhmeng. 
 \xn Benbenekukrawong, benbenekukkurrmeng dja mankole balmey nuye kured bebmeng.
-\xe He put their bodies together, just left them there dead, took his spear and then turned up at the camp.
 \xe He put their [dead] bodies together, took his spear and then turned up back at the camp.
 \so Nabulanj Namandjulngunj, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 36-39
 \pdv kk
@@ -10602,7 +10601,7 @@ bininj kabarridi kure kukebrok.
 \re tobacco
 \de Tobacco.
 \xv Ngalkahbonj dakalhmeng "Kandiweybu kundjule ba ngamimmallawme". 
-\xv Ngalkohbanj yimeng "Kandiwo bakki ba ngawungme". 
+\xn Ngalkohbanj yimeng "Kandiwo bakki ba ngawungme". 
 \xe The old woman said "Give me some tobacco to smoke". 
 \so Jill Nganjmirra
 \pdv kk
@@ -11337,7 +11336,7 @@ mandulkbalabala, kabirrikadjedme rowk.
 \re old woman
 \de Old woman. 
 \xv Ngalkahbonj dakalhmeng "Kandiweybu kundjule ba ngamimmallawme". 
-\xv Ngalkohbanj yimeng "Kandiwo bakki ba ngawungme". 
+\xn Ngalkohbanj yimeng "Kandiwo bakki ba ngawungme". 
 \xe The old woman said "Give me some tobacco to smoke". 
 \so Jill Nganjmirra
 \pdv kk
@@ -15214,6 +15213,7 @@ the doctor?”
 \lx kulkulme
 \va kurlkurlme
 \ps v.i.
+\re run
 \de Run.
 \xv Yayam bulalh benebonjdjekkulkulmeng.
 \xn Wurdwurd bokenh benekelerlobmeng.
@@ -16604,7 +16604,7 @@ purposes. Also once used for circumcision ceremonies.
 \re hit
 \de Hit one object against another, crash against something.
 \xv Benebulalh yayam benebonghmerrinj. Nangomi modmeng kunbangam. Wanjh bilorlmeng  nawiribbu kore kubambara nuye wanjh kurradjdokang.  
-\xv Benebokenh wurdurd beneburrinj. Nakudji mey kunwardde, wanjh bidoy nabuyika kore kukodj nuye wanjh kurbawam. 
+\xn Benebokenh wurdurd beneburrinj. Nakudji mey kunwardde, wanjh bidoy nabuyika kore kukodj nuye wanjh kurbawam. 
 \xe Two children were fighting. One got a rock and hit the other on the head, and he started bleeding. 
 \so Jill Nganjmirra 
 \sn 2
@@ -21315,11 +21315,11 @@ Also <b>yawkyawk</b>.
 \de Saltwater Crocodile.
 \sc Crocodilus porosus
 \xv Mandjurlkkinkorrongko kahdokan minj ngurringarlabme wardi nganjdjakdjarlarrk ngunlawme ngudberre. 
-\xv Mankabokimuk kare minj ngurridjuhme wardi kinga ngunbaye ngudberre.
+\xn Mankabokimuk kare minj ngurridjuhme wardi kinga ngunbaye ngudberre.
 \xe Don't swim where big rivers are flowing, otherwise a crocodile might bite you. 
 \so Jill Nganjmirra
 \xv Nganjdjakdjarlarrk marndi kanlawme.
-\pde Namanjwarre wardi kanbaye.
+\xn Namanjwarre wardi kanbaye.
 \xe A crocodile might bite us [if we're not careful, etc]. 
 \pdv kk
 \pde namanjwarre
@@ -23333,7 +23333,7 @@ Dja mak kunwok bedberre wanjh birrirayekwoni minj nangale mak bakkemeninj bedber
 \xe Two women went looking for long-necked turtles. 
 \so Jill Nganjmirra
 \xv Kunbonj Nawakadj ruhmeng milbabbani, rombehmeng manberrk morlarrinj.
-\xv Kunkare Nawakadj dolkkang malamalaywi yawani manberrk kunj.
+\xn Kunkare Nawakadj dolkkang malamalaywi yawani manberrk kunj.
 \xe One day long ago, Nawakadj got up in the morning and went off in the bush looking for kangaroos.
 \so Nabulanj Namandjulngunj, ‘Kunbalak : stories for Kunwinjku young people in Mother-in-law language, ordinary Kunwinjku and English’, Kunwinjku Language Centre, Gunbalanya, 1996, pp. 60-63
 \pdv kk
@@ -24859,7 +24859,7 @@ matri-moiety. Equivalent to <b>ngarridj</b> in the eastern system.
 \re give
 \de Give.
 \xv Ngalkahbonj dakalhmeng "Kandiweybu kundjule ba ngamimmallawme". 
-\xv Ngalkohbanj yimeng "Kandiwo bakki ba ngawungme". 
+\xn Ngalkohbanj yimeng "Kandiwo bakki ba ngawungme". 
 \xe The old woman said "Give me some tobacco to smoke". 
 \so Jill Nganjmirra
 \pdv kk
