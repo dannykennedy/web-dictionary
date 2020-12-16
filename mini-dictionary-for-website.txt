@@ -25338,10 +25338,9 @@ Ngarrbek.
 \sn 1
 \re be in charge
 \de Be responsible or in charge.
-\xv Ngandimarneyimeng kunred manih nguddangke bu yiman baleh ngarridowen wanjh
-nguddangke kunred yiworhnan.
+\xv Ngandimarneyimeng kunred manih nguddangke bu yiman baleh ngarridowen wanjh nguddangke kunred yiworhnan.
 \xe They said to me that this place belongs to me and that "if we should die, then you have to look after this place."
-\sn 1
+\sn 2
 \re be awake
 \de Be awake, watchful observant, conscious.
 \xv Bulanj yiworhnan?
